@@ -1,0 +1,21 @@
+Course Overview
+
+Course Description
+This course provides an introduction to human-computer interaction and the design process.
+Students will learn methods and skills for designing and prototyping interactive systems.
+The course covers a design process from the initial formulation of a design problem to creation of digital prototypes.
+Importantly, the course does not emphasize development but instead fully focuses on design.
+The course structure is a mix of lectures, hands-on activities, and design critiques by peers and course staff.
+The course is overwhelmingly organized around a group project, in which students:
+Ideate and Propose Design Problems
+Study Existing Practices and Challenges
+Explore Potential Design Opportunities and Tradeoffs
+Evaluate and Iterate Upon a Design
+Communicate a Problem and Resulting Design
+
+Learning Objectives
+Process-Focused Perspective on Interaction Design
+Design Research Methods and Skills
+Task-Focused Scenario Development, Sketching, and Storyboarding
+Rapid Prototyping and Iteration
+Critical Perspective on Design Solutions

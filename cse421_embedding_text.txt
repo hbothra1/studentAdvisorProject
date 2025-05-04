@@ -1,0 +1,10 @@
+CSE 421: Introduction to Algorithms, Autumn 2024
+
+Course Goals
+Model word problems as computational problems.
+Determine an appropriate algorithm design paradigm for a new problem.
+Design an algorithm using a variety of algorithm-design paradigms (including greedy algorithms, divide and conquer, dynamic programming, flow modeling, and others).
+Prove that your algorithm produces the correct answer.
+Reduce between a known problem and a new problem (for showing hardness or for reusing existing algorithms)
+Identify and cope with computational problems that are infeasible.
+Consider the implications of modeling decisions in the real world.

@@ -1,0 +1,113 @@
+[
+    {
+        "Quarter": "AUTUMN 2023 HCDEE 8",
+        "Courses": [
+            {
+                "Course Code": "HCDE 518",
+                "Course Name": "USER-CENTERED DESIGN",
+                "Credits": "4.0",
+                "Grade": "4.0"
+            },
+            {
+                "Course Code": "HCDE 598",
+                "Course Name": "SPECIAL TOPICS",
+                "Credits": "4.0",
+                "Grade": "4.0"
+            },
+            {
+                "Course Code": "HCID 512",
+                "Course Name": "INTERFACES LAB",
+                "Credits": "3.0",
+                "Grade": "3.9"
+            }
+        ]
+    },
+    {
+        "Quarter": "WINTER 2024 HCDEE 8",
+        "Courses": [
+            {
+                "Course Code": "HCDE 596",
+                "Course Name": "R-RESEARCH IN HCDE",
+                "Credits": "2.0",
+                "Grade": "CR"
+            },
+            {
+                "Course Code": "HCDE 501",
+                "Course Name": "THEORETICAL FNDTNS",
+                "Credits": "4.0",
+                "Grade": "3.5"
+            },
+            {
+                "Course Code": "HCDE 517",
+                "Course Name": "USABILITY STUDIES",
+                "Credits": "4.0",
+                "Grade": "4.0"
+            }
+        ]
+    },
+    {
+        "Quarter": "SPRING 2024 HCDEE 8",
+        "Courses": [
+            {
+                "Course Code": "HCDE 519",
+                "Course Name": "QUAL RES METHODS",
+                "Credits": "4.0",
+                "Grade": "3.9"
+            },
+            {
+                "Course Code": "HCDE 598",
+                "Course Name": "SPECIAL TOPICS",
+                "Credits": "4.0",
+                "Grade": "4.0"
+            },
+            {
+                "Course Code": "HCDE 598",
+                "Course Name": "SPECIAL TOPICS",
+                "Credits": "2.0",
+                "Grade": "4.0"
+            }
+        ]
+    },
+    {
+        "Quarter": "SUMMER 2024 HCDEE 8",
+        "Courses": [
+            {
+                "Course Code": "ENGR 601",
+                "Course Name": "INTERNSHIP",
+                "Credits": "10.0",
+                "Grade": "CR"
+            }
+        ]
+    },
+    {
+        "Quarter": "WINTER 2025 HCDEE 8 (Work in Progress)",
+        "Courses": [
+            {
+                "Course Code": "HCDE 521",
+                "Course Name": "SEMINAR ISSUES HCDE",
+                "Credits": "1.0",
+                "Grade": "WIP"
+            },
+            {
+                "Course Code": "HCDE 539",
+                "Course Name": "PHYS COMP & PROTO",
+                "Credits": "4.0",
+                "Grade": "WIP"
+            },
+            {
+                "Course Code": "HCDE 592",
+                "Course Name": "CAPSTONE PLANNING",
+                "Credits": "4.0",
+                "Grade": "WIP"
+            },
+            {
+                "Course Code": "HCID 590",
+                "Course Name": "DUB SEMINAR",
+                "Credits": "1.0",
+                "Grade": "WIP"
+            }
+        ],
+        "Credits Earned": null,
+        "GPA": null
+    }
+]

@@ -1,0 +1,991 @@
+CSE 451: Introduction to Operating Systems
+
+Course Overview
+Operating systems are responsible for (i) abstracting computer hardware
+into a more convenient programming interface for application developers,
+(ii) enforcing security and privacy, as well as fault isolation, between 
+different users or programs sharing the same hardware, (iii) arbitrating 
+resource usage between competing users and programs, and (iv) storing
+user data persistently so that it can be recovered even if the system
+crashes or the power goes out at an inconvenient moment.They are also among the most complex pieces of software - concurrency
+and parallelism are inherent, operating system code needs to work correctly 
+even (or especially) when applications are malicious, operating system 
+reliability is often a key limiting factor in overall system reliability, 
+and performance matters and is directly visible to users.Many other applications, such as web browsers, databases, and cloud services,
+have to tackle similar issues to operating systems; the abstractions and
+ways of thinking are broadly applicable throughout computer science.We believe the best way to learn the material is to implement
+        the ideas presented in the course, and so there is
+        a substantial programming project.Thecalendar pageprovides
+        a detailed topic list for the course, including readings, problem sets, and labs.
+        In addition, we are using Gitlab, Ed, Canvas, and Gradescope
+        for various parts of the course.Lecture and SectionsLectures are MWF at 11:30 in CSE2 G01. (Please double check 
+	all room assignments as they may change.) We have set up the class
+	for Panopto lecture capture. However, we encourage you
+	to attend lecture in person, if at all possible.Sections will largely focus on the labs and (unlike many CSE classes)
+	you will need to attend to be able to complete the assignments. 
+	Sections arenotPanopto captured - you must attend live.
+	(Let us know if you are quarantined, and we will try to 
+	work something out.)There is afinal examon Wednesday December 11 at 2:30pm.Course ResourcesTextbook (print).There is an equivalent ebook version, available as four volumes on Amazon:Volume 1Volume 2Volume 3Volume 4Ed discussion boardGradescopeProject GitlabCourse StaffTom Anderson, instructortom@cs.washington.eduNikola Bojanic, TAnik0la@cs.washington.eduEllis Haker, TAehaker1@cs.washington.eduAnirudh Kumar, TAaniruk@cs.washington.eduDara Stotland, TAdstot@cs.washington.eduThe staff mailing list iscse451-staff@cs.washington.edu, but we would prefer that you use the discussion board whenever possible, eg, by making a private post.Staff ContactThe best way to contact the staff is to make a post on Ed.
+        If your question is likely to be useful to other students, please consider making it public.
+        (You can make the post "anonymous" to hide your identity from your classmates,
+        but note that course staff can still see your identity on anonymous posts.
+        Seeanonymous feedbackat the very bottom of this page for submitting feedback
+        without revealing your identity to course staff.)
+        If your message is not relevant to other students or if it contains
+source code, make it private.
+        We prefer you send messages via Ed if at all possible, because Ed
+lets us track whether we have handled the request.
+        If you need to contact an individual staff member directly, you can use their email.AssignmentsThere are four kinds of assignments in this class, in addition to an end of term final exam.  
+All deadlines will be in gradescope.Labs.The labs are significant programming projects, to be done in
+groups of two.  We plan to allow a limited number of students to do the labs 
+individually, on an opt in basis. This is to manage TA workload, which scales
+with the number of groups, more than with the number of students.Design documents.There is one for each of labs 2, 3, and 4, prepared and submitted 
+	  	jointly with your lab partner.  These are due a week before each lab, so that we 
+          can provide timely feedback.Lab Questions.There are short answer questions on Gradescope for each of the labs, 
+	  	covering topics related to the implementation.  These are due at the same time as the lab, but 
+		submitted separately. They are to be submitted with your lab partner.Problem sets.The problem sets are focused on helping you think
+	  through the topics covered by lectures and the labs.
+	  You will have at least a week to complete each problem set. 
+	  These are to be doneindividuallyunless otherwise noted.Final exam.The final will be open note (but not open book) 
+and comprehensive over the topics covered in lecture and the labs.See the sections below for more information on each kind of
+        assignment, as well as the sections
+        ongrading,
+        thelate policy,
+        andacademic honesty.LabsThe core of the course is to extend a basic operating system kernel
+        to support protected system calls, multiprocessing, extensible paged virtual memory,
+        and a crash resilient writeable file system. 
+        The project is written in C, with a code base derived from the xv6 project
+	developed for the MIT graduate operating systems course.Labs are to be done with a partner. You may select a partner, or we
+	will assign one randomly.  You may also request to do the project by yourself,
+        but we will only grant a limited number of those requests.
+        After lab 1, each of the other labs is due every two to three weeks.The labs are autograded, and that means you will need
+        to come up with solutions that workin all cases. Except for the design document and questions,
+	the labs are (for the most part) self-grading - we give you all of the test cases we run.The best way to write code that works in all cases do this is to carefully think 
+	yourdesign before writing any code. 
+	Design before code is especially important for operating systems where the 
+	number of possible code paths is exponential in the number of processes and threads,
+	the cost of uncaught errors in production code is enormous, and it is often 
+	infeasible to catch every possible error through testing.This is verydifferent from other CSE classesyou may have taken. If you think we are just saying that and we don't really mean it,
+	please understand that it may take you as much asten times as longto 
+	complete the assignments
+	if you start writing code before you carefully think through the design with your partner.
+        Debugging typos can be laborious but is a reality we all face.
+        Debugging operating system design errors by testing isextremely time consuming.We strongly recommend youget an early start on the labs.
+        Many students underestimate the difficulty of the assignments, and leave themselves
+        too little time to finish in time. The most common comment about the labs is that
+        students wished they had gotten an earlier start.
+        See below for thelate policy.Lab Design DocumentsTo encourage you to design then code, we ask for adesign documentfor labs 2-4, worth a sizeable portion of the total value of the lab, 
+	due a week in advance of the lab due date.  The design document can be optionally revised and 
+        resubmitted with the lab for W credit (see below for details).
+	You and your partner should agree on the design documentbeforewriting any code.
+	Of course, you may find from time to time that you need to update the design, but you
+	want to try to minimize that.  You donotneed to submit an updated design
+        document with your solution, except if you are requesting W credit.The specification for the design document varies for each lab; it can be found in the xk repo along with the lab descriptions.
+	Please ensure thatyour nameandyour partner's nameare included
+        in the design doc, and that youmark in gradescopethat the submission is from
+        both of you.There are optional revisions for the design doc, described below.  These are
+	only for students seeking W credit, and have no effect on anyone's grade (other than the W credit).
+	They are to be submitted jointly with your partner, provided both of you are seeking W credit;
+	if only one person in the team is seeking W credit, they should be submitted individually.  
+	Pleasemark in gradescopewhether submitting design doc revisions singly or as a team.Lab QuestionsEach lab (including lab 1) contains a set of implementation-specific questions 
+        based on the provided code and your solution.  These are to be submitted in gradescope 
+        (there is a separate assignment for submitting the code and the answers to questions).These also ask you to provide a short post-mortem for each lab: 
+	what worked for you, and what didn't.Problem SetsFor most lecture topics (which may span one or more class meetings), 
+	we will assign a problem set specific to that topic. 
+	These are to becompleted individually.Textbook ReadingsThe textbook is intended to complement the material covered in lecture and the labs,
+        providing a more precise, complete, and in depth explanation of the course topics.
+	Students who do the assigned reading will generally save time from having fewer design 
+	errors when doing the labs.GradesThe class will be graded on an additive points system - that is, we plan to simply
+	add up all of the points on the labs, problem sets, design reviews, and exam. 
+	We anticipate that the course will have roughly 1000 points, with about half of those
+	from labs, lab design documents, and lab questions.  The other half is roughly split
+        between the problem sets and the final. That is, the final will be worth roughly 25%
+ 	of the overall grade.  If we assign fewer than 1000 available points, we will add
+	any missing points as full credit to every student.The course isnotcurved.
+        Your grade on a 4.0 scale is computed by the following formula.
+        \[
+        \min\left(
+          \left.\left\lfloor\frac{\mathrm{(points+50)}}{20}\right\rfloor \middle/ 10 - 1.0 \right.,\
+          4.0
+        \right)
+        \]
+        In other words, your grade will be computed by the following table:PointsGrade on 4.0 scale≥9504.0≥9303.9≥9103.8≥8903.7≥8703.6≥8503.5≥8303.4≥8103.3...≥7503.0...≥6902.7 (grad sat)...≥5502.0 (undergrad sat)...This grading scheme may be somewhat unfamiliar to you.
+        We will discuss it on the first day of lecture.
+        Be sure you understand it, and feel free to ask any questions about it.An important consequence the additive points-based grading scheme is
+        that there is a sense in whichevery assignment is optional.
+	If you are unable to complete some assignment, simply make sure 
+	to complete the remaining ones - we give you room to miss points
+	and still get a good grade.  For example, you can miss over 10% of the
+	available points and still earn some form of an A grade.Since you will receive the same number of points as your partner 
+	for your combined work on the labs, design documents, and lab questions, it is
+        essential during partner-matching that you communicate expectations
+        about your grade target. If you find yourself stuck in a situation
+        where your partner wants to do significantly more or less work than you
+        do, pleasecontact the staff.Most students find that they are able to complete all of the assignments to
+        a high degree of quality, but that the assignments require a decent amount of effort.
+        Students find the class time-consuming but rewarding, and so grades in this class are generally high.If you are taking the class S/NS, note that per university policy,
+        undergraduates receive S credit for any grade 2.0 or higher.
+        Thus, an undergraduate would need to earn at least 550 points to receive S credit.Late PolicyOur late policy is designed to give students maximal flexibility without having to ask us
+	for permission, while still allowing us to grade assignments and get
+	them back to students in a timely fashion.  If you have an extenuating circumstance that 
+	causes you not to be able to complete the work on time, especially if due to something 
+	outside of your control (such as you or your lab partner has an illness), 
+	pleasecontact the staffor email the instructor. 
+	Often, we are able to work something out that is agreeable to everyone involved.Each kind of assignment has a separate late policy.
+        Be sure you understand the differences.Contact course staffif you have any questions.All assignments, regardless of late policy or extensions,mustbe turned in 
+	     by the end of the day Monday December 9, unless the instructor has given specific
+	     and individual permission. We generally will only grant exceptions for students who would 
+             otherwise fail the class.ForLab 1, 2, and 3, each lab comes with a 48 hour grace period, 
+	    during which work is accepted without penalty. We then deduct 1% off your score,
+	    just for that assignment, for each additional day that it is late.
+	    In other words, if you are making progress, even slowly, you should keep 
+	    working on the lab, but if you are stuck you should go ahead and turn it in.  
+	    Since turning assignments in late cuts into the available time you have for the next lab,
+	    only use this flexibility if necessary.To turn in your lab after the 48 hour grace period, first check in your solution into 
+	    gitlab and tag it as labx-final.  Then contact the staff (eg via a private post on Edstem),
+          providingbothpartner names.  We will reopen gradescope by hand - the submission
+           penalty will be taken as of the end of the day when you contact us (eg, even if we don't
+	   reopen until the next day, the penalty is computed as of the previous day)providedyou make
+	   no further changes.Lab 4is due on December 9; there isno grace periodand no credit is given
+		for late submission.Fordesign documents, there isno grace period. This is because these
+	  are graded manually and quick feedback is essential.Forlab questions, there isa 48-hour grace period, during which work is accepted
+	without penalty. No credit is granted after the grace period expires without prior approval. 
+         Even if you are turning in the lab code late with the 1% per day penalty, youmustturn 
+	in thelab questionswithin the grace period.  There is no
+	credit for answers to lab questions submitted after the grace period.Problem setsalso have a 48-hour grace period, during which
+            work is accepted without penalty. No credit is granted after 
+	    the grace period expires.Design doc revisionsalso have a 48-hour grace period, during which
+            work is accepted without penalty. No credit is granted after 
+	    the grace period expires.Note that, unlike some other course policies you might be familiar with,
+        in this class there is no cap on how much total grace time you can use
+        over the quarter. You can use the grace period on every single problem
+        set and lab (except the last one) and still get full credit.Partner workThe labs are difficult, and working with a partner can make things easier
+because you can discuss the details of your design together. Working with a
+partner is also a serious responsibility: your partner is relying on you to
+communicate and collaborate effectively. Do not agree to work with a partner if
+you are not willing to commit to these responsibilities.A common misconception about working with a partner is that you should "split up
+the work". This is usually a terrible idea, especially in this class, because
+the hard part of the lab is the design process. It might take you multiple
+iterations to design your solution correctly, and all parts of the solution
+can depend heavily on all other parts of the solution, so there is no
+way to "split up" this design work. Instead, you should plan to pair program
+(i.e., work together synchronously) during the design process until you are
+confident that you have a correct design and have written the design document
+together. After that, you can either continue to pair program your
+implementation (we recommend this approach) or you can try to split up the
+implementation work. When in doubt, work together synchronously. When you do
+work separately, establish a clear communication channel and keep each other
+posted about where you are stuck.To summarize, by entering a partnership, you are agreeing, at minimum, to:Communicate frequently with your partner during the weeks where design
+  documents and labs are due.Collaborate synchronously on the design document and any challenging
+  implementation tasks.Inform your partner in advance if you will be unavailable for communication or
+  collaboration.We take the partner agreement extremely seriously and will enforce it. If you
+flagrantly and repeatedly abandon your partner, you can expect to take a zero on
+the lab regardless of how much work you put into it.If your partner breaks this agreement, first try to communicate with them about
+it. If that doesn't work, contact the course staff.Working with a partner is the default for this class. You may request a specific
+partner (as long as both of you agree), or you may request us to assign
+you a random partner.  The partner form also allows you to request
+to work alone; we have the ability to support a small number of those requests.When looking for a partner, be sure to communicate grade expectations.
+Also, if you plan to opt in to W credit, you should try to find a partner 
+who wants W credit as well.W creditWe are starting a pilot program to offer opt-in W credit for CSE 451.Allstudents, whether aiming to recieve W credit or not, will need to
+do a substantial amount of writing for this class (see above under design documents).W creditin additionrequires not only a substantial
+amount of writing, butalsorevision of that writing.
+Students who want W credit in 451 need to submit revised versions 
+of their design documents for labs 2-4 (due dates on Gradescope). 
+The revisions should take into account staff feedback on
+the design, and include any updates to the design that you encountered while
+implementing the lab. Revisions are generally due at the same time as 
+the design doc for the subsequent lab; the lab 4 revision is due on 
+Thursday of exam week.Academic HonestyPlease readCSE's
+        Academic Misconduct Policy.You are encouraged to discuss all aspects of the course with and ask for help from the
+        instructor, the TAs, and other students.
+        However, do not cross this line:Do not share code or written text. Do not post solutions on the Internet, or code
+	to Edstem except if it is in a private (not public) post.
+        Do not look at lab or problem set solutions that might be on the Internet.
+        Do not use someone else's code or text in your solutions or responses.
+	Do not use any online AI tool to write your code.Itisok to share ideas, explain your code to someone to see if they know
+        why it doesn't work, or to help someone else debug if they've run into a wall.Some work in this class will be completed with a partner or group. The
+        rest is to be done individually. We will clearly mark each
+        piece of work as to whether it is to be done with your partner
+        or individually. Pleasecontact the staffif you are unsure about any part of how this policy applies to an assignment.Anonymous FeedbackAnonymous feedback can be sent to the instructor or TAs viafeedback.cs.washington.edu.
+They are also among the most complex pieces of software - concurrency
+and parallelism are inherent, operating system code needs to work correctly 
+even (or especially) when applications are malicious, operating system 
+reliability is often a key limiting factor in overall system reliability, 
+and performance matters and is directly visible to users.Many other applications, such as web browsers, databases, and cloud services,
+have to tackle similar issues to operating systems; the abstractions and
+ways of thinking are broadly applicable throughout computer science.We believe the best way to learn the material is to implement
+        the ideas presented in the course, and so there is
+        a substantial programming project.Thecalendar pageprovides
+        a detailed topic list for the course, including readings, problem sets, and labs.
+        In addition, we are using Gitlab, Ed, Canvas, and Gradescope
+        for various parts of the course.Lecture and SectionsLectures are MWF at 11:30 in CSE2 G01. (Please double check 
+	all room assignments as they may change.) We have set up the class
+	for Panopto lecture capture. However, we encourage you
+	to attend lecture in person, if at all possible.Sections will largely focus on the labs and (unlike many CSE classes)
+	you will need to attend to be able to complete the assignments. 
+	Sections arenotPanopto captured - you must attend live.
+	(Let us know if you are quarantined, and we will try to 
+	work something out.)There is afinal examon Wednesday December 11 at 2:30pm.Course ResourcesTextbook (print).There is an equivalent ebook version, available as four volumes on Amazon:Volume 1Volume 2Volume 3Volume 4Ed discussion boardGradescopeProject GitlabCourse StaffTom Anderson, instructortom@cs.washington.eduNikola Bojanic, TAnik0la@cs.washington.eduEllis Haker, TAehaker1@cs.washington.eduAnirudh Kumar, TAaniruk@cs.washington.eduDara Stotland, TAdstot@cs.washington.eduThe staff mailing list iscse451-staff@cs.washington.edu, but we would prefer that you use the discussion board whenever possible, eg, by making a private post.Staff ContactThe best way to contact the staff is to make a post on Ed.
+        If your question is likely to be useful to other students, please consider making it public.
+        (You can make the post "anonymous" to hide your identity from your classmates,
+        but note that course staff can still see your identity on anonymous posts.
+        Seeanonymous feedbackat the very bottom of this page for submitting feedback
+        without revealing your identity to course staff.)
+        If your message is not relevant to other students or if it contains
+source code, make it private.
+        We prefer you send messages via Ed if at all possible, because Ed
+lets us track whether we have handled the request.
+        If you need to contact an individual staff member directly, you can use their email.AssignmentsThere are four kinds of assignments in this class, in addition to an end of term final exam.  
+All deadlines will be in gradescope.Labs.The labs are significant programming projects, to be done in
+groups of two.  We plan to allow a limited number of students to do the labs 
+individually, on an opt in basis. This is to manage TA workload, which scales
+with the number of groups, more than with the number of students.Design documents.There is one for each of labs 2, 3, and 4, prepared and submitted 
+	  	jointly with your lab partner.  These are due a week before each lab, so that we 
+          can provide timely feedback.Lab Questions.There are short answer questions on Gradescope for each of the labs, 
+	  	covering topics related to the implementation.  These are due at the same time as the lab, but 
+		submitted separately. They are to be submitted with your lab partner.Problem sets.The problem sets are focused on helping you think
+	  through the topics covered by lectures and the labs.
+	  You will have at least a week to complete each problem set. 
+	  These are to be doneindividuallyunless otherwise noted.Final exam.The final will be open note (but not open book) 
+and comprehensive over the topics covered in lecture and the labs.See the sections below for more information on each kind of
+        assignment, as well as the sections
+        ongrading,
+        thelate policy,
+        andacademic honesty.LabsThe core of the course is to extend a basic operating system kernel
+        to support protected system calls, multiprocessing, extensible paged virtual memory,
+        and a crash resilient writeable file system. 
+        The project is written in C, with a code base derived from the xv6 project
+	developed for the MIT graduate operating systems course.Labs are to be done with a partner. You may select a partner, or we
+	will assign one randomly.  You may also request to do the project by yourself,
+        but we will only grant a limited number of those requests.
+        After lab 1, each of the other labs is due every two to three weeks.The labs are autograded, and that means you will need
+        to come up with solutions that workin all cases. Except for the design document and questions,
+	the labs are (for the most part) self-grading - we give you all of the test cases we run.The best way to write code that works in all cases do this is to carefully think 
+	yourdesign before writing any code. 
+	Design before code is especially important for operating systems where the 
+	number of possible code paths is exponential in the number of processes and threads,
+	the cost of uncaught errors in production code is enormous, and it is often 
+	infeasible to catch every possible error through testing.This is verydifferent from other CSE classesyou may have taken. If you think we are just saying that and we don't really mean it,
+	please understand that it may take you as much asten times as longto 
+	complete the assignments
+	if you start writing code before you carefully think through the design with your partner.
+        Debugging typos can be laborious but is a reality we all face.
+        Debugging operating system design errors by testing isextremely time consuming.We strongly recommend youget an early start on the labs.
+        Many students underestimate the difficulty of the assignments, and leave themselves
+        too little time to finish in time. The most common comment about the labs is that
+        students wished they had gotten an earlier start.
+        See below for thelate policy.Lab Design DocumentsTo encourage you to design then code, we ask for adesign documentfor labs 2-4, worth a sizeable portion of the total value of the lab, 
+	due a week in advance of the lab due date.  The design document can be optionally revised and 
+        resubmitted with the lab for W credit (see below for details).
+	You and your partner should agree on the design documentbeforewriting any code.
+	Of course, you may find from time to time that you need to update the design, but you
+	want to try to minimize that.  You donotneed to submit an updated design
+        document with your solution, except if you are requesting W credit.The specification for the design document varies for each lab; it can be found in the xk repo along with the lab descriptions.
+	Please ensure thatyour nameandyour partner's nameare included
+        in the design doc, and that youmark in gradescopethat the submission is from
+        both of you.There are optional revisions for the design doc, described below.  These are
+	only for students seeking W credit, and have no effect on anyone's grade (other than the W credit).
+	They are to be submitted jointly with your partner, provided both of you are seeking W credit;
+	if only one person in the team is seeking W credit, they should be submitted individually.  
+	Pleasemark in gradescopewhether submitting design doc revisions singly or as a team.Lab QuestionsEach lab (including lab 1) contains a set of implementation-specific questions 
+        based on the provided code and your solution.  These are to be submitted in gradescope 
+        (there is a separate assignment for submitting the code and the answers to questions).These also ask you to provide a short post-mortem for each lab: 
+	what worked for you, and what didn't.Problem SetsFor most lecture topics (which may span one or more class meetings), 
+	we will assign a problem set specific to that topic. 
+	These are to becompleted individually.Textbook ReadingsThe textbook is intended to complement the material covered in lecture and the labs,
+        providing a more precise, complete, and in depth explanation of the course topics.
+	Students who do the assigned reading will generally save time from having fewer design 
+	errors when doing the labs.GradesThe class will be graded on an additive points system - that is, we plan to simply
+	add up all of the points on the labs, problem sets, design reviews, and exam. 
+	We anticipate that the course will have roughly 1000 points, with about half of those
+	from labs, lab design documents, and lab questions.  The other half is roughly split
+        between the problem sets and the final. That is, the final will be worth roughly 25%
+ 	of the overall grade.  If we assign fewer than 1000 available points, we will add
+	any missing points as full credit to every student.The course isnotcurved.
+        Your grade on a 4.0 scale is computed by the following formula.
+        \[
+        \min\left(
+          \left.\left\lfloor\frac{\mathrm{(points+50)}}{20}\right\rfloor \middle/ 10 - 1.0 \right.,\
+          4.0
+        \right)
+        \]
+        In other words, your grade will be computed by the following table:PointsGrade on 4.0 scale≥9504.0≥9303.9≥9103.8≥8903.7≥8703.6≥8503.5≥8303.4≥8103.3...≥7503.0...≥6902.7 (grad sat)...≥5502.0 (undergrad sat)...This grading scheme may be somewhat unfamiliar to you.
+        We will discuss it on the first day of lecture.
+        Be sure you understand it, and feel free to ask any questions about it.An important consequence the additive points-based grading scheme is
+        that there is a sense in whichevery assignment is optional.
+	If you are unable to complete some assignment, simply make sure 
+	to complete the remaining ones - we give you room to miss points
+	and still get a good grade.  For example, you can miss over 10% of the
+	available points and still earn some form of an A grade.Since you will receive the same number of points as your partner 
+	for your combined work on the labs, design documents, and lab questions, it is
+        essential during partner-matching that you communicate expectations
+        about your grade target. If you find yourself stuck in a situation
+        where your partner wants to do significantly more or less work than you
+        do, pleasecontact the staff.Most students find that they are able to complete all of the assignments to
+        a high degree of quality, but that the assignments require a decent amount of effort.
+        Students find the class time-consuming but rewarding, and so grades in this class are generally high.If you are taking the class S/NS, note that per university policy,
+        undergraduates receive S credit for any grade 2.0 or higher.
+        Thus, an undergraduate would need to earn at least 550 points to receive S credit.Late PolicyOur late policy is designed to give students maximal flexibility without having to ask us
+	for permission, while still allowing us to grade assignments and get
+	them back to students in a timely fashion.  If you have an extenuating circumstance that 
+	causes you not to be able to complete the work on time, especially if due to something 
+	outside of your control (such as you or your lab partner has an illness), 
+	pleasecontact the staffor email the instructor. 
+	Often, we are able to work something out that is agreeable to everyone involved.Each kind of assignment has a separate late policy.
+        Be sure you understand the differences.Contact course staffif you have any questions.All assignments, regardless of late policy or extensions,mustbe turned in 
+	     by the end of the day Monday December 9, unless the instructor has given specific
+	     and individual permission. We generally will only grant exceptions for students who would 
+             otherwise fail the class.ForLab 1, 2, and 3, each lab comes with a 48 hour grace period, 
+	    during which work is accepted without penalty. We then deduct 1% off your score,
+	    just for that assignment, for each additional day that it is late.
+	    In other words, if you are making progress, even slowly, you should keep 
+	    working on the lab, but if you are stuck you should go ahead and turn it in.  
+	    Since turning assignments in late cuts into the available time you have for the next lab,
+	    only use this flexibility if necessary.To turn in your lab after the 48 hour grace period, first check in your solution into 
+	    gitlab and tag it as labx-final.  Then contact the staff (eg via a private post on Edstem),
+          providingbothpartner names.  We will reopen gradescope by hand - the submission
+           penalty will be taken as of the end of the day when you contact us (eg, even if we don't
+	   reopen until the next day, the penalty is computed as of the previous day)providedyou make
+	   no further changes.Lab 4is due on December 9; there isno grace periodand no credit is given
+		for late submission.Fordesign documents, there isno grace period. This is because these
+	  are graded manually and quick feedback is essential.Forlab questions, there isa 48-hour grace period, during which work is accepted
+	without penalty. No credit is granted after the grace period expires without prior approval. 
+         Even if you are turning in the lab code late with the 1% per day penalty, youmustturn 
+	in thelab questionswithin the grace period.  There is no
+	credit for answers to lab questions submitted after the grace period.Problem setsalso have a 48-hour grace period, during which
+            work is accepted without penalty. No credit is granted after 
+	    the grace period expires.Design doc revisionsalso have a 48-hour grace period, during which
+            work is accepted without penalty. No credit is granted after 
+	    the grace period expires.Note that, unlike some other course policies you might be familiar with,
+        in this class there is no cap on how much total grace time you can use
+        over the quarter. You can use the grace period on every single problem
+        set and lab (except the last one) and still get full credit.Partner workThe labs are difficult, and working with a partner can make things easier
+because you can discuss the details of your design together. Working with a
+partner is also a serious responsibility: your partner is relying on you to
+communicate and collaborate effectively. Do not agree to work with a partner if
+you are not willing to commit to these responsibilities.A common misconception about working with a partner is that you should "split up
+the work". This is usually a terrible idea, especially in this class, because
+the hard part of the lab is the design process. It might take you multiple
+iterations to design your solution correctly, and all parts of the solution
+can depend heavily on all other parts of the solution, so there is no
+way to "split up" this design work. Instead, you should plan to pair program
+(i.e., work together synchronously) during the design process until you are
+confident that you have a correct design and have written the design document
+together. After that, you can either continue to pair program your
+implementation (we recommend this approach) or you can try to split up the
+implementation work. When in doubt, work together synchronously. When you do
+work separately, establish a clear communication channel and keep each other
+posted about where you are stuck.To summarize, by entering a partnership, you are agreeing, at minimum, to:Communicate frequently with your partner during the weeks where design
+  documents and labs are due.Collaborate synchronously on the design document and any challenging
+  implementation tasks.Inform your partner in advance if you will be unavailable for communication or
+  collaboration.We take the partner agreement extremely seriously and will enforce it. If you
+flagrantly and repeatedly abandon your partner, you can expect to take a zero on
+the lab regardless of how much work you put into it.If your partner breaks this agreement, first try to communicate with them about
+it. If that doesn't work, contact the course staff.Working with a partner is the default for this class. You may request a specific
+partner (as long as both of you agree), or you may request us to assign
+you a random partner.  The partner form also allows you to request
+to work alone; we have the ability to support a small number of those requests.When looking for a partner, be sure to communicate grade expectations.
+Also, if you plan to opt in to W credit, you should try to find a partner 
+who wants W credit as well.W creditWe are starting a pilot program to offer opt-in W credit for CSE 451.Allstudents, whether aiming to recieve W credit or not, will need to
+do a substantial amount of writing for this class (see above under design documents).W creditin additionrequires not only a substantial
+amount of writing, butalsorevision of that writing.
+Students who want W credit in 451 need to submit revised versions 
+of their design documents for labs 2-4 (due dates on Gradescope). 
+The revisions should take into account staff feedback on
+the design, and include any updates to the design that you encountered while
+implementing the lab. Revisions are generally due at the same time as 
+the design doc for the subsequent lab; the lab 4 revision is due on 
+Thursday of exam week.Academic HonestyPlease readCSE's
+        Academic Misconduct Policy.You are encouraged to discuss all aspects of the course with and ask for help from the
+        instructor, the TAs, and other students.
+        However, do not cross this line:Do not share code or written text. Do not post solutions on the Internet, or code
+	to Edstem except if it is in a private (not public) post.
+        Do not look at lab or problem set solutions that might be on the Internet.
+        Do not use someone else's code or text in your solutions or responses.
+	Do not use any online AI tool to write your code.Itisok to share ideas, explain your code to someone to see if they know
+        why it doesn't work, or to help someone else debug if they've run into a wall.Some work in this class will be completed with a partner or group. The
+        rest is to be done individually. We will clearly mark each
+        piece of work as to whether it is to be done with your partner
+        or individually. Pleasecontact the staffif you are unsure about any part of how this policy applies to an assignment.Anonymous FeedbackAnonymous feedback can be sent to the instructor or TAs viafeedback.cs.washington.edu.
+Many other applications, such as web browsers, databases, and cloud services,
+have to tackle similar issues to operating systems; the abstractions and
+ways of thinking are broadly applicable throughout computer science.We believe the best way to learn the material is to implement
+        the ideas presented in the course, and so there is
+        a substantial programming project.Thecalendar pageprovides
+        a detailed topic list for the course, including readings, problem sets, and labs.
+        In addition, we are using Gitlab, Ed, Canvas, and Gradescope
+        for various parts of the course.Lecture and SectionsLectures are MWF at 11:30 in CSE2 G01. (Please double check 
+	all room assignments as they may change.) We have set up the class
+	for Panopto lecture capture. However, we encourage you
+	to attend lecture in person, if at all possible.Sections will largely focus on the labs and (unlike many CSE classes)
+	you will need to attend to be able to complete the assignments. 
+	Sections arenotPanopto captured - you must attend live.
+	(Let us know if you are quarantined, and we will try to 
+	work something out.)There is afinal examon Wednesday December 11 at 2:30pm.Course ResourcesTextbook (print).There is an equivalent ebook version, available as four volumes on Amazon:Volume 1Volume 2Volume 3Volume 4Ed discussion boardGradescopeProject GitlabCourse StaffTom Anderson, instructortom@cs.washington.eduNikola Bojanic, TAnik0la@cs.washington.eduEllis Haker, TAehaker1@cs.washington.eduAnirudh Kumar, TAaniruk@cs.washington.eduDara Stotland, TAdstot@cs.washington.eduThe staff mailing list iscse451-staff@cs.washington.edu, but we would prefer that you use the discussion board whenever possible, eg, by making a private post.Staff ContactThe best way to contact the staff is to make a post on Ed.
+        If your question is likely to be useful to other students, please consider making it public.
+        (You can make the post "anonymous" to hide your identity from your classmates,
+        but note that course staff can still see your identity on anonymous posts.
+        Seeanonymous feedbackat the very bottom of this page for submitting feedback
+        without revealing your identity to course staff.)
+        If your message is not relevant to other students or if it contains
+source code, make it private.
+        We prefer you send messages via Ed if at all possible, because Ed
+lets us track whether we have handled the request.
+        If you need to contact an individual staff member directly, you can use their email.AssignmentsThere are four kinds of assignments in this class, in addition to an end of term final exam.  
+All deadlines will be in gradescope.Labs.The labs are significant programming projects, to be done in
+groups of two.  We plan to allow a limited number of students to do the labs 
+individually, on an opt in basis. This is to manage TA workload, which scales
+with the number of groups, more than with the number of students.Design documents.There is one for each of labs 2, 3, and 4, prepared and submitted 
+	  	jointly with your lab partner.  These are due a week before each lab, so that we 
+          can provide timely feedback.Lab Questions.There are short answer questions on Gradescope for each of the labs, 
+	  	covering topics related to the implementation.  These are due at the same time as the lab, but 
+		submitted separately. They are to be submitted with your lab partner.Problem sets.The problem sets are focused on helping you think
+	  through the topics covered by lectures and the labs.
+	  You will have at least a week to complete each problem set. 
+	  These are to be doneindividuallyunless otherwise noted.Final exam.The final will be open note (but not open book) 
+and comprehensive over the topics covered in lecture and the labs.See the sections below for more information on each kind of
+        assignment, as well as the sections
+        ongrading,
+        thelate policy,
+        andacademic honesty.LabsThe core of the course is to extend a basic operating system kernel
+        to support protected system calls, multiprocessing, extensible paged virtual memory,
+        and a crash resilient writeable file system. 
+        The project is written in C, with a code base derived from the xv6 project
+	developed for the MIT graduate operating systems course.Labs are to be done with a partner. You may select a partner, or we
+	will assign one randomly.  You may also request to do the project by yourself,
+        but we will only grant a limited number of those requests.
+        After lab 1, each of the other labs is due every two to three weeks.The labs are autograded, and that means you will need
+        to come up with solutions that workin all cases. Except for the design document and questions,
+	the labs are (for the most part) self-grading - we give you all of the test cases we run.The best way to write code that works in all cases do this is to carefully think 
+	yourdesign before writing any code. 
+	Design before code is especially important for operating systems where the 
+	number of possible code paths is exponential in the number of processes and threads,
+	the cost of uncaught errors in production code is enormous, and it is often 
+	infeasible to catch every possible error through testing.This is verydifferent from other CSE classesyou may have taken. If you think we are just saying that and we don't really mean it,
+	please understand that it may take you as much asten times as longto 
+	complete the assignments
+	if you start writing code before you carefully think through the design with your partner.
+        Debugging typos can be laborious but is a reality we all face.
+        Debugging operating system design errors by testing isextremely time consuming.We strongly recommend youget an early start on the labs.
+        Many students underestimate the difficulty of the assignments, and leave themselves
+        too little time to finish in time. The most common comment about the labs is that
+        students wished they had gotten an earlier start.
+        See below for thelate policy.Lab Design DocumentsTo encourage you to design then code, we ask for adesign documentfor labs 2-4, worth a sizeable portion of the total value of the lab, 
+	due a week in advance of the lab due date.  The design document can be optionally revised and 
+        resubmitted with the lab for W credit (see below for details).
+	You and your partner should agree on the design documentbeforewriting any code.
+	Of course, you may find from time to time that you need to update the design, but you
+	want to try to minimize that.  You donotneed to submit an updated design
+        document with your solution, except if you are requesting W credit.The specification for the design document varies for each lab; it can be found in the xk repo along with the lab descriptions.
+	Please ensure thatyour nameandyour partner's nameare included
+        in the design doc, and that youmark in gradescopethat the submission is from
+        both of you.There are optional revisions for the design doc, described below.  These are
+	only for students seeking W credit, and have no effect on anyone's grade (other than the W credit).
+	They are to be submitted jointly with your partner, provided both of you are seeking W credit;
+	if only one person in the team is seeking W credit, they should be submitted individually.  
+	Pleasemark in gradescopewhether submitting design doc revisions singly or as a team.Lab QuestionsEach lab (including lab 1) contains a set of implementation-specific questions 
+        based on the provided code and your solution.  These are to be submitted in gradescope 
+        (there is a separate assignment for submitting the code and the answers to questions).These also ask you to provide a short post-mortem for each lab: 
+	what worked for you, and what didn't.Problem SetsFor most lecture topics (which may span one or more class meetings), 
+	we will assign a problem set specific to that topic. 
+	These are to becompleted individually.Textbook ReadingsThe textbook is intended to complement the material covered in lecture and the labs,
+        providing a more precise, complete, and in depth explanation of the course topics.
+	Students who do the assigned reading will generally save time from having fewer design 
+	errors when doing the labs.GradesThe class will be graded on an additive points system - that is, we plan to simply
+	add up all of the points on the labs, problem sets, design reviews, and exam. 
+	We anticipate that the course will have roughly 1000 points, with about half of those
+	from labs, lab design documents, and lab questions.  The other half is roughly split
+        between the problem sets and the final. That is, the final will be worth roughly 25%
+ 	of the overall grade.  If we assign fewer than 1000 available points, we will add
+	any missing points as full credit to every student.The course isnotcurved.
+        Your grade on a 4.0 scale is computed by the following formula.
+        \[
+        \min\left(
+          \left.\left\lfloor\frac{\mathrm{(points+50)}}{20}\right\rfloor \middle/ 10 - 1.0 \right.,\
+          4.0
+        \right)
+        \]
+        In other words, your grade will be computed by the following table:PointsGrade on 4.0 scale≥9504.0≥9303.9≥9103.8≥8903.7≥8703.6≥8503.5≥8303.4≥8103.3...≥7503.0...≥6902.7 (grad sat)...≥5502.0 (undergrad sat)...This grading scheme may be somewhat unfamiliar to you.
+        We will discuss it on the first day of lecture.
+        Be sure you understand it, and feel free to ask any questions about it.An important consequence the additive points-based grading scheme is
+        that there is a sense in whichevery assignment is optional.
+	If you are unable to complete some assignment, simply make sure 
+	to complete the remaining ones - we give you room to miss points
+	and still get a good grade.  For example, you can miss over 10% of the
+	available points and still earn some form of an A grade.Since you will receive the same number of points as your partner 
+	for your combined work on the labs, design documents, and lab questions, it is
+        essential during partner-matching that you communicate expectations
+        about your grade target. If you find yourself stuck in a situation
+        where your partner wants to do significantly more or less work than you
+        do, pleasecontact the staff.Most students find that they are able to complete all of the assignments to
+        a high degree of quality, but that the assignments require a decent amount of effort.
+        Students find the class time-consuming but rewarding, and so grades in this class are generally high.If you are taking the class S/NS, note that per university policy,
+        undergraduates receive S credit for any grade 2.0 or higher.
+        Thus, an undergraduate would need to earn at least 550 points to receive S credit.Late PolicyOur late policy is designed to give students maximal flexibility without having to ask us
+	for permission, while still allowing us to grade assignments and get
+	them back to students in a timely fashion.  If you have an extenuating circumstance that 
+	causes you not to be able to complete the work on time, especially if due to something 
+	outside of your control (such as you or your lab partner has an illness), 
+	pleasecontact the staffor email the instructor. 
+	Often, we are able to work something out that is agreeable to everyone involved.Each kind of assignment has a separate late policy.
+        Be sure you understand the differences.Contact course staffif you have any questions.All assignments, regardless of late policy or extensions,mustbe turned in 
+	     by the end of the day Monday December 9, unless the instructor has given specific
+	     and individual permission. We generally will only grant exceptions for students who would 
+             otherwise fail the class.ForLab 1, 2, and 3, each lab comes with a 48 hour grace period, 
+	    during which work is accepted without penalty. We then deduct 1% off your score,
+	    just for that assignment, for each additional day that it is late.
+	    In other words, if you are making progress, even slowly, you should keep 
+	    working on the lab, but if you are stuck you should go ahead and turn it in.  
+	    Since turning assignments in late cuts into the available time you have for the next lab,
+	    only use this flexibility if necessary.To turn in your lab after the 48 hour grace period, first check in your solution into 
+	    gitlab and tag it as labx-final.  Then contact the staff (eg via a private post on Edstem),
+          providingbothpartner names.  We will reopen gradescope by hand - the submission
+           penalty will be taken as of the end of the day when you contact us (eg, even if we don't
+	   reopen until the next day, the penalty is computed as of the previous day)providedyou make
+	   no further changes.Lab 4is due on December 9; there isno grace periodand no credit is given
+		for late submission.Fordesign documents, there isno grace period. This is because these
+	  are graded manually and quick feedback is essential.Forlab questions, there isa 48-hour grace period, during which work is accepted
+	without penalty. No credit is granted after the grace period expires without prior approval. 
+         Even if you are turning in the lab code late with the 1% per day penalty, youmustturn 
+	in thelab questionswithin the grace period.  There is no
+	credit for answers to lab questions submitted after the grace period.Problem setsalso have a 48-hour grace period, during which
+            work is accepted without penalty. No credit is granted after 
+	    the grace period expires.Design doc revisionsalso have a 48-hour grace period, during which
+            work is accepted without penalty. No credit is granted after 
+	    the grace period expires.Note that, unlike some other course policies you might be familiar with,
+        in this class there is no cap on how much total grace time you can use
+        over the quarter. You can use the grace period on every single problem
+        set and lab (except the last one) and still get full credit.Partner workThe labs are difficult, and working with a partner can make things easier
+because you can discuss the details of your design together. Working with a
+partner is also a serious responsibility: your partner is relying on you to
+communicate and collaborate effectively. Do not agree to work with a partner if
+you are not willing to commit to these responsibilities.A common misconception about working with a partner is that you should "split up
+the work". This is usually a terrible idea, especially in this class, because
+the hard part of the lab is the design process. It might take you multiple
+iterations to design your solution correctly, and all parts of the solution
+can depend heavily on all other parts of the solution, so there is no
+way to "split up" this design work. Instead, you should plan to pair program
+(i.e., work together synchronously) during the design process until you are
+confident that you have a correct design and have written the design document
+together. After that, you can either continue to pair program your
+implementation (we recommend this approach) or you can try to split up the
+implementation work. When in doubt, work together synchronously. When you do
+work separately, establish a clear communication channel and keep each other
+posted about where you are stuck.To summarize, by entering a partnership, you are agreeing, at minimum, to:Communicate frequently with your partner during the weeks where design
+  documents and labs are due.Collaborate synchronously on the design document and any challenging
+  implementation tasks.Inform your partner in advance if you will be unavailable for communication or
+  collaboration.We take the partner agreement extremely seriously and will enforce it. If you
+flagrantly and repeatedly abandon your partner, you can expect to take a zero on
+the lab regardless of how much work you put into it.If your partner breaks this agreement, first try to communicate with them about
+it. If that doesn't work, contact the course staff.Working with a partner is the default for this class. You may request a specific
+partner (as long as both of you agree), or you may request us to assign
+you a random partner.  The partner form also allows you to request
+to work alone; we have the ability to support a small number of those requests.When looking for a partner, be sure to communicate grade expectations.
+Also, if you plan to opt in to W credit, you should try to find a partner 
+who wants W credit as well.W creditWe are starting a pilot program to offer opt-in W credit for CSE 451.Allstudents, whether aiming to recieve W credit or not, will need to
+do a substantial amount of writing for this class (see above under design documents).W creditin additionrequires not only a substantial
+amount of writing, butalsorevision of that writing.
+Students who want W credit in 451 need to submit revised versions 
+of their design documents for labs 2-4 (due dates on Gradescope). 
+The revisions should take into account staff feedback on
+the design, and include any updates to the design that you encountered while
+implementing the lab. Revisions are generally due at the same time as 
+the design doc for the subsequent lab; the lab 4 revision is due on 
+Thursday of exam week.Academic HonestyPlease readCSE's
+        Academic Misconduct Policy.You are encouraged to discuss all aspects of the course with and ask for help from the
+        instructor, the TAs, and other students.
+        However, do not cross this line:Do not share code or written text. Do not post solutions on the Internet, or code
+	to Edstem except if it is in a private (not public) post.
+        Do not look at lab or problem set solutions that might be on the Internet.
+        Do not use someone else's code or text in your solutions or responses.
+	Do not use any online AI tool to write your code.Itisok to share ideas, explain your code to someone to see if they know
+        why it doesn't work, or to help someone else debug if they've run into a wall.Some work in this class will be completed with a partner or group. The
+        rest is to be done individually. We will clearly mark each
+        piece of work as to whether it is to be done with your partner
+        or individually. Pleasecontact the staffif you are unsure about any part of how this policy applies to an assignment.Anonymous FeedbackAnonymous feedback can be sent to the instructor or TAs viafeedback.cs.washington.edu.
+We believe the best way to learn the material is to implement
+        the ideas presented in the course, and so there is
+        a substantial programming project.Thecalendar pageprovides
+        a detailed topic list for the course, including readings, problem sets, and labs.
+        In addition, we are using Gitlab, Ed, Canvas, and Gradescope
+        for various parts of the course.Lecture and SectionsLectures are MWF at 11:30 in CSE2 G01. (Please double check 
+	all room assignments as they may change.) We have set up the class
+	for Panopto lecture capture. However, we encourage you
+	to attend lecture in person, if at all possible.Sections will largely focus on the labs and (unlike many CSE classes)
+	you will need to attend to be able to complete the assignments. 
+	Sections arenotPanopto captured - you must attend live.
+	(Let us know if you are quarantined, and we will try to 
+	work something out.)There is afinal examon Wednesday December 11 at 2:30pm.Course ResourcesTextbook (print).There is an equivalent ebook version, available as four volumes on Amazon:Volume 1Volume 2Volume 3Volume 4Ed discussion boardGradescopeProject GitlabCourse StaffTom Anderson, instructortom@cs.washington.eduNikola Bojanic, TAnik0la@cs.washington.eduEllis Haker, TAehaker1@cs.washington.eduAnirudh Kumar, TAaniruk@cs.washington.eduDara Stotland, TAdstot@cs.washington.eduThe staff mailing list iscse451-staff@cs.washington.edu, but we would prefer that you use the discussion board whenever possible, eg, by making a private post.Staff ContactThe best way to contact the staff is to make a post on Ed.
+        If your question is likely to be useful to other students, please consider making it public.
+        (You can make the post "anonymous" to hide your identity from your classmates,
+        but note that course staff can still see your identity on anonymous posts.
+        Seeanonymous feedbackat the very bottom of this page for submitting feedback
+        without revealing your identity to course staff.)
+        If your message is not relevant to other students or if it contains
+source code, make it private.
+        We prefer you send messages via Ed if at all possible, because Ed
+lets us track whether we have handled the request.
+        If you need to contact an individual staff member directly, you can use their email.AssignmentsThere are four kinds of assignments in this class, in addition to an end of term final exam.  
+All deadlines will be in gradescope.Labs.The labs are significant programming projects, to be done in
+groups of two.  We plan to allow a limited number of students to do the labs 
+individually, on an opt in basis. This is to manage TA workload, which scales
+with the number of groups, more than with the number of students.Design documents.There is one for each of labs 2, 3, and 4, prepared and submitted 
+	  	jointly with your lab partner.  These are due a week before each lab, so that we 
+          can provide timely feedback.Lab Questions.There are short answer questions on Gradescope for each of the labs, 
+	  	covering topics related to the implementation.  These are due at the same time as the lab, but 
+		submitted separately. They are to be submitted with your lab partner.Problem sets.The problem sets are focused on helping you think
+	  through the topics covered by lectures and the labs.
+	  You will have at least a week to complete each problem set. 
+	  These are to be doneindividuallyunless otherwise noted.Final exam.The final will be open note (but not open book) 
+and comprehensive over the topics covered in lecture and the labs.See the sections below for more information on each kind of
+        assignment, as well as the sections
+        ongrading,
+        thelate policy,
+        andacademic honesty.LabsThe core of the course is to extend a basic operating system kernel
+        to support protected system calls, multiprocessing, extensible paged virtual memory,
+        and a crash resilient writeable file system. 
+        The project is written in C, with a code base derived from the xv6 project
+	developed for the MIT graduate operating systems course.Labs are to be done with a partner. You may select a partner, or we
+	will assign one randomly.  You may also request to do the project by yourself,
+        but we will only grant a limited number of those requests.
+        After lab 1, each of the other labs is due every two to three weeks.The labs are autograded, and that means you will need
+        to come up with solutions that workin all cases. Except for the design document and questions,
+	the labs are (for the most part) self-grading - we give you all of the test cases we run.The best way to write code that works in all cases do this is to carefully think 
+	yourdesign before writing any code. 
+	Design before code is especially important for operating systems where the 
+	number of possible code paths is exponential in the number of processes and threads,
+	the cost of uncaught errors in production code is enormous, and it is often 
+	infeasible to catch every possible error through testing.This is verydifferent from other CSE classesyou may have taken. If you think we are just saying that and we don't really mean it,
+	please understand that it may take you as much asten times as longto 
+	complete the assignments
+	if you start writing code before you carefully think through the design with your partner.
+        Debugging typos can be laborious but is a reality we all face.
+        Debugging operating system design errors by testing isextremely time consuming.We strongly recommend youget an early start on the labs.
+        Many students underestimate the difficulty of the assignments, and leave themselves
+        too little time to finish in time. The most common comment about the labs is that
+        students wished they had gotten an earlier start.
+        See below for thelate policy.Lab Design DocumentsTo encourage you to design then code, we ask for adesign documentfor labs 2-4, worth a sizeable portion of the total value of the lab, 
+	due a week in advance of the lab due date.  The design document can be optionally revised and 
+        resubmitted with the lab for W credit (see below for details).
+	You and your partner should agree on the design documentbeforewriting any code.
+	Of course, you may find from time to time that you need to update the design, but you
+	want to try to minimize that.  You donotneed to submit an updated design
+        document with your solution, except if you are requesting W credit.The specification for the design document varies for each lab; it can be found in the xk repo along with the lab descriptions.
+	Please ensure thatyour nameandyour partner's nameare included
+        in the design doc, and that youmark in gradescopethat the submission is from
+        both of you.There are optional revisions for the design doc, described below.  These are
+	only for students seeking W credit, and have no effect on anyone's grade (other than the W credit).
+	They are to be submitted jointly with your partner, provided both of you are seeking W credit;
+	if only one person in the team is seeking W credit, they should be submitted individually.  
+	Pleasemark in gradescopewhether submitting design doc revisions singly or as a team.Lab QuestionsEach lab (including lab 1) contains a set of implementation-specific questions 
+        based on the provided code and your solution.  These are to be submitted in gradescope 
+        (there is a separate assignment for submitting the code and the answers to questions).These also ask you to provide a short post-mortem for each lab: 
+	what worked for you, and what didn't.Problem SetsFor most lecture topics (which may span one or more class meetings), 
+	we will assign a problem set specific to that topic. 
+	These are to becompleted individually.Textbook ReadingsThe textbook is intended to complement the material covered in lecture and the labs,
+        providing a more precise, complete, and in depth explanation of the course topics.
+	Students who do the assigned reading will generally save time from having fewer design 
+	errors when doing the labs.GradesThe class will be graded on an additive points system - that is, we plan to simply
+	add up all of the points on the labs, problem sets, design reviews, and exam. 
+	We anticipate that the course will have roughly 1000 points, with about half of those
+	from labs, lab design documents, and lab questions.  The other half is roughly split
+        between the problem sets and the final. That is, the final will be worth roughly 25%
+ 	of the overall grade.  If we assign fewer than 1000 available points, we will add
+	any missing points as full credit to every student.The course isnotcurved.
+        Your grade on a 4.0 scale is computed by the following formula.
+        \[
+        \min\left(
+          \left.\left\lfloor\frac{\mathrm{(points+50)}}{20}\right\rfloor \middle/ 10 - 1.0 \right.,\
+          4.0
+        \right)
+        \]
+        In other words, your grade will be computed by the following table:PointsGrade on 4.0 scale≥9504.0≥9303.9≥9103.8≥8903.7≥8703.6≥8503.5≥8303.4≥8103.3...≥7503.0...≥6902.7 (grad sat)...≥5502.0 (undergrad sat)...This grading scheme may be somewhat unfamiliar to you.
+        We will discuss it on the first day of lecture.
+        Be sure you understand it, and feel free to ask any questions about it.An important consequence the additive points-based grading scheme is
+        that there is a sense in whichevery assignment is optional.
+	If you are unable to complete some assignment, simply make sure 
+	to complete the remaining ones - we give you room to miss points
+	and still get a good grade.  For example, you can miss over 10% of the
+	available points and still earn some form of an A grade.Since you will receive the same number of points as your partner 
+	for your combined work on the labs, design documents, and lab questions, it is
+        essential during partner-matching that you communicate expectations
+        about your grade target. If you find yourself stuck in a situation
+        where your partner wants to do significantly more or less work than you
+        do, pleasecontact the staff.Most students find that they are able to complete all of the assignments to
+        a high degree of quality, but that the assignments require a decent amount of effort.
+        Students find the class time-consuming but rewarding, and so grades in this class are generally high.If you are taking the class S/NS, note that per university policy,
+        undergraduates receive S credit for any grade 2.0 or higher.
+        Thus, an undergraduate would need to earn at least 550 points to receive S credit.Late PolicyOur late policy is designed to give students maximal flexibility without having to ask us
+	for permission, while still allowing us to grade assignments and get
+	them back to students in a timely fashion.  If you have an extenuating circumstance that 
+	causes you not to be able to complete the work on time, especially if due to something 
+	outside of your control (such as you or your lab partner has an illness), 
+	pleasecontact the staffor email the instructor. 
+	Often, we are able to work something out that is agreeable to everyone involved.Each kind of assignment has a separate late policy.
+        Be sure you understand the differences.Contact course staffif you have any questions.All assignments, regardless of late policy or extensions,mustbe turned in 
+	     by the end of the day Monday December 9, unless the instructor has given specific
+	     and individual permission. We generally will only grant exceptions for students who would 
+             otherwise fail the class.ForLab 1, 2, and 3, each lab comes with a 48 hour grace period, 
+	    during which work is accepted without penalty. We then deduct 1% off your score,
+	    just for that assignment, for each additional day that it is late.
+	    In other words, if you are making progress, even slowly, you should keep 
+	    working on the lab, but if you are stuck you should go ahead and turn it in.  
+	    Since turning assignments in late cuts into the available time you have for the next lab,
+	    only use this flexibility if necessary.To turn in your lab after the 48 hour grace period, first check in your solution into 
+	    gitlab and tag it as labx-final.  Then contact the staff (eg via a private post on Edstem),
+          providingbothpartner names.  We will reopen gradescope by hand - the submission
+           penalty will be taken as of the end of the day when you contact us (eg, even if we don't
+	   reopen until the next day, the penalty is computed as of the previous day)providedyou make
+	   no further changes.Lab 4is due on December 9; there isno grace periodand no credit is given
+		for late submission.Fordesign documents, there isno grace period. This is because these
+	  are graded manually and quick feedback is essential.Forlab questions, there isa 48-hour grace period, during which work is accepted
+	without penalty. No credit is granted after the grace period expires without prior approval. 
+         Even if you are turning in the lab code late with the 1% per day penalty, youmustturn 
+	in thelab questionswithin the grace period.  There is no
+	credit for answers to lab questions submitted after the grace period.Problem setsalso have a 48-hour grace period, during which
+            work is accepted without penalty. No credit is granted after 
+	    the grace period expires.Design doc revisionsalso have a 48-hour grace period, during which
+            work is accepted without penalty. No credit is granted after 
+	    the grace period expires.Note that, unlike some other course policies you might be familiar with,
+        in this class there is no cap on how much total grace time you can use
+        over the quarter. You can use the grace period on every single problem
+        set and lab (except the last one) and still get full credit.Partner workThe labs are difficult, and working with a partner can make things easier
+because you can discuss the details of your design together. Working with a
+partner is also a serious responsibility: your partner is relying on you to
+communicate and collaborate effectively. Do not agree to work with a partner if
+you are not willing to commit to these responsibilities.A common misconception about working with a partner is that you should "split up
+the work". This is usually a terrible idea, especially in this class, because
+the hard part of the lab is the design process. It might take you multiple
+iterations to design your solution correctly, and all parts of the solution
+can depend heavily on all other parts of the solution, so there is no
+way to "split up" this design work. Instead, you should plan to pair program
+(i.e., work together synchronously) during the design process until you are
+confident that you have a correct design and have written the design document
+together. After that, you can either continue to pair program your
+implementation (we recommend this approach) or you can try to split up the
+implementation work. When in doubt, work together synchronously. When you do
+work separately, establish a clear communication channel and keep each other
+posted about where you are stuck.To summarize, by entering a partnership, you are agreeing, at minimum, to:Communicate frequently with your partner during the weeks where design
+  documents and labs are due.Collaborate synchronously on the design document and any challenging
+  implementation tasks.Inform your partner in advance if you will be unavailable for communication or
+  collaboration.We take the partner agreement extremely seriously and will enforce it. If you
+flagrantly and repeatedly abandon your partner, you can expect to take a zero on
+the lab regardless of how much work you put into it.If your partner breaks this agreement, first try to communicate with them about
+it. If that doesn't work, contact the course staff.Working with a partner is the default for this class. You may request a specific
+partner (as long as both of you agree), or you may request us to assign
+you a random partner.  The partner form also allows you to request
+to work alone; we have the ability to support a small number of those requests.When looking for a partner, be sure to communicate grade expectations.
+Also, if you plan to opt in to W credit, you should try to find a partner 
+who wants W credit as well.W creditWe are starting a pilot program to offer opt-in W credit for CSE 451.Allstudents, whether aiming to recieve W credit or not, will need to
+do a substantial amount of writing for this class (see above under design documents).W creditin additionrequires not only a substantial
+amount of writing, butalsorevision of that writing.
+Students who want W credit in 451 need to submit revised versions 
+of their design documents for labs 2-4 (due dates on Gradescope). 
+The revisions should take into account staff feedback on
+the design, and include any updates to the design that you encountered while
+implementing the lab. Revisions are generally due at the same time as 
+the design doc for the subsequent lab; the lab 4 revision is due on 
+Thursday of exam week.Academic HonestyPlease readCSE's
+        Academic Misconduct Policy.You are encouraged to discuss all aspects of the course with and ask for help from the
+        instructor, the TAs, and other students.
+        However, do not cross this line:Do not share code or written text. Do not post solutions on the Internet, or code
+	to Edstem except if it is in a private (not public) post.
+        Do not look at lab or problem set solutions that might be on the Internet.
+        Do not use someone else's code or text in your solutions or responses.
+	Do not use any online AI tool to write your code.Itisok to share ideas, explain your code to someone to see if they know
+        why it doesn't work, or to help someone else debug if they've run into a wall.Some work in this class will be completed with a partner or group. The
+        rest is to be done individually. We will clearly mark each
+        piece of work as to whether it is to be done with your partner
+        or individually. Pleasecontact the staffif you are unsure about any part of how this policy applies to an assignment.Anonymous FeedbackAnonymous feedback can be sent to the instructor or TAs viafeedback.cs.washington.edu.
+Thecalendar pageprovides
+        a detailed topic list for the course, including readings, problem sets, and labs.
+        In addition, we are using Gitlab, Ed, Canvas, and Gradescope
+        for various parts of the course.Lecture and SectionsLectures are MWF at 11:30 in CSE2 G01. (Please double check 
+	all room assignments as they may change.) We have set up the class
+	for Panopto lecture capture. However, we encourage you
+	to attend lecture in person, if at all possible.Sections will largely focus on the labs and (unlike many CSE classes)
+	you will need to attend to be able to complete the assignments. 
+	Sections arenotPanopto captured - you must attend live.
+	(Let us know if you are quarantined, and we will try to 
+	work something out.)There is afinal examon Wednesday December 11 at 2:30pm.Course ResourcesTextbook (print).There is an equivalent ebook version, available as four volumes on Amazon:Volume 1Volume 2Volume 3Volume 4Ed discussion boardGradescopeProject GitlabCourse StaffTom Anderson, instructortom@cs.washington.eduNikola Bojanic, TAnik0la@cs.washington.eduEllis Haker, TAehaker1@cs.washington.eduAnirudh Kumar, TAaniruk@cs.washington.eduDara Stotland, TAdstot@cs.washington.eduThe staff mailing list iscse451-staff@cs.washington.edu, but we would prefer that you use the discussion board whenever possible, eg, by making a private post.Staff ContactThe best way to contact the staff is to make a post on Ed.
+        If your question is likely to be useful to other students, please consider making it public.
+        (You can make the post "anonymous" to hide your identity from your classmates,
+        but note that course staff can still see your identity on anonymous posts.
+        Seeanonymous feedbackat the very bottom of this page for submitting feedback
+        without revealing your identity to course staff.)
+        If your message is not relevant to other students or if it contains
+source code, make it private.
+        We prefer you send messages via Ed if at all possible, because Ed
+lets us track whether we have handled the request.
+        If you need to contact an individual staff member directly, you can use their email.AssignmentsThere are four kinds of assignments in this class, in addition to an end of term final exam.  
+All deadlines will be in gradescope.Labs.The labs are significant programming projects, to be done in
+groups of two.  We plan to allow a limited number of students to do the labs 
+individually, on an opt in basis. This is to manage TA workload, which scales
+with the number of groups, more than with the number of students.Design documents.There is one for each of labs 2, 3, and 4, prepared and submitted 
+	  	jointly with your lab partner.  These are due a week before each lab, so that we 
+          can provide timely feedback.Lab Questions.There are short answer questions on Gradescope for each of the labs, 
+	  	covering topics related to the implementation.  These are due at the same time as the lab, but 
+		submitted separately. They are to be submitted with your lab partner.Problem sets.The problem sets are focused on helping you think
+	  through the topics covered by lectures and the labs.
+	  You will have at least a week to complete each problem set. 
+	  These are to be doneindividuallyunless otherwise noted.Final exam.The final will be open note (but not open book) 
+and comprehensive over the topics covered in lecture and the labs.See the sections below for more information on each kind of
+        assignment, as well as the sections
+        ongrading,
+        thelate policy,
+        andacademic honesty.LabsThe core of the course is to extend a basic operating system kernel
+        to support protected system calls, multiprocessing, extensible paged virtual memory,
+        and a crash resilient writeable file system. 
+        The project is written in C, with a code base derived from the xv6 project
+	developed for the MIT graduate operating systems course.Labs are to be done with a partner. You may select a partner, or we
+	will assign one randomly.  You may also request to do the project by yourself,
+        but we will only grant a limited number of those requests.
+        After lab 1, each of the other labs is due every two to three weeks.The labs are autograded, and that means you will need
+        to come up with solutions that workin all cases. Except for the design document and questions,
+	the labs are (for the most part) self-grading - we give you all of the test cases we run.The best way to write code that works in all cases do this is to carefully think 
+	yourdesign before writing any code. 
+	Design before code is especially important for operating systems where the 
+	number of possible code paths is exponential in the number of processes and threads,
+	the cost of uncaught errors in production code is enormous, and it is often 
+	infeasible to catch every possible error through testing.This is verydifferent from other CSE classesyou may have taken. If you think we are just saying that and we don't really mean it,
+	please understand that it may take you as much asten times as longto 
+	complete the assignments
+	if you start writing code before you carefully think through the design with your partner.
+        Debugging typos can be laborious but is a reality we all face.
+        Debugging operating system design errors by testing isextremely time consuming.We strongly recommend youget an early start on the labs.
+        Many students underestimate the difficulty of the assignments, and leave themselves
+        too little time to finish in time. The most common comment about the labs is that
+        students wished they had gotten an earlier start.
+        See below for thelate policy.Lab Design DocumentsTo encourage you to design then code, we ask for adesign documentfor labs 2-4, worth a sizeable portion of the total value of the lab, 
+	due a week in advance of the lab due date.  The design document can be optionally revised and 
+        resubmitted with the lab for W credit (see below for details).
+	You and your partner should agree on the design documentbeforewriting any code.
+	Of course, you may find from time to time that you need to update the design, but you
+	want to try to minimize that.  You donotneed to submit an updated design
+        document with your solution, except if you are requesting W credit.The specification for the design document varies for each lab; it can be found in the xk repo along with the lab descriptions.
+	Please ensure thatyour nameandyour partner's nameare included
+        in the design doc, and that youmark in gradescopethat the submission is from
+        both of you.There are optional revisions for the design doc, described below.  These are
+	only for students seeking W credit, and have no effect on anyone's grade (other than the W credit).
+	They are to be submitted jointly with your partner, provided both of you are seeking W credit;
+	if only one person in the team is seeking W credit, they should be submitted individually.  
+	Pleasemark in gradescopewhether submitting design doc revisions singly or as a team.Lab QuestionsEach lab (including lab 1) contains a set of implementation-specific questions 
+        based on the provided code and your solution.  These are to be submitted in gradescope 
+        (there is a separate assignment for submitting the code and the answers to questions).These also ask you to provide a short post-mortem for each lab: 
+	what worked for you, and what didn't.Problem SetsFor most lecture topics (which may span one or more class meetings), 
+	we will assign a problem set specific to that topic. 
+	These are to becompleted individually.Textbook ReadingsThe textbook is intended to complement the material covered in lecture and the labs,
+        providing a more precise, complete, and in depth explanation of the course topics.
+	Students who do the assigned reading will generally save time from having fewer design 
+	errors when doing the labs.GradesThe class will be graded on an additive points system - that is, we plan to simply
+	add up all of the points on the labs, problem sets, design reviews, and exam. 
+	We anticipate that the course will have roughly 1000 points, with about half of those
+	from labs, lab design documents, and lab questions.  The other half is roughly split
+        between the problem sets and the final. That is, the final will be worth roughly 25%
+ 	of the overall grade.  If we assign fewer than 1000 available points, we will add
+	any missing points as full credit to every student.The course isnotcurved.
+        Your grade on a 4.0 scale is computed by the following formula.
+        \[
+        \min\left(
+          \left.\left\lfloor\frac{\mathrm{(points+50)}}{20}\right\rfloor \middle/ 10 - 1.0 \right.,\
+          4.0
+        \right)
+        \]
+        In other words, your grade will be computed by the following table:PointsGrade on 4.0 scale≥9504.0≥9303.9≥9103.8≥8903.7≥8703.6≥8503.5≥8303.4≥8103.3...≥7503.0...≥6902.7 (grad sat)...≥5502.0 (undergrad sat)...This grading scheme may be somewhat unfamiliar to you.
+        We will discuss it on the first day of lecture.
+        Be sure you understand it, and feel free to ask any questions about it.An important consequence the additive points-based grading scheme is
+        that there is a sense in whichevery assignment is optional.
+	If you are unable to complete some assignment, simply make sure 
+	to complete the remaining ones - we give you room to miss points
+	and still get a good grade.  For example, you can miss over 10% of the
+	available points and still earn some form of an A grade.Since you will receive the same number of points as your partner 
+	for your combined work on the labs, design documents, and lab questions, it is
+        essential during partner-matching that you communicate expectations
+        about your grade target. If you find yourself stuck in a situation
+        where your partner wants to do significantly more or less work than you
+        do, pleasecontact the staff.Most students find that they are able to complete all of the assignments to
+        a high degree of quality, but that the assignments require a decent amount of effort.
+        Students find the class time-consuming but rewarding, and so grades in this class are generally high.If you are taking the class S/NS, note that per university policy,
+        undergraduates receive S credit for any grade 2.0 or higher.
+        Thus, an undergraduate would need to earn at least 550 points to receive S credit.Late PolicyOur late policy is designed to give students maximal flexibility without having to ask us
+	for permission, while still allowing us to grade assignments and get
+	them back to students in a timely fashion.  If you have an extenuating circumstance that 
+	causes you not to be able to complete the work on time, especially if due to something 
+	outside of your control (such as you or your lab partner has an illness), 
+	pleasecontact the staffor email the instructor. 
+	Often, we are able to work something out that is agreeable to everyone involved.Each kind of assignment has a separate late policy.
+        Be sure you understand the differences.Contact course staffif you have any questions.All assignments, regardless of late policy or extensions,mustbe turned in 
+	     by the end of the day Monday December 9, unless the instructor has given specific
+	     and individual permission. We generally will only grant exceptions for students who would 
+             otherwise fail the class.ForLab 1, 2, and 3, each lab comes with a 48 hour grace period, 
+	    during which work is accepted without penalty. We then deduct 1% off your score,
+	    just for that assignment, for each additional day that it is late.
+	    In other words, if you are making progress, even slowly, you should keep 
+	    working on the lab, but if you are stuck you should go ahead and turn it in.  
+	    Since turning assignments in late cuts into the available time you have for the next lab,
+	    only use this flexibility if necessary.To turn in your lab after the 48 hour grace period, first check in your solution into 
+	    gitlab and tag it as labx-final.  Then contact the staff (eg via a private post on Edstem),
+          providingbothpartner names.  We will reopen gradescope by hand - the submission
+           penalty will be taken as of the end of the day when you contact us (eg, even if we don't
+	   reopen until the next day, the penalty is computed as of the previous day)providedyou make
+	   no further changes.Lab 4is due on December 9; there isno grace periodand no credit is given
+		for late submission.Fordesign documents, there isno grace period. This is because these
+	  are graded manually and quick feedback is essential.Forlab questions, there isa 48-hour grace period, during which work is accepted
+	without penalty. No credit is granted after the grace period expires without prior approval. 
+         Even if you are turning in the lab code late with the 1% per day penalty, youmustturn 
+	in thelab questionswithin the grace period.  There is no
+	credit for answers to lab questions submitted after the grace period.Problem setsalso have a 48-hour grace period, during which
+            work is accepted without penalty. No credit is granted after 
+	    the grace period expires.Design doc revisionsalso have a 48-hour grace period, during which
+            work is accepted without penalty. No credit is granted after 
+	    the grace period expires.Note that, unlike some other course policies you might be familiar with,
+        in this class there is no cap on how much total grace time you can use
+        over the quarter. You can use the grace period on every single problem
+        set and lab (except the last one) and still get full credit.Partner workThe labs are difficult, and working with a partner can make things easier
+because you can discuss the details of your design together. Working with a
+partner is also a serious responsibility: your partner is relying on you to
+communicate and collaborate effectively. Do not agree to work with a partner if
+you are not willing to commit to these responsibilities.A common misconception about working with a partner is that you should "split up
+the work". This is usually a terrible idea, especially in this class, because
+the hard part of the lab is the design process. It might take you multiple
+iterations to design your solution correctly, and all parts of the solution
+can depend heavily on all other parts of the solution, so there is no
+way to "split up" this design work. Instead, you should plan to pair program
+(i.e., work together synchronously) during the design process until you are
+confident that you have a correct design and have written the design document
+together. After that, you can either continue to pair program your
+implementation (we recommend this approach) or you can try to split up the
+implementation work. When in doubt, work together synchronously. When you do
+work separately, establish a clear communication channel and keep each other
+posted about where you are stuck.To summarize, by entering a partnership, you are agreeing, at minimum, to:Communicate frequently with your partner during the weeks where design
+  documents and labs are due.Collaborate synchronously on the design document and any challenging
+  implementation tasks.Inform your partner in advance if you will be unavailable for communication or
+  collaboration.We take the partner agreement extremely seriously and will enforce it. If you
+flagrantly and repeatedly abandon your partner, you can expect to take a zero on
+the lab regardless of how much work you put into it.If your partner breaks this agreement, first try to communicate with them about
+it. If that doesn't work, contact the course staff.Working with a partner is the default for this class. You may request a specific
+partner (as long as both of you agree), or you may request us to assign
+you a random partner.  The partner form also allows you to request
+to work alone; we have the ability to support a small number of those requests.When looking for a partner, be sure to communicate grade expectations.
+Also, if you plan to opt in to W credit, you should try to find a partner 
+who wants W credit as well.W creditWe are starting a pilot program to offer opt-in W credit for CSE 451.Allstudents, whether aiming to recieve W credit or not, will need to
+do a substantial amount of writing for this class (see above under design documents).W creditin additionrequires not only a substantial
+amount of writing, butalsorevision of that writing.
+Students who want W credit in 451 need to submit revised versions 
+of their design documents for labs 2-4 (due dates on Gradescope). 
+The revisions should take into account staff feedback on
+the design, and include any updates to the design that you encountered while
+implementing the lab. Revisions are generally due at the same time as 
+the design doc for the subsequent lab; the lab 4 revision is due on 
+Thursday of exam week.Academic HonestyPlease readCSE's
+        Academic Misconduct Policy.You are encouraged to discuss all aspects of the course with and ask for help from the
+        instructor, the TAs, and other students.
+        However, do not cross this line:Do not share code or written text. Do not post solutions on the Internet, or code
+	to Edstem except if it is in a private (not public) post.
+        Do not look at lab or problem set solutions that might be on the Internet.
+        Do not use someone else's code or text in your solutions or responses.
+	Do not use any online AI tool to write your code.Itisok to share ideas, explain your code to someone to see if they know
+        why it doesn't work, or to help someone else debug if they've run into a wall.Some work in this class will be completed with a partner or group. The
+        rest is to be done individually. We will clearly mark each
+        piece of work as to whether it is to be done with your partner
+        or individually. Pleasecontact the staffif you are unsure about any part of how this policy applies to an assignment.Anonymous FeedbackAnonymous feedback can be sent to the instructor or TAs viafeedback.cs.washington.edu.

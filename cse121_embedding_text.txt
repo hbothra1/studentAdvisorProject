@@ -1,0 +1,9 @@
+Learning Objectives¶
+CSE 121 is designed around a set of 7 learning objectives. At the end of the course, successful students will be able to do the following:
+Create an algorithm to solve a given problem and express that algorithm in a structured way (e.g. pseudocode)
+Trace and predict the behavior and results of Java code that uses basic control structures and data abstractions
+Write functionally correct and maintainable Java code using basic control structures, primitive data types, and basic data abstractions that meets a provided specification and conforms to provided guidelines for style and implementation
+Clearly and effectively describe and document the behavior of Java code
+Identify and enumerate a set of inputs or tests to determine the correctness of a Java program
+Identify and fix errors in Java code
+Describe the ethical and social impacts of technology and explain how our choices as programmers can influence these impacts

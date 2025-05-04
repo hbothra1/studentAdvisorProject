@@ -1,0 +1,7 @@
+CSE/ECE 474: Introduction to Embedded Systems- Autumn 2024
+
+
+Contact Info:Please useEd Discussionwhenever possible. This is the fastest way to get an answer to your question from the course staff or even others who have had the same issue. The answer to your question is likely to be helpful to others in the class. Feel free to use private messages on the discussion board for questions that contain detailed code or should not be shared with the rest of the class. For other questions, including unexpected emergencies or other personal circumstances, email the instructor directly.
+9/25-26: 9am-12pm and 1pm-5pm
+9/27: 9am-11pm and 2pm-5pm
+9/30-10/4: 9am-12pm and 1pm-5pm

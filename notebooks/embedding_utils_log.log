@@ -1,0 +1,546 @@
+2025-04-19 00:47:05,723 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,725 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,726 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,727 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,727 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 121
+2025-04-19 00:47:05,728 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,728 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,729 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,729 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,730 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 122
+2025-04-19 00:47:05,730 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,731 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,731 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,732 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,732 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 123
+2025-04-19 00:47:05,733 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,733 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,734 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,734 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,735 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 143
+2025-04-19 00:47:05,735 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,736 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,736 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,737 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,737 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 163
+2025-04-19 00:47:05,738 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,738 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,738 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,739 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,740 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 160
+2025-04-19 00:47:05,740 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,740 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,741 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,741 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,742 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 180
+2025-04-19 00:47:05,742 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,743 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,743 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,744 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,745 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 312
+2025-04-19 00:47:05,745 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,746 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,746 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,747 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,748 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 331
+2025-04-19 00:47:05,748 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,749 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,749 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,750 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,750 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 332
+2025-04-19 00:47:05,751 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,751 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,752 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,752 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,753 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 344
+2025-04-19 00:47:05,753 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,754 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,754 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,755 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,755 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 351
+2025-04-19 00:47:05,755 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,756 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,756 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,757 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,757 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 369
+2025-04-19 00:47:05,758 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,758 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,758 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,759 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,759 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 371
+2025-04-19 00:47:05,759 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,760 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,761 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,761 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,762 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 390Z
+2025-04-19 00:47:05,762 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,762 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,763 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,763 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,763 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 391
+2025-04-19 00:47:05,764 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,764 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,764 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,765 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,765 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 401
+2025-04-19 00:47:05,765 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,765 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,766 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,766 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,766 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 403
+2025-04-19 00:47:05,766 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,767 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,767 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,767 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,768 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 431
+2025-04-19 00:47:05,768 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,768 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,769 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,770 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,771 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 440
+2025-04-19 00:47:05,771 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,772 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,772 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,772 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,773 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 442
+2025-04-19 00:47:05,773 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,773 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,774 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,774 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,775 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 444
+2025-04-19 00:47:05,775 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,776 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,777 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,778 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,778 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 446
+2025-04-19 00:47:05,778 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,779 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,779 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,781 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,782 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 447
+2025-04-19 00:47:05,782 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,783 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,783 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,783 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,784 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 451
+2025-04-19 00:47:05,784 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,785 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,786 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,788 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,790 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 452
+2025-04-19 00:47:05,791 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,792 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,792 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,793 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,793 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 453
+2025-04-19 00:47:05,793 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,793 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,794 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,794 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,794 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 455
+2025-04-19 00:47:05,794 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,795 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,795 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,795 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,795 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 456
+2025-04-19 00:47:05,796 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,796 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,796 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,796 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,797 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 457
+2025-04-19 00:47:05,797 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,797 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,797 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,798 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,798 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 458
+2025-04-19 00:47:05,798 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,798 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,799 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,799 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,799 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 460
+2025-04-19 00:47:05,799 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,799 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,800 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,800 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,800 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 461
+2025-04-19 00:47:05,801 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,802 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,803 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,803 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,803 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 462
+2025-04-19 00:47:05,804 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,804 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,805 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,805 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,805 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 474
+2025-04-19 00:47:05,806 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,806 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,806 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,806 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,807 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 478
+2025-04-19 00:47:05,807 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,807 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,808 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,808 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,808 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 480
+2025-04-19 00:47:05,808 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,809 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,809 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,809 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,809 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481A
+2025-04-19 00:47:05,810 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,810 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,810 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,811 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,811 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481C
+2025-04-19 00:47:05,811 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,811 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,812 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,812 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,813 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481DS
+2025-04-19 00:47:05,814 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,814 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,814 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,815 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,815 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481L
+2025-04-19 00:47:05,815 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,815 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,816 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,816 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:47:05,816 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481P
+2025-04-19 00:52:17,022 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,023 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,023 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,024 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,024 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 121
+2025-04-19 00:52:17,024 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,024 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,024 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,025 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,025 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 122
+2025-04-19 00:52:17,025 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,026 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,026 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,026 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,026 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 123
+2025-04-19 00:52:17,027 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,027 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,027 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,028 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,028 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 143
+2025-04-19 00:52:17,028 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,028 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,029 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,029 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,029 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 163
+2025-04-19 00:52:17,029 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,030 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,030 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,030 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,030 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 160
+2025-04-19 00:52:17,031 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,031 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,031 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,031 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,031 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 180
+2025-04-19 00:52:17,032 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,032 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,032 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,033 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,033 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 312
+2025-04-19 00:52:17,033 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,033 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,034 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,034 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,034 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 331
+2025-04-19 00:52:17,034 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,035 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,035 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,035 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,035 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 332
+2025-04-19 00:52:17,036 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,036 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,036 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,037 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,037 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 344
+2025-04-19 00:52:17,037 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,037 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,038 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,038 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,038 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 351
+2025-04-19 00:52:17,038 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,038 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,039 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,039 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,039 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 369
+2025-04-19 00:52:17,039 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,040 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,040 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,041 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,041 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 371
+2025-04-19 00:52:17,042 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,043 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,043 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,043 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,044 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 390Z
+2025-04-19 00:52:17,044 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,045 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,046 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,047 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,047 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 391
+2025-04-19 00:52:17,048 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,048 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,048 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,048 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,049 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 401
+2025-04-19 00:52:17,049 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,049 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,049 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,050 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,050 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 403
+2025-04-19 00:52:17,050 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,051 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,051 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,051 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,051 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 431
+2025-04-19 00:52:17,052 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,052 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,053 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,053 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,053 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 440
+2025-04-19 00:52:17,054 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,054 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,054 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,054 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,055 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 442
+2025-04-19 00:52:17,055 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,055 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,056 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,056 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,056 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 444
+2025-04-19 00:52:17,056 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,057 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,058 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,058 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,058 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 446
+2025-04-19 00:52:17,059 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,059 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,059 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,059 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,060 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 447
+2025-04-19 00:52:17,060 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,060 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,060 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,061 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,061 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 451
+2025-04-19 00:52:17,061 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,061 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,061 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,062 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,062 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 452
+2025-04-19 00:52:17,062 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,062 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,063 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,063 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,063 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 453
+2025-04-19 00:52:17,063 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,064 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,064 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,064 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,064 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 455
+2025-04-19 00:52:17,065 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,065 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,065 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,066 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,066 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 456
+2025-04-19 00:52:17,066 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,066 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,067 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,068 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,072 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 457
+2025-04-19 00:52:17,073 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,076 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,077 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,078 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,078 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 458
+2025-04-19 00:52:17,079 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,079 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,079 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,079 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,080 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 460
+2025-04-19 00:52:17,080 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,080 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,081 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,081 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,081 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 461
+2025-04-19 00:52:17,082 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,082 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,082 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,082 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,083 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 462
+2025-04-19 00:52:17,083 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,084 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,084 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,084 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,085 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 474
+2025-04-19 00:52:17,085 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,086 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,087 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,088 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,088 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 478
+2025-04-19 00:52:17,089 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,101 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,106 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,113 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,116 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 480
+2025-04-19 00:52:17,118 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,119 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,122 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,127 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,134 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481A
+2025-04-19 00:52:17,137 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,159 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,171 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,171 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,172 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481C
+2025-04-19 00:52:17,172 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,172 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,173 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,173 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,173 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481DS
+2025-04-19 00:52:17,174 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,175 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,175 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,175 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,175 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481L
+2025-04-19 00:52:17,176 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,176 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,177 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,177 - embedding_utils.py: embedding_utils.py: Unexpected error during similarity comparison: unsupported operand type(s) for *: 'dict' and 'float'
+2025-04-19 00:52:17,177 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481P
+2025-04-19 00:59:12,956 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 121
+2025-04-19 00:59:12,957 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 122
+2025-04-19 00:59:12,957 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 123
+2025-04-19 00:59:12,958 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 143
+2025-04-19 00:59:12,959 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 163
+2025-04-19 00:59:12,959 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 160
+2025-04-19 00:59:12,960 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 180
+2025-04-19 00:59:12,961 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 312
+2025-04-19 00:59:12,961 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 331
+2025-04-19 00:59:12,962 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 332
+2025-04-19 00:59:12,962 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 344
+2025-04-19 00:59:12,963 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 351
+2025-04-19 00:59:12,963 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 369
+2025-04-19 00:59:12,964 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 371
+2025-04-19 00:59:12,964 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 390Z
+2025-04-19 00:59:12,965 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 391
+2025-04-19 00:59:12,965 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 401
+2025-04-19 00:59:12,966 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 403
+2025-04-19 00:59:12,967 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 431
+2025-04-19 00:59:12,967 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 440
+2025-04-19 00:59:12,968 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 442
+2025-04-19 00:59:12,968 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 444
+2025-04-19 00:59:12,969 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 446
+2025-04-19 00:59:12,970 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 447
+2025-04-19 00:59:12,971 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 451
+2025-04-19 00:59:12,973 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 452
+2025-04-19 00:59:12,974 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 453
+2025-04-19 00:59:12,975 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 455
+2025-04-19 00:59:12,975 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 456
+2025-04-19 00:59:12,976 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 457
+2025-04-19 00:59:12,977 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 458
+2025-04-19 00:59:12,977 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 460
+2025-04-19 00:59:12,978 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 461
+2025-04-19 00:59:12,980 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 462
+2025-04-19 00:59:12,981 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 474
+2025-04-19 00:59:12,981 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 478
+2025-04-19 00:59:12,982 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 480
+2025-04-19 00:59:12,983 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481A
+2025-04-19 00:59:12,983 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481C
+2025-04-19 00:59:12,984 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481DS
+2025-04-19 00:59:12,984 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481L
+2025-04-19 00:59:12,985 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481P
+2025-04-20 23:34:43,954 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 121
+2025-04-20 23:34:43,959 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 122
+2025-04-20 23:34:43,960 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 123
+2025-04-20 23:34:43,962 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 143
+2025-04-20 23:34:43,963 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 163
+2025-04-20 23:34:43,964 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 160
+2025-04-20 23:34:43,965 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 180
+2025-04-20 23:34:43,967 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 312
+2025-04-20 23:34:43,968 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 331
+2025-04-20 23:34:43,969 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 332
+2025-04-20 23:34:43,970 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 344
+2025-04-20 23:34:43,971 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 351
+2025-04-20 23:34:43,973 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 369
+2025-04-20 23:34:43,974 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 371
+2025-04-20 23:34:43,976 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 390Z
+2025-04-20 23:34:43,978 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 391
+2025-04-20 23:34:43,979 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 401
+2025-04-20 23:34:43,982 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 403
+2025-04-20 23:34:43,986 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 431
+2025-04-20 23:34:43,991 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 440
+2025-04-20 23:34:43,992 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 442
+2025-04-20 23:34:43,993 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 444
+2025-04-20 23:34:43,994 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 446
+2025-04-20 23:34:43,995 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 447
+2025-04-20 23:34:43,995 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 451
+2025-04-20 23:34:43,999 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 452
+2025-04-20 23:34:44,000 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 453
+2025-04-20 23:34:44,000 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 455
+2025-04-20 23:34:44,001 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 456
+2025-04-20 23:34:44,002 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 457
+2025-04-20 23:34:44,003 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 458
+2025-04-20 23:34:44,003 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 460
+2025-04-20 23:34:44,006 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 461
+2025-04-20 23:34:44,009 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 462
+2025-04-20 23:34:44,010 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 474
+2025-04-20 23:34:44,010 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 478
+2025-04-20 23:34:44,011 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 480
+2025-04-20 23:34:44,012 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481A
+2025-04-20 23:34:44,013 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481C
+2025-04-20 23:34:44,014 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481DS
+2025-04-20 23:34:44,015 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481L
+2025-04-20 23:34:44,016 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481P
+2025-04-20 23:35:09,062 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 121
+2025-04-20 23:35:09,064 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 122
+2025-04-20 23:35:09,065 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 123
+2025-04-20 23:35:09,065 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 143
+2025-04-20 23:35:09,066 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 163
+2025-04-20 23:35:09,067 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 160
+2025-04-20 23:35:09,067 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 180
+2025-04-20 23:35:09,068 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 312
+2025-04-20 23:35:09,069 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 331
+2025-04-20 23:35:09,069 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 332
+2025-04-20 23:35:09,070 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 344
+2025-04-20 23:35:09,070 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 351
+2025-04-20 23:35:09,071 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 369
+2025-04-20 23:35:09,072 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 371
+2025-04-20 23:35:09,073 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 390Z
+2025-04-20 23:35:09,073 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 391
+2025-04-20 23:35:09,074 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 401
+2025-04-20 23:35:09,075 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 403
+2025-04-20 23:35:09,076 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 431
+2025-04-20 23:35:09,077 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 440
+2025-04-20 23:35:09,078 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 442
+2025-04-20 23:35:09,079 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 444
+2025-04-20 23:35:09,080 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 446
+2025-04-20 23:35:09,081 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 447
+2025-04-20 23:35:09,082 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 451
+2025-04-20 23:35:09,083 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 452
+2025-04-20 23:35:09,083 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 453
+2025-04-20 23:35:09,084 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 455
+2025-04-20 23:35:09,084 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 456
+2025-04-20 23:35:09,085 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 457
+2025-04-20 23:35:09,085 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 458
+2025-04-20 23:35:09,086 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 460
+2025-04-20 23:35:09,087 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 461
+2025-04-20 23:35:09,088 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 462
+2025-04-20 23:35:09,088 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 474
+2025-04-20 23:35:09,089 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 478
+2025-04-20 23:35:09,090 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 480
+2025-04-20 23:35:09,091 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481A
+2025-04-20 23:35:09,092 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481C
+2025-04-20 23:35:09,092 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481DS
+2025-04-20 23:35:09,093 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481L
+2025-04-20 23:35:09,094 - embedding_utils.py: jd_processor.py: Calculating similarity for course: CSE 481P

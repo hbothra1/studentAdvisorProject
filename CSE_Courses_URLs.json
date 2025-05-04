@@ -1,0 +1,1158 @@
+[
+  {
+    "url": "https://courses.cs.washington.edu",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse447/23wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/25wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/24wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse160/25sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/23sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/24sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse416/24sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse121/24wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/23au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse416/23sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse121/22au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse160/24au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse582/23sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse122/25sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/25sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse160/24wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse121/24sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse421/24au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse122/23wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse122/24sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse121/25sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse583/22au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse143/23au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse143/24sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/23sp/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse122/23au/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse121/23au/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse160/22su/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse122/23wi/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/24au/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/20sp/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse121/23su/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse122/24au/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/23wi/office_hours",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse143/22sp/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse163/22wi/resources/common_hw_errors",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse487/16sp/isalan_iffl.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse312/22wi/course-staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse122/24su/resources/ed_shortcuts",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/23wi/resources/commenting",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep561/22sp/projects/project1",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse122/22au/resources/code_quality",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse143/17sp/jgrasp.shtml",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse458/05au/GettingStartedwithMaya.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/312",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse370",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep590a/06au/readings/JVNDraft.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse481a",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse441",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse481c",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse451/24sp/resources/ahci.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse484",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse444",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse481n",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse428",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse311",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/23wi/lessons/sorting-algorithms",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse417",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse576",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse460",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse471",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse431",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse416",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse466",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse451/24sp/resources/minboot.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse391",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse413",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/23au/lessons/graph-algorithms",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse414",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse131",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse331",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse474",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse473/06sp/GeneticAlgDemo/encoding.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse505",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse410",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse371",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590r",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse507",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csed516",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse121",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse421",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse401",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse473/06sp/GeneticAlgDemo/searchs.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse473",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse573",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse577",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse402",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse517",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse390z",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse352",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse552",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse469",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse486",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse482a",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse571",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse574",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep501",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse589",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse470",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse580",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse481v",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep504",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse547",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599i",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse599c",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse478",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse599n",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse333/23wi/msgboard.php",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse526",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse590q",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse453",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse190b",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse426",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse180",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse493q",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse493v",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse529",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590e",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep589",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse390r",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse493x",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/23au/lessons/arrays-and-nodes",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep552",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse481ds",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/23wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse455/23wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/23sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse473/22au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse493q/23sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse571/21sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse451/16au/readings/ia32-1.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/24sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse534/24au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse527/19au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse452/23wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse599o/24wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/24wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse351/25sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse490x/22sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse573/20wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599i/18wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse140/13wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse451/24sp/resources/ia32-2.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse341/22sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep517/17sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse351/25wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse579/24au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599g1/18au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse414/22au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse546/18au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse371/24sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse541/22wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse190e/21au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse163/24sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/24au",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse344/24sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse163/25sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse311/25sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse331/24wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599n/24sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599n/23wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse446/25sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599s/22wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse459/06wi/help/mayaguide/Complete/SubDs.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse333/25sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse458/05au/help/mayaguide/Unlimited/Hair.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse444/25wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse444/23sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse14x/ta",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse331/23sp",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse190m/09sp/lectures/2009-05-04/slides.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/19sp/exams",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse416/21sp/syllabus",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse351/cachesim",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse391/20sp/working_at_home",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse121/24au/syllabus",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse417/22au/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/23wi/syllabus",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse332/23su/exams",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse123/23wi/exams",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse331/24au/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse331/23sp/staff.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse576/book/ch7.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep561/97sp/paper1/paper09",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse341/10sp/windows_ml.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590s/03au/odlyzko00history.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse532/08sp/lect07.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse490j/19su/assignments/assignment_7",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse378/resources/mips32v3.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse459/14au/assignments/assignment_3",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep561/17sp/week3.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse142/22wi/syllabus.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590v/13au/SSL.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse351/25sp/syllabus.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse522/05au/bansalcorrelation.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse341/03sp/brna.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse142/21au/staff.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse469/20wi/armv7.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590l/07sp/analogcoding.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep561/97sp/paper1/paper06",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse522/05au/charikargrothendieck.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599d/06wi/lecturenotes17.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse522/05au/searchingsurvey.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse548/11au/TC_micro29.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse471/01au/epic_cgi.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse576/book/ch9.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse378/documentation/MIPS32_Architecture_For_Programmers_Volume_II.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse533/05au/lecture14.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse311/14sp/kleene.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse522/05au/gabaix_zipf.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse332/20sp/syllabus.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse503/02wi/l5.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590d/04wi/datamininghigh.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590h/98wi/chap1.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590v/13au/arandjelovic13.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599d/06wi/lecturenotes13.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse522/05au/kleinberg_structure_of_the_web.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse378/00au/ctomips2.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse440/17sp/assignments/readings",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590g/11sp/36575.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse487/16sp/IntroMCA.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/18au/exams.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590v/13au/eccv2012_detanalysis_derek.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse481c/11au/deisenroth_icml2011.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse163/22sp/resources/ed",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse303/04au/Homework/gdb",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse576/13sp/projects/project3",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse528/07sp/izhi2.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep524/02au/summa.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse586/10au/small_RNA_review.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse522/05au/CHORD.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse452/22wi/lecture/L5",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599d/06wi/lecturenotes19.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse528/11sp/tomasiEM.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse322/04wi/MyhillNerode.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse528/13sp/shadlen_newsome1998.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse473/06sp/pddl.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse333/24au/staff.html",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse457/14wi/projects/impressionist",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse454/01wi/WebWatcher.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590b/02au/DurandBilateral.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse341/17sp/sml_emacs.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse391/21au/homework/hw6",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse522/05au/reputation.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep548/05sp/ZebraNetSoftwareMobisys.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599x/10sp/3d_origami.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse528/11sp/london05.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse452/23wi/section",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/14sp/lecture1.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse451/12au/l12.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse599d/06wi/lecturenotes2.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse591d/03sp/chaudhuri.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590b/02au/hdrc.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse466/00au/sa1100dev.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/01sp/Lect10.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse548/10wi/Lamport.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590z/03wi/alonmatiasszegedy.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse142/21su/resources/software",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_wk1_rcnn.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590b/02au/avatar.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse531/05au/TuringandPost.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse576/book/ch3.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse431/19au/Parsing.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590b/02au/hairer2002.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse341/13wi/racket.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse322/04au/Lect10.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse451/12au/l11.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse464/11wi/assignments/assignment4",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/13au/more_examples_midterm2_solved.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590v/13au/cse590v_au13_wk3_face_animation.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse458/06au/projects/project3",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse522/05au/selforganization.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse373/00au/dssets.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse341/13wi/sml_emacs.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse590v/13au/geolocalization_cvpr13_0421.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse528/13sp/strong.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse371/references/SystemVerilog_Reference_Manual.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse452/23wi/lecture/L2",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse576/15sp/Getting_started_with_Qt.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/csep590/05su/hw1sol.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse527/03au/pca.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse160/24sp/staff",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse487/16sp/basu_weiss_2005.pdf",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "https://courses.cs.washington.edu/courses/cse481v/19sp/ideas.php",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse160/25wi",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  },
+  {
+    "url": "http://courses.cs.washington.edu/courses/cse121/24su",
+    "scrape_id": "ddabceca-4218-43e5-a689-43cee52fb847"
+  }
+]

@@ -1,0 +1,26 @@
+Course Overview
+
+Course Description
+This course provides an introduction to forms of contribution in several major areas of research in Human-Computer Interaction.
+Course activities are based in a combination of readings, active discussion and reflection on readings, and a self-defined group project.
+Across all of these, the course considers HCI research in terms of:
+Contribution: what knowledge is gained through research activities.
+Method: how research activities are structured to demonstrate contributions.
+Framing: why contributions are valued,
+through motivation, language, theory, or understanding that can contextualize activities and contributions.
+Course readings emphasize a combination of historic framing papers and more recent contributions.
+Discussion and reflection emphasize consideration of readings in terms of their contributions,
+methods applied in those contributions, and framings of those contributions.
+The group project asks students to extend consideration of contributions, methods, and framings to their own activities.
+The combination of course activities is therefore intended to
+help students examine what the HCI research community considers a contribution across a variety of contexts,
+thus helping prepare students to understand and make meaningful contributions in these and other areas of HCI research.
+This course is explicitly not focused on iterative design methods or associated theory commonly emphasized in HCI practice.
+We do not assume a strong background in HCI (i.e., there is no undergraduate HCI prerequisite),
+but students seeking an introduction to effective design or an iterative design process will be better served by CSE 440.
+
+Learning Objectives
+Be able to differentiate forms of contribution in HCI research.
+Be able to describe prior fundamental results that frame areas of HCI research.
+Be able to articulate new contributions relative to such framings of areas of HCI research.
+Be able to consider, evaluate, and apply common HCI research methods.

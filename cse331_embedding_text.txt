@@ -1,0 +1,196 @@
+Topics
+We expect to cover (at least) the following topics during the course:Ensuring CorrectnessTestingReasoning about Functional ProgramsReasoning about Imperative ProgramsDebuggingClient and Server ApplicationsDesign PatternsTextbookThere is no required textbook for the course. However, students may find
+  the articles linked on theResourcespage useful
+  to read at some point during the course.Additionally, many students, early in their CS careers, find the following
+  book helpful (although it will not be referenced much if at all during the
+  course):The Pragmatic Programmerby Andrew Hunt and David
+      Thomas, 20th anniversary (2nd) edition, Addison-Wesley, 2020.LecturesLecture will be given in person, at the location and time shown on the
+  time schedule. The lecture will be recorded for the benefit of students who
+  are sick or otherwise unable to attend.SectionsEach week includes a TA-led quiz section. These will not be recorded, but
+  the printed material used will be posted on theTopicspage.Each quiz section will be focused on preparation for the next homework
+  assignment. A substantial portion of the time will be spent on practice
+  problems similar to those appearing in that homework. It is very important that
+  students take the time to work through the practice problems before attempting
+  the homework to make sure they understand how to solve them.Past experience indicates that section attendance is extremely important for
+  being successful in the course. For that reason,participation in
+    sectionis expected. Those who are sick or otherwise unable to attend can
+  complete the practice problems on their own and submit their solutions in
+  Gradescope by11pm on Thursday. (If a student is completely unavailable
+  on the day of a quiz section, they can contact the instructors or their section
+  TA to make special arrangements.)If students do not attend section, do not submit a solution to the worksheet
+  in Gradescope, and do not make special arrangements to submit later, then the
+  staff will interpret that as a statement that the student is confident they can
+  complete the homework on their own without any help from TAs. In particular,
+  that they do not need one-on-one help in office hours. As a result, TAs will
+  allocate their extremely limited time in office hours to students who do attend
+  section or submit the worksheet on Gradescope. (Of course, students who skip
+  section can still ask questions on the message board.)HomeworkHomework assignments will generally be postedlate Thursday evening,
+  so that students can start the assignment on Friday. As noted above, Thursdays
+  are intended to be used for working on the section worksheet and asking questions
+  to clarify any issues that were unclear. Official section solutions will be
+  generally released by mid-Friday.Assignments can require either solutions in the form of written answers,
+  typed code, or both. Generally, the amount of code required will increase as the
+  course progresses.Past experience tells us that some of the homework assignments in this
+  course can be verytime consumingfor some students. Students should
+  plan to have at least 8 hours available per week to work on assignments, with
+  the expectation that some assignments could require even more time depending on
+  the student's background.Students are expected tocompleteall homework assignments. Students
+  who receive no (or essentially no) credit formultipleassignments risk
+  failing. Outside of those circumstances, however, failing the course ishighly unusual.Occasionally, we will discover errors in an assignment after it is posted
+  (typically, just small typos). We will maintain a log on the website with all
+  changes made to the assignment. If (and only if) we believe there is potential
+  for students to submit correct solutions to the earlier version, we will also
+  email all students about the change. In particular, we will not send email if
+  the earlier version is obviously nonsensical. (Most typos fall into this
+  category.)ExamsThe course will have no exams. 🎉Getting HelpStudents can ask questions at any time on the message board. During normal
+  working hours, they should receive a response within a fairly short period of
+  time (almost always under an hour).Each member of the course staff will have at least one office hour every
+  week, where students can get one-on-one help. See the Weekly Schedule on theCalendarpage for office hours times and locations.Note, however, that office hours are themost limited resourceavailable to students — those held near the due date of assignments are
+  almost always oversubscribed — so asking questions on the message board
+  should always be preferred.As noted above, office hours will be reserved for students who either
+  attended section or submitted a solution to the section worksheet in Gradescope
+  the prior Thursday. Those who skip section can still ask questions on the
+  message board, but one-on-one help in office hours is reserved for students who
+  worked on the section problems as expected.Homework MechanicsSubmissionAll work will be turned in via Gradescope. For each assignment, you will turn
+  in your written work and code separately.You will turn in your written work to the "HW <name> Written" assignment
+  on Gradescope. Make sure that anyhandwritten work is legible(and dark
+  enough) for us to read. If the graders cannot read your solution, theycannot give you points. Also, when you turn in your written HW to
+  Gradescope, pleasematch each HW problem to where you did your work. If
+  you do not do this, or your work is hard to read, you may receive apoint
+  deduction.You will turn in your code to the "HW <name> Code" assignment on
+  Gradescope. You only need to submit thefinal versionof each of the
+  files you worked on in the assignment.In the HW instructions, for each coding problem, we will identify which
+  files you will need to upload to Gradescope. It is crucial that you only
+  upload the files that we instruct you to, or else you may not pass the
+  autograder. For example, if HW Example Problem 30 says to upload fileexample.tsand Problem 60 says to uploadfun.ts, you
+  shouldonlyuploadexample.tsandfun.tsto
+  Gradescope. You shouldnotputexample.tsandfun.tsinto a folder, and then upload the folder to Gradescope, as
+  this will cause you to fail the autograder. The autograder will verify that you
+  have submitted the correct files, it is your responsibility to check the
+  autograder output.Be sure to look for anyerror messagesfrom the autograder when you
+  submit, and be sure that you receivedall of the auto-graded points. If
+  you did not, you can examine the error messages, identify the problem, and then
+  re-submit a corrected solution. Make sure youleave enough timeto fix any
+  errors that identified by the autograder. Try to avoid submitting for the first
+  time during the last few minutes before the assignment is due because that will
+  not leave you enough time to fix any problems you encounter.RegradesIf grading mistakes occur, students are encouraged to bring them to the
+  attention of the course staff and see that they are corrected. They can do so
+  by requesting a regrade in Gradescope, with the following caveats:We will only entertain regrade requests forone weekafter the
+      grades are initially are posted. In particular, students searching for extra
+      points late in the quarter by requesting regrades of problems from early
+      assignments will be ignored.While regrades can (and should) be used to fix mistakes where a correct
+      solution is mistakenly marked incorrect, they cannot (and should not) be used
+      to request changes to amounts of points deducted for errors. Deductions are
+      applied consistently to all students. We will not give one student a smaller
+      deduction than others who made the same (or very similar) mistakes, so do not
+      ask us to do so.If students wish to fix an inconsistency between the grading of two
+      assignments that had similar answers,both studentsmust request a
+      regrade. That way, the staff can determine whether the appropriate correction
+      is to add points to the student with the lower score or remove them from the
+      student with the higher score. If only the student who lost points requests a
+      regrade, it will be ignored.For the final assignment, the staff will not regrade individual parts.
+      Students can request a regrade for the entire assignment, and their points
+      may go upor downas a result.PoliciesInclusivenessStudents should expect and demand to be treated with respect by their
+  classmates and the course staff. All students belong here, and the staff is
+  here to help them learn and enjoy a challenging course. If any incident occurs
+  that challenges this commitment to a supportive and inclusive environment,
+  students should let the staff know so the issue can be addressed. You can
+  use theanonymous feedback toolif you would like to tell us something anonymously.Late PolicyHomework assignments are designed to be completed by the due dates listed.
+  Situations may arise, however, where students are unable to complete the
+  assignment by those dates. For that reason, the staff will allow students to
+  submit each assignments24 hours latewith no penalty.Late work not meeting this condition (i.e., more than 24 hours late on one
+  assignment) will only be accepted after a discussion with course instructor.
+  There is no need to talk to the instructor unless more than one late day is
+  needed on an individual assignment. Students do not need to take any special
+  action when submitting an assignment late.In addition, please note that:The 24 hour grace period is intended to cover any emergencies that arise.
+      We do not grant extra late days beyond the grace period, just for
+      emergencies — those grace period is intended to cover most emergencies.Finishing an assignment 24 hours late usually puts the studentbehind
+        schedulefor the next assignment. Avoid the snowball effect!The day after the assignment is due is intended to be focused on the
+      section component of the next assignment. If a student is unable to fully
+      concentrate on quiz section, then they go into the next assignment at a
+      disadvantage. Hence, it is always to the student's benefit to finish each
+      assignment on time.CollaborationStudents are allowed to discuss homework problems with others, but they must
+  write or type their solutionindividually, without assistance.Student solutions arenot group work. Students can work together to
+  solve problems, but then, they must leave the group, takingno written or
+  electronic recordsof group work with them; wait at least20
+  minutes; and then write up / code up their solution on their own,
+  unassisted. Students who initially solve problems with a group, must list the
+  other group members as "collaborators" in the written part of their
+  solution.This policy clearly precludes copying code off of the Internet. Hence,
+  students should not consult the Internet for problems or key-phrases. This
+  includes Google, Stack Overflow, reddit, and any other website. However,
+  students may consult the internet for ideas, definitions, and understanding
+  general concepts.Each student should keep anything they plan to submit as a solutioncompletely private.Under no circumstancesshould they give a
+  copy of their code or written work to another student, as that would clearly
+  violate the rules listed above.AI AssistanceAI tools such asGitHub CopilotorChatGPTare clearlynot
+  allowedunder the policy described above. While using Copilot is entirely
+  reasonable on personal projects, it must beturned offwhen completing
+  the assignments in this course.Such tools have essentially memorized all the code on the Internet. Asking
+  the tool to produce code from its memory is no different, as far as we are
+  concerned, from searching for the code and then copying it yourself. We
+  explicitly disallow the latter, so the former is also disallowed.On the other hand, students are allowed to look at outside resources in
+  order to build up their understanding and then use their understanding to solve
+  the problem. It isunderstandingthat will get students a job. (No one
+  will pay someone just to type prompts into ChatGPT. They can do that
+  themselves!) Hence, any technique that short circuits the process of building
+  up understanding is adverse to a student's long-term career goals, and so we
+  disallow it.Academic IntegrityAs noted above, the staff expects each student to write their own solutions,
+  independently. Attempting to misrepresent another student's solution as their
+  own would be unfair to the other students in the course and constitute academic
+  misconduct in violation of theAllen School policy.
+  Any such violation will be reported to University, and the instructor will
+  make every attempt to ensure the harshest allowable penalty.Note that, in cases where one student copies the solution of another,both studentshave violated the policy and both will be disciplined.
+  Again, all students should keep their solutions private.If a student is ever unclear about whether their discussions with other
+  students went over the line, they should (a) ask and (b) describe their
+  collaboration clearly on their assignment. If they do, the worst that will
+  happen is losing some points. That is much better than the alternative.AccommodationsPlease refer to university policies regardingdisability accommodationsandreligious
+    accommodations.GradingHomework GradingStudents are responsible for making sure that they submit solutions to the
+  final version of the problems posted on the website. (As noted above, the
+  initially posted versions of assignments sometimes contain errors.) Students
+  should confirm that they have solved the final version by consulting thechange logon the website before submitting their solutions.Graders will identify incorrect answers in submitted solutions and deduct
+  points commensurate with the severity of the errors made. They will aim to
+  deduct points consistently across all assignments making the same or similar
+  errors.In addition, the course has the following policies:Graders will ignore requests to change theamount of points
+        deducted. These amounts, as long as they are applied consistently, are
+      entirely at the discretion of the course staff.Graders will ignorelegalistic argumentsabout why incorrect
+      solutions should be accepted under an alternative reading of the problem
+      statement. Incorrect answers will be marked as such as long as the staff
+      believes the intention of the problem statement was clear.Talking to a staff member does not take away thestudent's
+      responsibilityto submit a correct answer. The staff will not accept
+      incorrect answers due to a claim that some staff member said it was acceptable.
+      Students sometimes misunderstand what TAs are trying to say, and in any case,
+      it remains the students responsibility to make sure their understanding of the
+      problem statements matches up with the plain meaning of the instructions given
+      in the assignment or class.Course GradesOverall scores for the course will be determined entirely from Homework
+  grades.Homework assignments will not be weighted equally because they are of
+  different length and sophistication. Later assignments will generally be
+  weighted more heavily because they are more involved. In particular, we expect
+  the individual assignments to have the following weights in the overall
+  grade:8.0% eachHW from Weeks 1–213.5% eachHW from Weeks 3–716.5%Final HWThat said, we may need to adjust the weights if any assignments turn out to
+  be much more difficult or easier than expected.Overall percentage scores will be translated into course grades as described
+  in the following table:96.5%4.084.0%3.471.5%2.894.5%3.982.0%3.369.5%2.792.5%3.880.0%3.267.5%2.690.5%3.778.0%3.165.0%2.588.5%3.675.5%3.063.0%2.486.0%3.573.5%2.961.0%2.3Grades for scores below 60% will be determined by the instructor on a
+  case-by-case basis. (In particular, I reserve the right topassstudents whose percentages would fall below 2.0 if the above table is
+  continued.)The median grade is expected to be about 90% on the homework assignments.
+  That would translate into an overall percentage score of 87%, using the
+  tentative weights in the first table above. Per the second table, that
+  translates to a 3.5 grade as it is above 86.0% and below 88.5%.Advice For StudentsStart assignments early. Aim to complete them theday beforethey are due.Assignments are often more difficult than expected, and
+      students should also to leave time to make and correct mistakes.Prefer the message board to office hours.Office hours get very
+      busy, especially in the last 48 hours before assignments are due. (Yet another
+      reason to start early is so that students can attend office hours that are less
+      busy.) Even just before assignments are due, however, questions on the Message
+      Board are usually answered within a short period of time.Do not skip class to work on homework, not even late in the
+      quarter when students are more tired and busy. Doing so often seems like it
+      will save time in the short run, but it will cost time in the long run.Think about which lecture material applies to that homework
+        problem.As described above, each assignment is intended to apply ideas
+      from lecture, so if it does not seem that any lectures apply to a given
+      problem, it is nearly certain that the student did not understand some part of
+      some lecture.Focus on understanding, not on getting points.A student's
+      understanding of the material, not the points they received, is what will get
+      them a job and ensure a successful career as a programmer.
+Ensuring Correctness
+Testing
+Reasoning about Functional Programs
+Reasoning about Imperative Programs
+Debugging
+Client and Server Applications
+Design Patterns

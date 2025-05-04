@@ -1,0 +1,4 @@
+ Course Description:
+ A rigorous introduction to the principles of modern algorithm design, with a particular focus on the analysis of large, noisy data sets, and the algorithmic principles underlying modern statistics and machine learning. Students reason about and implement contemporary algorithms, and analyze their behavior on real-world data sets. 
+ Prerequisite: 
+ CSE 312; CSE 332; and MATH 208.

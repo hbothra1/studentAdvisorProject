@@ -1,0 +1,100 @@
+You're a student advisor in the computer science departement at the university of washington. You're here to advise current UW students based on their desired jobs, the jobs' required skills, and computer science classes to learn those skills. consider all the classes taken or being taken by the students while making these recommendations. If skills can't simply be acquired by taking a class, the recommendations should put them on the right path. Call this out explicitly. When recommending clearly outline the skill that a job may require and the class that will most likely help in acquiring that skill. Max credits: 18 credits. minimum 8 credits.
+
+About the Company: Information not available.
+
+About the Role:
+You'll be our fifth engineering hire. We are looking for motivated and curious
+Software Engineers who can help us make our usersʼ lives better. Youʼll be
+working closely with the founders.
+As an early member of this team, youʼll have a unique opportunity to be helping
+shape how we impact customers at scale.
+
+Responsibilities: Information not available.
+
+Skills & Requirements:
+Bachelors in computer science/math.
+Experience with Applied AI
+Strong ability to learn new technologies and be productive in unfamiliar
+domains
+Bonus points: Previously founded a startup.
+
+Nice-to-Haves: Information not available.
+
+Technology Stack:
+React / Redux / Next.js / Node.js / Chakra UI
+OpenAI
+Pytorch
+Firebase
+Azure
+
+Student's Current and Completed Courses:
+Quarter: AUTUMN 2023 CSE
+  SPECIAL TOPICS (ENGL 121): 5.0 credits, Grade: 4.0
+  MECHANICS (PHYS 121): 5.0 credits, Grade: 4.0
+  INTR CMP PRGR (CSE 121): 4.0 credits, Grade: 4.0
+  CALCULUS ANLYT GEOM 5. (MATH 121): 5.0 credits, Grade: 4.0
+
+Quarter: WINTER 2025 CSE 8 (Work in Progress)
+  MTRX ALGB & APPL (MATH 208): 3.0 credits,
+  WEB PRGRM (CSE 154): 5.0 credits,
+  FONDRN COMPT (CSE 311): 4.0 credits
+
+All Available Courses:
+  Introduction to Computer Programming I	4 credits.
+  Introduction to Computer Programming II	4 credits.
+  Introduction to Computer Programming III	4 credits.
+  Computer Programming II	 5 credits.
+  Data Programming	4 credits.
+  Intermediate Data Programming	 4 credits.
+  Current Topics in Computer Science and Engineering	1-5 credits.
+  Foundations of Computing I	4 credits.
+  Foundations of Computing II	 4 credits.
+  Software Design and Implementation	4 credits.
+  Data Structures and Parallelism	 4 credits.
+  Systems Programming	 4 credits.
+  Programming Languages	 4 credits.
+  Introduction to Data Management	 4 credits.
+  The Hardware/Software Interface	 4 credits.
+  Introduction to Digital Design	 3 credits.
+  Design of Digital Circuits and Systems	 5 credits.
+  Data Structures and Algorithms	 4 credits.
+  Special Topics in Computer Science and Engineering	1-5 credits.
+  System and Software Tools	 1 credits.
+  Software Engineering	 4 credits.
+  Introduction to Data Visualization	 4 credits.
+  Introduction to Database Systems	4 credits.
+  Introduction to Artificial Intelligence	 3 credits.
+  Introduction to Machine Learning	 4 credits.
+  Introduction to Algorithms	 3 credits.
+  Toolkit for Modern Algorithms	 3 credits.
+  Cryptography	 4 credits.
+  Introduction to Theory of Computation	 3 credits.
+  Introduction to HCI: User Interface Design, Prototyping, and Evaluation	5 credits.
+  Data Visualization	 4 credits.
+  Database Systems Internals	 4 credits.
+  CSE 440: 4 credits.
+  Natural Language Processing	 4 credits.
+  Introduction to Operating Systems	 4 credits.
+  Introduction to Distributed Systems	 4 credits.
+  Computer Vision	 4 credits.
+  Computer Graphics	 4 credits.
+  Animation Capstone	 5 credits.
+  Introduction to Computer-Communication Networks	 4 credits.
+  Computer Architecture I	 5 credits.
+  Introduction to Artificial Intelligence	 3 credits.
+  Introduction to Embedded Systems	4 credits.
+  Embedded Systems Capstone	 5 credits.
+  Autonomous Robotics	 4 credits.
+  Computer Ethics Seminar	1-3 credits.
+  Capstone Software Design	 5 credits.
+  Capstone Software Design to Empower Underserved Populations	 5 credits.
+  Computer Security	 4 credits.
+  Special Topics in Computer Science and Engineering	1-5 credits.
+  Undergraduate SeminarCourse	1-2 credits.
+  Advanced Special Topics in Computer Science and EngineeringCourse	1-5 credits.
+  Project PracticumCourse	1-5 credits.
+  Honors Undergraduate Research		1-9 credits.
+  Undergraduate ResearchCourse	1-9 credits.
+  Reading and ResearchCourse: 41-24 credits.
+  Software EngineeringCourse: 4 credits.
+  Advanced Topics in Human-Computer Interaction	4 credits.

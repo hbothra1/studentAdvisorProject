@@ -1,0 +1,136 @@
+import sys
+import os
+from jd_processor import match_jd_to_courses, embed_reorganized_jd, rearrange_jd_with_gpt, match_jd_to_courses_combinedembedding
+from model_Interactor import get_shortlisted_course_details, generate_advisory_prompt, send_prompt_to_openai
+# Add the project root to sys.path
+db_path = "/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/course_database.db"
+#sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from utils.analysis_utils import get_unique_courses_in_top_rankings # type: ignore
+import json
+import tiktoken
+
+# Load JD embedding from a JSON file
+# with open("/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/jd_embedding_for_testing.json", "r") as jd_file:
+#     jd_data = json.load(jd_file)
+#     jd_embedding = jd_data["jd_embedding"]
+raw_jd_text = """About the job
+Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+
+Design, build, coordinate, and maintain our multi-tenant, high-complexity, enterprise scale hosting architecture. We have opportunities for all experience levels. Whether you're just starting in your career or have decades of experience, you're looking to get in the weeds with technical infrastructure engineering or want to develop Infrastructure as Code solutions, or are interested in learning more about the systems that support the nation's best healthcare systems, we have an opportunity for you.
+
+Infrastructure Engineers specialize in different areas. Experience and/or interest in different technologies can be discussed during the recruitment process.
+
+Backgrounds Considered:
+
+IT/Systems/Computer Engineering
+Cybersecurity/Networking
+Computer Science
+
+Experience Levels:
+
+Entry-level:
+Background: Computer Science, IT/Systems, internships in one of our Infrastructure Engineer areas
+Mid-senior levels:
+Background: 3+ years working in one of our Infrastructure Engineer areas
+Infrastructure Engineering Areas:
+
+Security
+Network
+Network Security
+Network Services
+DevOps
+Cloud
+SAN & Backup
+Virtualization
+Windows
+
+Live affordably in a city known for its rising tech talent.
+
+Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+
+More than just important work.
+
+Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+
+We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non-discrimination statement at https://careers.epic.com/EEO.
+
+Bachelor's Degree in CIS, IS, IT, or a related field
+Relocation to Madison, WI area (reimbursed)
+Eligibility to work in the U.S. without visa sponsorship
+Available to work 1st, 2nd, or 3rd shift
+COVID-19 vaccination
+
+As a member of the Hosting team at Epic, you'll be responsible for the confidentiality, integrity, and availability of Epic Hosting. Those responsibilities include::
+
+Following policies and procedures and escalating when policies or procedures are not followed
+Escalating potential security incidents and providing relevant information
+Meeting all security responsibilities defined in policies and procedures
+
+
+"""
+# jd_text = rearrange_jd_with_gpt(raw_jd_text)
+# print("""Reorganized JD: 
+        
+#     """ + jd_text + "\n\n")
+
+# jd_embedding_raw = embed_reorganized_jd(raw_jd_text)
+
+# jd_embedding = json.loads(jd_embedding_raw) if isinstance(jd_embedding_raw, str) else jd_embedding_raw
+with open("/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/jd_embedding.json", "r") as f:
+    data = json.load(f)
+jd_embedding = data["jd_embedding"]
+
+with open('/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/transcript_json2_CSE.json', "r") as transcript_file:
+    student_transcript = json.load(transcript_file)
+
+# Load course embeddings from a JSON file
+with open('/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/course_embeddings_dict_20250425_183348.json', "r") as courses_file:
+    course_embeddings_dict = json.load(courses_file)
+
+# print("jd embedding type: \n\n",type(jd_embedding))
+# print("course embedding type: \n\n",type(course_embeddings_dict))
+# Call match_jd_to_courses with the loaded embeddings, which compares the JD to multiple course embeddings
+# op_rankings = match_jd_to_courses(jd_embedding, course_embeddings_dict) - taken out because the simple compare works wel enough. 
+# Get unique courses in the top rankings across all categories
+# shortlisted_courses = get_unique_courses_in_top_rankings(op_rankings)
+# print("\n\n\n***OP_RANKINGS*** \n\n\n",op_rankings)
+# Call match_jd_to_courses_combinedembedding with the loaded embeddings, which compares the JD to composite course embedding
+op_rankings_combined = match_jd_to_courses_combinedembedding(jd_embedding, course_embeddings_dict)
+print("op_rankings_combined: ", op_rankings_combined)
+shortlisted_courses_combined = get_unique_courses_in_top_rankings(op_rankings_combined)
+
+# Print both lists vertically, side-by-side
+# max_len = max(len(shortlisted_courses), len(shortlisted_courses_combined))
+# print(f"{'Shortlisted Courses':<40} | {'Shortlisted Courses Combined':<40}")
+# print("-" * 85)
+# for i in range(max_len):
+#     left = shortlisted_courses[i] if i < len(shortlisted_courses) else ""
+#     right = shortlisted_courses_combined[i] if i < len(shortlisted_courses_combined) else ""
+#     print(f"{left:<40} | {right:<40}")
+
+
+# print("""\n\n ***
+# Here are the courses that match the JD: \n\n""" + f"""{json.dumps(op_rankings_combined)} \n\n
+# ***                 """)
+
+print("Unique courses in top rankings: ", shortlisted_courses_combined)
+
+# print("Shortlisted Course Details \n")
+shortlisted_course_details = get_shortlisted_course_details(shortlisted_courses_combined, db_path=db_path)
+("Transcript Data: ", student_transcript)
+advisory_prompt = generate_advisory_prompt(raw_jd_text, student_transcript, shortlisted_courses=shortlisted_course_details)
+print("Advisory Prompt: ", advisory_prompt)
+# Count the number of tokens in the advisory_prompt
+
+encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
+num_tokens = len(encoding.encode(advisory_prompt))
+print("Number of tokens in advisory_prompt:", num_tokens)
+
+print(send_prompt_to_openai(advisory_prompt))
+
+# Print the top rankings for verification
+
+
+
+
+

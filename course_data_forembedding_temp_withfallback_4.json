@@ -1,0 +1,572 @@
+{
+  "CSE120": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE121": {
+    "Course Description": "This course serves as an introduction to computer programming for students without prior programming experience. Utilizing the Java programming language, students will learn to express algorithmic thinking and solve computational problems inspired by modern societal and scientific needs. Key topics include procedural programming constructs, control structures, and standard data types such as arrays.",
+    "Learning Goals": "Write functionally correct Java programs that meet provided specifications and solve specified problems.\n\nBreak down complex problems into modular and reusable subproblems, defining methods to represent those subproblems.\n\nSelect and apply control structures (e.g., loops, conditionals) to manage the flow of control and information in programs.\n\nUtilize basic data abstractions (e.g., variables, parameters, arrays, classes) to manage and manipulate data in programs.\n\nDevelop programs that are well-written, readable, maintainable, and conform to established standards.",
+    "Topics Covered": "Course Policies; Hello World!\n\nPrinting; Strings; Variables\n\nDatatypes; Expressions\n\nRevisiting Strings & Variables\n\n`for` Loops and Nested Loops\n\n`Random`, `Math`, Methods, Parameters, Scope\n\nBoolean Expressions; `if/else`; While Loops\n\nArrays; Classes and Objects\n\nFile Input/Output\n\nFinal Review",
+    "Tools": "Java Development Kit (JDK) version 8 or higher\n\njGRASP editor",
+    "url1": "https://courses.cs.washington.edu/courses/cse121/24wi",
+    "url2": "https://courses.cs.washington.edu/courses/cse121/22au",
+    "url3": "https://courses.cs.washington.edu/courses/cse121/24sp",
+    "url4": "https://courses.cs.washington.edu/courses/cse121/25sp",
+    "url5": "https://courses.cs.washington.edu/courses/cse121",
+    "url6": "https://courses.cs.washington.edu/courses/cse121/24au/syllabus"
+  },
+  "CSE122": {
+    "Course Description": "Building upon foundational programming skills, this course delves into data structures and object-oriented programming using Java. Students will learn to solve complex problems by decomposing them into smaller tasks, utilize data structures like lists, dictionaries, and sets, and design object-oriented programs emphasizing interface and implementation abstraction.",
+    "Learning Goals": "Solve complex problems by decomposing them into smaller programming tasks and assess the design trade-offs of particular solutions.\n\nUtilize data structures such as lists, dictionaries, and sets to efficiently solve computational problems.\n\nDesign object-oriented programs that ensure abstraction between interfaces and their implementations.",
+    "Topics Covered": "Functional Decomposition & Design\n\nJava Review\n\nFile Input/Output\n\nArrayLists and Applications\n\nObject-Oriented Programming\n\nNested Collections\n\nInterfaces and Inheritance\n\nEncapsulation\n\nAlgorithm Complexity and Performance Trade-offs\n\nSorting and Searching Algorithms",
+    "Tools": "Java Development Kit (JDK) version 8 or higher\n\njGRASP editor",
+    "url1": "https://courses.cs.washington.edu/courses/cse122/25sp",
+    "url2": "https://courses.cs.washington.edu/courses/cse122/23wi",
+    "url3": "https://courses.cs.washington.edu/courses/cse122/24sp"
+  },
+  "CSE123": {
+    "Course Description": "As a third course in computer programming, this class focuses on the design and implementation of data structures. Assuming prior experience with programming and fundamental computing concepts, students will learn to implement compound data structures, apply recursion to solve computational problems, and utilize inheritance to represent relationships among classes.",
+    "Learning Goals": "Implement compound data structures such as lists and trees.\n\nApply recursion techniques to efficiently solve computational problems.\n\nUtilize inheritance to represent relationships among similar classes.",
+    "Topics Covered": "Course Introduction; Syllabus Overview\n\nFunctional Decomposition & Design\n\nJava Review\n\nFile Input/Output\n\nArrayLists and Applications\n\nObject-Oriented Programming\n\nNested Collections\n\nInterfaces and Inheritance\n\nEncapsulation\n\nAlgorithm Complexity and Performance Trade-offs",
+    "Tools": "Java Development Kit (JDK) version 8 or higher\n\njGRASP editor",
+    "url1": "https://courses.cs.washington.edu/courses/cse123/24wi",
+    "url2": "https://courses.cs.washington.edu/courses/cse123/23sp",
+    "url3": "https://courses.cs.washington.edu/courses/cse123/24sp",
+    "url4": "https://courses.cs.washington.edu/courses/cse123/23au",
+    "url5": "https://courses.cs.washington.edu/courses/cse123/25sp",
+    "url6": "https://courses.cs.washington.edu/courses/cse123",
+    "url7": "https://courses.cs.washington.edu/courses/cse123/23wi/syllabus"
+  },
+  "CSE143": {
+    "Course Description": "This course is a continuation of CSE142, focusing on data-related issues in programming. Topics include abstract data types (ADTs), stacks, queues, linked lists, binary trees, recursion, interfaces, inheritance, and encapsulation. The course also introduces complexity and performance trade-offs in classic algorithms such as sorting and searching, and classic data structures like lists, sets, and maps. Both implementation and utilization of data structures from the Java Collections Framework are covered. Prerequisite: CSE142 or equivalent.",
+    "Learning Goals": "Implement and utilize various abstract data types (ADTs) such as stacks, queues, linked lists, and binary trees.\n\nApply recursion techniques to solve computational problems.\n\nUnderstand and implement interfaces, inheritance, and encapsulation in Java.\n\nAnalyze and compare the complexity and performance trade-offs of classic algorithms like sorting and searching.\n\nEffectively use data structures from the Java Collections Framework.",
+    "Topics Covered": "Abstract Data Types (ADTs)\n\nStacks and Queues\n\nLinked Lists\n\nBinary Trees\n\nRecursion\n\nInterfaces and Inheritance\n\nEncapsulation\n\nAlgorithm Complexity and Performance Trade-offs\n\nSorting and Searching Algorithms\n\nJava Collections Framework",
+    "Tools": "Java Development Kit (JDK) version 8 or higher\n\njGRASP editor",
+    "url1": "https://courses.cs.washington.edu/courses/cse143/23au",
+    "url2": "https://courses.cs.washington.edu/courses/cse143/24sp"
+  },
+  "CSE163": {
+    "Course Description": "CSE163 introduces programming with data in Python. Students learn to clean, analyze, and visualize data using modern Python libraries. The course teaches fundamentals of computational thinking and statistical reasoning for data analysis.",
+    "Learning Goals": "Clean and process real-world datasets.\n\nUse Python libraries to manipulate and visualize data.\n\nWrite reusable code for data workflows.\n\nApply basic statistical reasoning.",
+    "Topics Covered": "Python Syntax\n\nPandas for DataFrames\n\nData Cleaning\n\nData Visualization with matplotlib/seaborn\n\nBasic Descriptive Stats\n\nWriting Modular Code",
+    "Tools": "Python\n\nPandas\n\nmatplotlib\n\nJupyter Notebooks",
+    "url1": "https://courses.cs.washington.edu/courses/cse163/24sp",
+    "url2": "https://courses.cs.washington.edu/courses/cse163/25sp"
+  },
+  "CSE160": {
+    "Course Description": "CSE160 is a foundations course in computing for non-majors. It introduces data-driven decision making using Python and visual programming. Students explore computation through hands-on labs and visual tools.",
+    "Learning Goals": "Understand basic computing principles.\n\nWrite simple Python scripts for problem solving.\n\nVisualize and interpret data.\n\nUse computational tools to explore real-world scenarios.",
+    "Topics Covered": "Basic Python\n\nData Types and Control Flow\n\nVisualization\n\nComputational Thinking\n\nSocial Impact of Computing",
+    "Tools": "Python\n\nVisual Programming Tools\n\nExcel or Google Sheets",
+    "url1": "https://courses.cs.washington.edu/courses/cse160/25sp",
+    "url2": "https://courses.cs.washington.edu/courses/cse160/24au",
+    "url3": "https://courses.cs.washington.edu/courses/cse160/24wi"
+  },
+  "CSE180": {
+    "Course Description": "CSE160 is a foundations course in computing for non-majors. It introduces data-driven decision making using Python and visual programming. Students explore computation through hands-on labs and visual tools.",
+    "Learning Goals": "Understand basic computing principles.\n\nWrite simple Python scripts for problem solving.\n\nVisualize and interpret data.\n\nUse computational tools to explore real-world scenarios.",
+    "Topics Covered": "Basic Python\n\nData Types and Control Flow\n\nVisualization\n\nComputational Thinking\n\nSocial Impact of Computing",
+    "Tools": "Python\n\nVisual Programming Tools\n\nExcel or Google Sheets",
+    "url1": "https://courses.cs.washington.edu/courses/cse180"
+  },
+  "CSE311": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data",
+    "url1": "https://courses.cs.washington.edu/courses/cse311",
+    "url2": "https://courses.cs.washington.edu/courses/cse311/25sp"
+  },
+  "CSE312": {
+    "Course Description": "CSE312 introduces the fundamentals of computer security and web development. Topics include HTTP, cookies, cross-site scripting, encryption, authentication, and privacy. Students build secure full-stack web apps and analyze real-world vulnerabilities.",
+    "Learning Goals": "Understand the structure of web applications and HTTP.\n\nIdentify and mitigate common security flaws.\n\nApply principles of authentication, encryption, and input validation.\n\nDesign secure software systems.",
+    "Topics Covered": "HTTP and Web Protocols\n\nSession Management\n\nCross-Site Scripting (XSS)\n\nSQL Injection\n\nHashing and Encryption\n\nAuthentication and OAuth\n\nWeb Development Practices",
+    "Tools": "Flask or Node.js\n\nSQLite or PostgreSQL\n\nOpenSSL\n\nDeveloper Tools in Browsers"
+  },
+  "CSE331": {
+    "Course Description": "CSE331 teaches software engineering principles, with a focus on design, specification, testing, and maintenance of software systems. The course emphasizes modularity, abstraction, and documentation. Students also practice collaborative development using version control and issue tracking.",
+    "Learning Goals": "Design modular, abstract, and reusable software components.\n\nWrite formal specifications and test cases.\n\nUnderstand and apply software design patterns.\n\nPractice code reviews, version control, and documentation.",
+    "Topics Covered": "Specification and Abstraction\n\nDesign Patterns\n\nTesting Strategies\n\nVersion Control with Git\n\nSoftware Architecture\n\nDocumentation and Code Reviews\n\nSoftware Lifecycle and Maintenance",
+    "Tools": "Java\n\nGitHub\n\nJUnit\n\nStatic Analysis Tools",
+    "url1": "https://courses.cs.washington.edu/courses/cse331",
+    "url2": "https://courses.cs.washington.edu/courses/cse331/24wi",
+    "url3": "https://courses.cs.washington.edu/courses/cse331/23sp"
+  },
+  "CSE332": {
+    "Course Description": "This course focuses on data structures, parallelism, and algorithms. Students implement and evaluate abstract data types like trees, heaps, hash tables, and graphs. The course also includes parallel programming and big-O analysis for runtime complexity.",
+    "Learning Goals": "Design and implement efficient data structures.\n\nAnalyze algorithms using asymptotic notation.\n\nDevelop parallel solutions to computational problems.\n\nCompare trade-offs between data structure alternatives.",
+    "Topics Covered": "Lists, Stacks, Queues\n\nTrees (Binary, AVL, B-Trees)\n\nHashing and Hash Tables\n\nPriority Queues and Heaps\n\nGraphs and Traversals\n\nSorting Algorithms\n\nAsymptotic Analysis\n\nParallelism Concepts",
+    "Tools": "Java or C++\n\nJUnit Testing\n\nMultithreading Libraries\n\nPerformance Profiling Tools",
+    "url1": "https://courses.cs.washington.edu/courses/cse332/20sp/syllabus.html"
+  },
+  "CSE333": {
+    "Course Description": "Includes substantial programming experience in languages that expose machine characteristics and low-level data representation (e.g., C and C++); explicit memory management; modern libraries and language features; interacting with operating-system services; introduction to concurrent programming. Prerequisite: CSE 351",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse333/25sp"
+  },
+  "CSE340": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE341": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse341/22sp"
+  },
+  "CSE344": {
+    "Course Description": "This course explores data management through the lens of relational databases, emphasizing both theory and practical system-building. Topics include the relational model, SQL, database-backed applications, concurrency, and data analysis. Students will solve problems using set theory and learn to develop Java programs both with and without databases. The course highlights how good theory informs system design, helping students develop a well-rounded understanding of data management.",
+    "Learning Goals": "Understand the relational model and how it represents and stores data.\n\nWrite SQL programs to solve a wide range of data management tasks.\n\nDesign and implement Java programs for data management problems, including both non-database and database-backed approaches.\n\nReason about data using mathematical set theory.\n\nBuild database-backed applications and understand concurrency and transactions.\n\nApply theoretical foundations to build practical data management systems.",
+    "Topics Covered": "Relational Model and Basic SQL\n\nJoins, NULLs, and Database Design\n\nAggregation and Grouping\n\nSubqueries and Relational Algebra\n\nDatabase Design for Applications\n\nDatabase Normalization\n\nTransactions and Concurrency\n\nApplication Development and SQL Injection\n\nQuery Processing\n\nQuery Optimization",
+    "Tools": "SQLite\n\nPostgreSQL\n\nDuckDB\n\nJava",
+    "url1": "https://courses.cs.washington.edu/courses/cse344/24sp"
+  },
+  "CSE351": {
+    "Course Description": "CSE351 bridges the gap between high-level programming and hardware. Students explore the memory hierarchy, assembly language, the C programming language, and system-level concepts like the stack, heap, processes, and virtual memory. This course builds strong systems thinking skills for debugging and performance optimization.",
+    "Learning Goals": "Understand how C programs are executed at the assembly level.\n\nManipulate and analyze memory layout (stack, heap, global).\n\nUnderstand function calling, registers, and stack frames.\n\nAnalyze memory management and caching.\n\nDebug, profile, and optimize system-level code.",
+    "Topics Covered": "x86-64 Assembly\n\nC Programming Language\n\nMemory Layout (Stack, Heap, Global)\n\nPointers and Dynamic Memory\n\nThe Memory Hierarchy\n\nProcesses and System Calls\n\nVirtual Memory and Caching",
+    "Tools": "GCC and Clang compilers\n\ngdb debugger\n\nvalgrind and perf\n\nMakefiles",
+    "url1": "https://courses.cs.washington.edu/courses/cse351/25sp",
+    "url2": "https://courses.cs.washington.edu/courses/cse351/25wi",
+    "url3": "https://courses.cs.washington.edu/courses/cse351/25sp/syllabus.html"
+  },
+  "CSE369": {
+    "Course Description": "This course introduces students to the basic components and techniques that underpin digital circuits, starting from logic gates and building towards larger building blocks such as adders and finite state machines (FSMs). This course emphasizes simulation in SystemVerilog and implementation on field-programmable gate arrays (FPGAs).",
+    "Learning Goals": "Understand the principles of combinational and sequential logic.\n\nDevelop logic simplification skills using Karnaugh maps.\n\nDesign and simulate digital systems using SystemVerilog.\n\nImplement digital logic on FPGAs.\n\nBuild systems incorporating FSMs, shift registers, and arithmetic units.",
+    "Topics Covered": "Combinational logic: logic gates, Boolean algebra\n\nLogic simplification: Karnaugh maps\n\nSequential logic: flip-flops, registers\n\nTiming considerations\n\nFinite state machines (FSMs)\n\nRouting elements and adders\n\nShift registers and counters\n\nSystemVerilog",
+    "Tools": "SystemVerilog\n\nField-Programmable Gate Arrays (FPGAs)\n\nQuartus design software"
+  },
+  "CSE371": {
+    "Course Description": "This course provides a theoretical background in, and practical experience with, tools and techniques for modeling complex digital systems with the SystemVerilog hardware description language. It includes converting software algorithms to hardware and offers the final undergraduate foundation for digital design. Prerequisites include EE 205/215 and EE 271/CSE 369.",
+    "Learning Goals": "Model complex digital systems using SystemVerilog.\n\nTranslate software algorithms into hardware implementations.\n\nDesign and simulate finite state machines and datapath logic.\n\nAnalyze and manage timing and communication across digital circuits.\n\nApply advanced testing techniques including assertions and randomization.",
+    "Topics Covered": "EDA tools and SystemVerilog\n\nFinite State Machines (Mealy and Moore)\n\nMemories: ROM, RAM, register files, FIFO buffers\n\nAlgorithmic State Machine (ASM) charts and Datapath (ASMD)\n\nAlgorithms to hardware/datapath\n\nTiming: static timing analysis, clock domain crossing, pipelining\n\nCommunication\n\nAdvanced Testing: assertions, classes, randomization",
+    "Tools": "SystemVerilog\n\nElectronic Design Automation (EDA) tools",
+    "url1": "https://courses.cs.washington.edu/courses/cse371",
+    "url2": "https://courses.cs.washington.edu/courses/cse371/24sp"
+  },
+  "CSE390Z": {
+    "Course Description": "CSE390Z is a seminar for first-year direct admits, designed to support academic success and community building. Students engage in discussions about college adjustment, resources, identity, and computing culture.",
+    "Learning Goals": "Build a supportive academic community.\n\nEngage in discussions about identity and inclusion in computing.\n\nDevelop strategies for academic and professional success.",
+    "Topics Covered": "Time Management\n\nNavigating the Major\n\nBuilding Community\n\nWellbeing and Self-Advocacy\n\nImposter Syndrome\n\nIdentity and Bias in Tech\n\nCareer Planning",
+    "Tools": "Guest speakers\n\nDiscussion boards\n\nPersonal reflection prompts",
+    "url1": "https://courses.cs.washington.edu/courses/cse390z"
+  },
+  "CSE391": {
+    "Course Description": "This course introduces Unix/Linux tools and scripting techniques for effective software development. Topics include command-line usage, scripting in bash and Python, and software tools such as Git, debuggers, and profilers. The focus is on practical skills for real-world programming and system interaction.",
+    "Learning Goals": "Use Unix/Linux shell and command-line tools effectively.\n\nWrite bash and Python scripts to automate tasks.\n\nUnderstand core software development tools like Git.\n\nApply debugging and profiling tools for program analysis.",
+    "Topics Covered": "Unix Shell\n\nFile Systems and Permissions\n\nScripting with Bash\n\nPython Introduction\n\nVersion Control with Git\n\nBuild Systems\n\nDebugging and Profiling\n\nSoftware Deployment",
+    "Tools": "Unix/Linux Shell\n\nBash\n\nPython\n\nGit\n\ngdb and valgrind\n\nMake/CMake",
+    "url1": "https://courses.cs.washington.edu/courses/cse391"
+  },
+  "CSE401": {
+    "Course Description": "Fundamentals of compilers and interpreters; symbol tables, lexical analysis, syntax analysis, semantic analysis, code generation, and optimization for general purpose programming languages. ",
+    "Learning Goals": " Or, more concretely, how do we program a computer to understand and carry out a computation written as text in a file? The computer only knows 1\u2019s & 0\u2019s: encodings of instructions and data",
+    "Topics Covered": "Divide and Conquer\n\nDynamic Programming\n\nGreedy Algorithms\n\nGraph Algorithms\n\nShortest Paths\n\nMinimum Spanning Trees\n\nNetwork Flows\n\nNP-Completeness\n\nApproximation Algorithms",
+    "Tools": "Written problem-solving techniques\n\nPseudocode for algorithm expression\n\nAlgorithm simulation tools (optional for learning)",
+    "url1": "https://courses.cs.washington.edu/courses/cse401"
+  },
+  "CSE402": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse402"
+  },
+  "CSE403": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE421": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse421/24au",
+    "url2": "https://courses.cs.washington.edu/courses/cse421"
+  },
+  "CSE428": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE431": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE434": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE440": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE441": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse441"
+  },
+  "CSE442": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE446": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse446/25sp"
+  },
+  "CSE447": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse447/23wi"
+  },
+  "CSE451": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE452": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse452/23wi"
+  },
+  "CSE453": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse453"
+  },
+  "CSE455": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse455/23wi"
+  },
+  "CSE456": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE457": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE458": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE459": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE460": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse460"
+  },
+  "CSE461": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE462": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE464": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE469": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse469"
+  },
+  "CSE470": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse470"
+  },
+  "CSE473": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse473/22au"
+  },
+  "CSE474": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE475": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE478": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse478"
+  },
+  "CSE480": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE481": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse481a",
+    "url2": "https://courses.cs.washington.edu/courses/cse481c",
+    "url3": "https://courses.cs.washington.edu/courses/cse481n",
+    "url4": "https://courses.cs.washington.edu/courses/cse481v",
+    "url5": "https://courses.cs.washington.edu/courses/cse481ds"
+  },
+  "CSE481A": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse481a"
+  },
+  "CSE481C": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse481c"
+  },
+  "CSE481D": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse481ds"
+  },
+  "CSE481DS": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse481ds"
+  },
+  "CSE481L": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE481N": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse481n"
+  },
+  "CSE481NE": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE481P": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE481S": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE481V": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse481v"
+  },
+  "CSE482B": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE484": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse484"
+  },
+  "CSE492": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE492C": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE492J": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE492L": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE492P1": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE493C": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE493E": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE493F": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE493G1": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE493H": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE493Q": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse493q",
+    "url2": "https://courses.cs.washington.edu/courses/cse493q/23sp"
+  },
+  "CSE493S": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE493V": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse493v"
+  },
+  "CSE493W": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE493X": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse493x"
+  },
+  "CSE142": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data.",
+    "url1": "https://courses.cs.washington.edu/courses/cse142/22wi/syllabus.html"
+  },
+  "CSE143X": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  },
+  "CSE154": {
+    "Course Description": "no data.",
+    "Learning Goals": "no data.",
+    "Topics Covered": "no data.",
+    "Tools": "no data."
+  }
+}

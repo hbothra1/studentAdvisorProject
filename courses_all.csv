@@ -1,0 +1,143 @@
+course_code,course_title
+CSE 121,Introduction to Computer Programming ICourse
+CSE 122,Introduction to Computer Programming IICourse
+CSE 123,Introduction to Computer Programming IIICourse
+CSE 143,Computer Programming IICoursePrerequisite:Â CSE 142.
+CSE 160,Data ProgrammingCourse
+CSE 163,"Intermediate Data ProgrammingCoursePrerequisite:Â Either CSE 122, CSE 123, CSE 142, CSE 143, or CSE 160."
+CSE 190,Current Topics in Computer Science and EngineeringCourse
+CSE 311,Foundations of Computing ICoursePrerequisite:Â A minimum grade of 2.0 in either CSE 123 or CSE 143; and MATH 126 or MATH 136.
+CSE 312,Foundations of Computing IICoursePrerequisite:Â CSE 311.
+CSE 331,Software Design and ImplementationCoursePrerequisite:Â A minimum grade of 2.0 in either CSE 123 or CSE 143.
+CSE 332,Data Structures and ParallelismCoursePrerequisite:Â CSE 311.
+CSE 333,Systems ProgrammingCoursePrerequisite:Â CSE 351.
+CSE 341,Programming LanguagesCoursePrerequisite:Â CSE 123 or CSE 143.
+CSE 344,Introduction to Data ManagementCoursePrerequisite:Â CSE 311.
+CSE 351,The Hardware/Software InterfaceCoursePrerequisite:Â CSE 123 or CSE 143.
+CSE 369,Introduction to Digital DesignCoursePrerequisite:Â CSE 311.
+CSE 371,Design of Digital Circuits and SystemsCoursePrerequisite:Â Either E E 205 or E E 215; either E E 271 or CSE 369.
+CSE 373,Data Structures and AlgorithmsCoursePrerequisite:Â CSE 123 or CSE 143.
+CSE 390,Special Topics in Computer Science and EngineeringCourse
+CSE 391,"System and Software ToolsCoursePrerequisite:Â Either CSE 122, CSE 123, or CSE 143."
+CSE 403,Software EngineeringCoursePrerequisite:Â CSE 331; CSE 332.
+CSE 412,"Introduction to Data VisualizationCoursePrerequisite:Â Either CSE 123, CSE 143, or CSE 163."
+CSE 414,"Introduction to Database SystemsCoursePrerequisite:Â A minimum grade of 2.5 in either CSE 123, CSE 143, or CSE 163."
+CSE 415,Introduction to Artificial IntelligenceCoursePrerequisite:Â CSE 373.
+CSE 416,"Introduction to Machine LearningCoursePrerequisite:Â Either CSE 123, CSE 143, CSE 160, or CSE 163; and either STAT 311, STAT 390, STAT 391, IND E 315, MATH 394/STAT 394, STAT 395/MATH 395, or Q SCI 381."
+CSE 421,Introduction to AlgorithmsCoursePrerequisite:Â CSE 312; CSE 332.
+CSE 422,Toolkit for Modern AlgorithmsCoursePrerequisite:Â CSE 312; CSE 332; and MATH 208.
+CSE 426,CryptographyCoursePrerequisite:Â CSE 312.
+CSE 431,Introduction to Theory of ComputationCoursePrerequisite:Â CSE 312.
+CSE 440,"Introduction to HCI: User Interface Design, Prototyping, and EvaluationCoursePrerequisite:Â CSE 332."
+CSE 442,Data VisualizationCoursePrerequisite:Â CSE 332.
+CSE 444,Database Systems InternalsCoursePrerequisite:Â CSE 332; and either CSE 344 or CSE 414.
+CSE 446,CSE 440
+CSE 447,Natural Language ProcessingCoursePrerequisite:Â CSE 312 and CSE 332.
+CSE 451,Introduction to Operating SystemsCoursePrerequisite:Â CSE 351; CSE 332; CSE 333.
+CSE 452,Introduction to Distributed SystemsCoursePrerequisite:Â CSE 332 and CSE 333.
+CSE 455,Computer VisionCoursePrerequisite:Â CSE 333; CSE 332.
+CSE 457,Computer GraphicsCoursePrerequisite:Â CSE 333; CSE 332.
+CSE 460,"Animation CapstoneCoursePrerequisite:Â CSE 458, CSE 459."
+CSE 461,Introduction to Computer-Communication NetworksCoursePrerequisite:Â Either CSE 326 or CSE 332; either CSE 303 or CSE 333.
+CSE 469,Computer Architecture ICoursePrerequisite:Â Either E E 271 or CSE 369; and either CSE 123 or CSE 143.
+CSE 473,Introduction to Artificial IntelligenceCoursePrerequisite:Â CSE 312 and CSE 332.
+CSE 474,Introduction to Embedded SystemsCoursePrerequisite:Â CSE 123 or CSE 143
+CSE 475,Embedded Systems CapstoneCoursePrerequisite:Â E E 271 or CSE 369; and E E 472 or CSE 474/E E 474.
+CSE 478,Autonomous RoboticsCoursePrerequisite:Â CSE 332.
+CSE 480,Computer Ethics SeminarCourse
+CSE 481,"Capstone Software DesignCoursePrerequisite:Â CSE 312; CSE 332; CSE 351; and either CSE 331, CSE 333, or CSE 369."
+CSE 482,Capstone Software Design to Empower Underserved PopulationsCoursePrerequisite:Â CSE 332; CSE 351; either CSE 331 or CSE 352.
+CSE 484,Computer SecurityCoursePrerequisite:Â CSE 332; CSE 351.
+CSE 490,Special Topics in Computer Science and EngineeringCourse
+CSE 492,Undergraduate SeminarCourse
+CSE 493,Advanced Special Topics in Computer Science and EngineeringCourse
+CSE 495,Project PracticumCourse
+CSE 496,Honors Undergraduate ResearchCourse
+CSE 498,Undergraduate ResearchCourse
+CSE 499,Reading and ResearchCourse
+CSE 503,Software EngineeringCourse
+CSE 510,Advanced Topics in Human-Computer InteractionCourse
+HCDE 210,Explorations in Human Centered Design
+HCDE 308,Visual Communication in Human Centered Design and Engineering
+HCDE 498,Advanced Special Topics
+HCDE 532,Web Design Studio
+HCDE 298,Introductory Special Topics
+HCDE 300,Foundations of Human Centered Design and Engineering
+HCDE 301,Advanced Communication in HCDE
+HCDE 302,Foundations of Human Centered Design I
+HCDE 303,Foundations of Human Centered Design II
+HCDE 310,Interactive Systems Design and Technology
+HCDE 313,Introduction to User Research
+HCDE 315,Inclusive Design and Engineering
+HCDE 316,Sustainable Design
+HCDE 318,Introduction to User-Centered Design
+HCDE 321,Professional Portfolio
+HCDE 322,Organizational Teamwork
+HCDE 351,User Experience Prototyping Techniques
+HCDE 398,Special Topics
+HCDE 410,Human Data Interaction
+HCDE 411,Information Visualization
+HCDE 412,Qualitative Research Methods in Human Centered Design and Engineering
+HCDE 417,Usability Research Techniques
+HCDE 418,Advanced Projects in Human Centered Design and Engineering
+HCDE 419,Concepts in Human-Computer Interaction
+HCDE 438,Web Technologies
+HCDE 439,Physical Computing
+HCDE 440,Advanced Physical Computing
+HCDE 485,Material and Cultural Bias in Algorithmic Systems
+HCDE 492,Capstone Planning
+HCDE 493,Senior Capstone
+HCDE 494,Independent Study in Human Centered Design and Engineering
+HCDE 496,Directed Research in Human Centered Design and Engineering
+HCDE 497,Study Abroad: Human Centered Design and Engineering
+HCDE 499,Individual Research
+HCDE 501,Theoretical Foundations of Human Centered Design and Engineering
+HCDE 502,Empirical Traditions in Human Centered Design and Engineering
+HCDE 503,Navigating Design in Organizations
+HCDE 505,Computer-Assisted Communication
+HCDE 508,Visual Communication
+HCDE 509,Writing the Scientific Article
+HCDE 510,Information Design
+HCDE 511,Information Visualization
+HCDE 512,International User Experience and Communication
+HCDE 513,Globalization and Localization Management
+HCDE 514,Strategies for International Product Management
+HCDE 515,Accessibility and Inclusive Design
+HCDE 516,Experimental Research Methods
+HCDE 517,Usability Studies
+HCDE 518,User-Centered Design
+HCDE 519,Qualitative Research Methods
+HCDE 520,Design and Management of Complex Systems
+HCDE 521,Seminar: Current Issues in Human Centered Design and Engineering
+HCDE 523,Design Use Build
+HCDE 524,Programming Concepts in HCDE
+HCDE 525,Emerging Issues in Human Centered Design and Engineering
+HCDE 526,Video Prototyping
+HCDE 529,Service Design
+HCDE 530,Computational Concepts in HCDE
+HCDE 533,Digital Fabrication
+HCDE 534,Designing a Human Centered Venture
+HCDE 536,Interaction Design and Prototyping
+HCDE 537,User-Centered Web Design
+HCDE 538,Designing for Behavior Change
+HCDE 539,Physical Computing and Prototyping
+HCDE 541,Introduction to PhD Studies in HCDE
+HCDE 542,Theoretical Foundations in Human Centered Design and Engineering
+HCDE 543,Empirical Traditions in Human Centered Design and Engineering
+HCDE 544,Experimental and Quasi-Experimental Research Methods
+HCDE 545,Qualitative Research Methods
+HCDE 546,Design Thinking
+HCDE 547,Academic Research Seminar
+HCDE 548,Advanced Topics in Human Centered Design and Engineering
+HCDE 554,Engineering as Research and Inquiry
+HCDE 555,Design as Research and Inquiry
+HCDE 592,Capstone Planning
+HCDE 593,Capstone
+HCDE 596,Directed Research in Human Centered Design and Engineering
+HCDE 597,Approaches to Teaching Technical Communication
+HCDE 598,Special Topics
+HCDE 599,Special Projects
+HCDE 600,Independent Study or Research
+HCDE 601,Internship
+HCDE 700,Master's Thesis
+HCDE 800,Doctoral Dissertation

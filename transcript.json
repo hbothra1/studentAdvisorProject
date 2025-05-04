@@ -1,0 +1,38 @@
+[
+    {
+        "Quarter": "AUTUMN 2023 CSE",
+        "Courses": [
+            {
+                "Course Code": "ENGL 121",
+                "Course Name": "SPECIAL TOPICS",
+                "Credits": "5.0",
+                "Grade": "4.0"
+            },
+            {
+                "Course Code": "PHYS 121",
+                "Course Name": "MECHANICS",
+                "Credits": "5.0",
+                "Grade": "4.0"
+            },
+            {
+                "Course Code": "MATH 121",
+                "Course Name": "CALCULUS ANLYT GEOM 5.",
+                "Credits": "0",
+                "Grade": "4.0"
+            }
+        ]
+    },
+    {
+        "Quarter": "WINTER 2025 CSE 8 (Work in Progress)",
+        "Courses": [
+            {
+                "Course Code": "MATH 208",
+                "Course Name": "MTRX ALGB & APPL",
+                "Credits": "3.0",
+                "Grade": "WIP"
+            }
+        ],
+        "Credits Earned": null,
+        "GPA": null
+    }
+]

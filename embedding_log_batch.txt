@@ -1,0 +1,3094 @@
+2025-04-11 00:28:13,966 - Added source_url column to embeddings table
+2025-04-11 00:28:13,967 - Processing CSE120 → CSE 120
+2025-04-11 00:28:13,967 - Inserted embeddings for CSE 120
+2025-04-11 00:28:13,967 - Processing CSE121 → CSE 121
+2025-04-11 00:28:13,967 - Error processing CSE 121: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,967 - Processing CSE122 → CSE 122
+2025-04-11 00:28:13,967 - Error processing CSE 122: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,967 - Processing CSE123 → CSE 123
+2025-04-11 00:28:13,967 - Error processing CSE 123: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE143 → CSE 143
+2025-04-11 00:28:13,968 - Error processing CSE 143: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE163 → CSE 163
+2025-04-11 00:28:13,968 - Error processing CSE 163: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE160 → CSE 160
+2025-04-11 00:28:13,968 - Error processing CSE 160: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE180 → CSE 180
+2025-04-11 00:28:13,968 - Error processing CSE 180: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE311 → CSE 311
+2025-04-11 00:28:13,968 - Error processing CSE 311: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE312 → CSE 312
+2025-04-11 00:28:13,968 - Error processing CSE 312: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE331 → CSE 331
+2025-04-11 00:28:13,968 - Error processing CSE 331: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE332 → CSE 332
+2025-04-11 00:28:13,968 - Error processing CSE 332: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE333 → CSE 333
+2025-04-11 00:28:13,968 - Error processing CSE 333: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE340 → CSE 340
+2025-04-11 00:28:13,968 - Inserted embeddings for CSE 340
+2025-04-11 00:28:13,968 - Processing CSE341 → CSE 341
+2025-04-11 00:28:13,968 - Inserted embeddings for CSE 341
+2025-04-11 00:28:13,968 - Processing CSE344 → CSE 344
+2025-04-11 00:28:13,968 - Error processing CSE 344: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE351 → CSE 351
+2025-04-11 00:28:13,968 - Error processing CSE 351: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE369 → CSE 369
+2025-04-11 00:28:13,968 - Error processing CSE 369: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE371 → CSE 371
+2025-04-11 00:28:13,968 - Error processing CSE 371: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE390Z → CSE 390Z
+2025-04-11 00:28:13,968 - Error processing CSE 390Z: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE391 → CSE 391
+2025-04-11 00:28:13,968 - Error processing CSE 391: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE401 → CSE 401
+2025-04-11 00:28:13,968 - Error processing CSE 401: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE402 → CSE 402
+2025-04-11 00:28:13,968 - Error processing CSE 402: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE403 → CSE 403
+2025-04-11 00:28:13,968 - Error processing CSE 403: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE421 → CSE 421
+2025-04-11 00:28:13,968 - Error processing CSE 421: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE422 → CSE 422
+2025-04-11 00:28:13,968 - Error processing CSE 422: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE426 → CSE 426
+2025-04-11 00:28:13,968 - Error processing CSE 426: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE427 → CSE 427
+2025-04-11 00:28:13,968 - Error processing CSE 427: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE428 → CSE 428
+2025-04-11 00:28:13,968 - Inserted embeddings for CSE 428
+2025-04-11 00:28:13,968 - Processing CSE431 → CSE 431
+2025-04-11 00:28:13,968 - Error processing CSE 431: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE434 → CSE 434
+2025-04-11 00:28:13,968 - Error processing CSE 434: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,968 - Processing CSE440 → CSE 440
+2025-04-11 00:28:13,968 - Error processing CSE 440: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE441 → CSE 441
+2025-04-11 00:28:13,969 - Error processing CSE 441: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE442 → CSE 442
+2025-04-11 00:28:13,969 - Error processing CSE 442: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE444 → CSE 444
+2025-04-11 00:28:13,969 - Error processing CSE 444: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE446 → CSE 446
+2025-04-11 00:28:13,969 - Error processing CSE 446: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE447 → CSE 447
+2025-04-11 00:28:13,969 - Error processing CSE 447: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE451 → CSE 451
+2025-04-11 00:28:13,969 - Error processing CSE 451: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE452 → CSE 452
+2025-04-11 00:28:13,969 - Error processing CSE 452: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE453 → CSE 453
+2025-04-11 00:28:13,969 - Error processing CSE 453: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE455 → CSE 455
+2025-04-11 00:28:13,969 - Error processing CSE 455: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE456 → CSE 456
+2025-04-11 00:28:13,969 - Error processing CSE 456: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE457 → CSE 457
+2025-04-11 00:28:13,969 - Error processing CSE 457: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE458 → CSE 458
+2025-04-11 00:28:13,969 - Error processing CSE 458: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE459 → CSE 459
+2025-04-11 00:28:13,969 - Inserted embeddings for CSE 459
+2025-04-11 00:28:13,969 - Processing CSE460 → CSE 460
+2025-04-11 00:28:13,969 - Error processing CSE 460: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE461 → CSE 461
+2025-04-11 00:28:13,969 - Error processing CSE 461: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE462 → CSE 462
+2025-04-11 00:28:13,969 - Error processing CSE 462: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE464 → CSE 464
+2025-04-11 00:28:13,969 - Error processing CSE 464: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE469 → CSE 469
+2025-04-11 00:28:13,969 - Error processing CSE 469: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE470 → CSE 470
+2025-04-11 00:28:13,969 - Error processing CSE 470: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE473 → CSE 473
+2025-04-11 00:28:13,969 - Error processing CSE 473: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE474 → CSE 474
+2025-04-11 00:28:13,969 - Error processing CSE 474: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE475 → CSE 475
+2025-04-11 00:28:13,969 - Inserted embeddings for CSE 475
+2025-04-11 00:28:13,969 - Processing CSE478 → CSE 478
+2025-04-11 00:28:13,969 - Error processing CSE 478: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE480 → CSE 480
+2025-04-11 00:28:13,969 - Error processing CSE 480: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE481 → CSE 481
+2025-04-11 00:28:13,969 - Inserted embeddings for CSE 481
+2025-04-11 00:28:13,969 - Processing CSE481A → CSE 481A
+2025-04-11 00:28:13,969 - Error processing CSE 481A: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE481C → CSE 481C
+2025-04-11 00:28:13,969 - Error processing CSE 481C: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE481D → CSE 481D
+2025-04-11 00:28:13,969 - Inserted embeddings for CSE 481D
+2025-04-11 00:28:13,969 - Processing CSE481DS → CSE 481DS
+2025-04-11 00:28:13,969 - Error processing CSE 481DS: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE481L → CSE 481L
+2025-04-11 00:28:13,969 - Error processing CSE 481L: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE481N → CSE 481N
+2025-04-11 00:28:13,969 - Inserted embeddings for CSE 481N
+2025-04-11 00:28:13,969 - Processing CSE481NE → CSE 481NE
+2025-04-11 00:28:13,969 - Inserted embeddings for CSE 481NE
+2025-04-11 00:28:13,969 - Processing CSE481P → CSE 481P
+2025-04-11 00:28:13,969 - Error processing CSE 481P: 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-04-11 00:28:13,969 - Processing CSE481S → CSE 481S
+2025-04-11 00:28:13,969 - Inserted embeddings for CSE 481S
+2025-04-11 00:28:13,969 - Processing CSE481V → CSE 481V
+2025-04-11 00:28:13,969 - Inserted embeddings for CSE 481V
+2025-04-11 00:28:13,969 - Processing CSE482B → CSE 482B
+2025-04-11 00:28:13,969 - Inserted embeddings for CSE 482B
+2025-04-11 00:28:13,969 - Processing CSE484 → CSE 484
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 484
+2025-04-11 00:28:13,970 - Processing CSE492 → CSE 492
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 492
+2025-04-11 00:28:13,970 - Processing CSE492C → CSE 492C
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 492C
+2025-04-11 00:28:13,970 - Processing CSE492J → CSE 492J
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 492J
+2025-04-11 00:28:13,970 - Processing CSE492L → CSE 492L
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 492L
+2025-04-11 00:28:13,970 - Processing CSE492P1 → CSE 492P1
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 492P1
+2025-04-11 00:28:13,970 - Processing CSE493C → CSE 493C
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 493C
+2025-04-11 00:28:13,970 - Processing CSE493E → CSE 493E
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 493E
+2025-04-11 00:28:13,970 - Processing CSE493F → CSE 493F
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 493F
+2025-04-11 00:28:13,970 - Processing CSE493G1 → CSE 493G1
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 493G1
+2025-04-11 00:28:13,970 - Processing CSE493H → CSE 493H
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 493H
+2025-04-11 00:28:13,970 - Processing CSE493Q → CSE 493Q
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 493Q
+2025-04-11 00:28:13,970 - Processing CSE493S → CSE 493S
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 493S
+2025-04-11 00:28:13,970 - Processing CSE493V → CSE 493V
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 493V
+2025-04-11 00:28:13,970 - Processing CSE493W → CSE 493W
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 493W
+2025-04-11 00:28:13,970 - Processing CSE493X → CSE 493X
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 493X
+2025-04-11 00:28:13,970 - Processing CSE142 → CSE 142
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 142
+2025-04-11 00:28:13,970 - Processing CSE143X → CSE 143X
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 143X
+2025-04-11 00:28:13,970 - Processing CSE154 → CSE 154
+2025-04-11 00:28:13,970 - Inserted embeddings for CSE 154
+2025-04-11 00:46:56,159 - Processing CSE120 → CSE 120
+2025-04-11 00:46:56,160 - Skipping CSE 120: already exists
+2025-04-11 00:46:56,160 - Processing CSE121 → CSE 121
+2025-04-11 00:46:57,613 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:46:58,556 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:46:59,259 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:46:59,469 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:46:59,491 - Inserted embeddings for CSE 121
+2025-04-11 00:46:59,491 - Processing CSE122 → CSE 122
+2025-04-11 00:47:00,284 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:00,838 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:02,126 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:03,767 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:03,772 - Inserted embeddings for CSE 122
+2025-04-11 00:47:03,773 - Processing CSE123 → CSE 123
+2025-04-11 00:47:04,639 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:04,842 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:05,125 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:05,336 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:05,340 - Inserted embeddings for CSE 123
+2025-04-11 00:47:05,340 - Processing CSE143 → CSE 143
+2025-04-11 00:47:05,885 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:06,442 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:06,746 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:07,362 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:07,363 - Inserted embeddings for CSE 143
+2025-04-11 00:47:07,363 - Processing CSE163 → CSE 163
+2025-04-11 00:47:07,841 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:08,374 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:08,692 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:09,400 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:09,405 - Inserted embeddings for CSE 163
+2025-04-11 00:47:09,405 - Processing CSE160 → CSE 160
+2025-04-11 00:47:09,807 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:11,177 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:11,319 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:12,047 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:12,051 - Inserted embeddings for CSE 160
+2025-04-11 00:47:12,051 - Processing CSE180 → CSE 180
+2025-04-11 00:47:12,366 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:12,535 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:12,849 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:12,985 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:12,989 - Inserted embeddings for CSE 180
+2025-04-11 00:47:12,990 - Processing CSE311 → CSE 311
+2025-04-11 00:47:13,291 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:13,294 - Inserted embeddings for CSE 311
+2025-04-11 00:47:13,294 - Processing CSE312 → CSE 312
+2025-04-11 00:47:13,700 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:14,108 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:14,307 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:14,787 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:14,792 - Inserted embeddings for CSE 312
+2025-04-11 00:47:14,792 - Processing CSE331 → CSE 331
+2025-04-11 00:47:15,138 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:15,369 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:15,823 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:16,031 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:16,036 - Inserted embeddings for CSE 331
+2025-04-11 00:47:16,036 - Processing CSE332 → CSE 332
+2025-04-11 00:47:16,256 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:16,668 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:17,282 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:17,413 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:17,415 - Inserted embeddings for CSE 332
+2025-04-11 00:47:17,415 - Processing CSE333 → CSE 333
+2025-04-11 00:47:17,582 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:17,586 - Inserted embeddings for CSE 333
+2025-04-11 00:47:17,586 - Processing CSE340 → CSE 340
+2025-04-11 00:47:17,586 - Skipping CSE 340: already exists
+2025-04-11 00:47:17,586 - Processing CSE341 → CSE 341
+2025-04-11 00:47:17,586 - Skipping CSE 341: already exists
+2025-04-11 00:47:17,587 - Processing CSE344 → CSE 344
+2025-04-11 00:47:17,791 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:18,244 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:18,612 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:18,961 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:18,964 - Inserted embeddings for CSE 344
+2025-04-11 00:47:18,964 - Processing CSE351 → CSE 351
+2025-04-11 00:47:19,757 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:19,957 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:20,132 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:20,264 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:20,268 - Inserted embeddings for CSE 351
+2025-04-11 00:47:20,268 - Processing CSE369 → CSE 369
+2025-04-11 00:47:20,821 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:21,043 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:21,275 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:21,443 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:21,447 - Inserted embeddings for CSE 369
+2025-04-11 00:47:21,447 - Processing CSE371 → CSE 371
+2025-04-11 00:47:21,826 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:22,198 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:24,762 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:25,379 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:25,381 - Inserted embeddings for CSE 371
+2025-04-11 00:47:25,381 - Processing CSE390Z → CSE 390Z
+2025-04-11 00:47:25,761 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:25,925 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:26,299 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:26,745 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:26,749 - Inserted embeddings for CSE 390Z
+2025-04-11 00:47:26,750 - Processing CSE391 → CSE 391
+2025-04-11 00:47:26,979 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:27,256 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:27,526 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:27,747 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:27,753 - Inserted embeddings for CSE 391
+2025-04-11 00:47:27,753 - Processing CSE401 → CSE 401
+2025-04-11 00:47:28,241 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:28,849 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:29,263 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:29,985 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:29,990 - Inserted embeddings for CSE 401
+2025-04-11 00:47:29,990 - Processing CSE402 → CSE 402
+2025-04-11 00:47:30,491 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:30,802 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:31,071 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:31,074 - Inserted embeddings for CSE 402
+2025-04-11 00:47:31,074 - Processing CSE403 → CSE 403
+2025-04-11 00:47:31,251 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:31,475 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:31,826 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:32,055 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:32,060 - Inserted embeddings for CSE 403
+2025-04-11 00:47:32,061 - Processing CSE421 → CSE 421
+2025-04-11 00:47:32,436 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:32,602 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:32,774 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:32,780 - Inserted embeddings for CSE 421
+2025-04-11 00:47:32,780 - Processing CSE422 → CSE 422
+2025-04-11 00:47:33,155 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:33,379 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 400 Bad Request"
+2025-04-11 00:47:33,385 - OpenAI API error: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-04-11 00:47:33,865 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:34,089 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:34,093 - Inserted embeddings for CSE 422
+2025-04-11 00:47:34,093 - Processing CSE426 → CSE 426
+2025-04-11 00:47:34,486 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:34,799 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:35,265 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:35,268 - Inserted embeddings for CSE 426
+2025-04-11 00:47:35,268 - Processing CSE427 → CSE 427
+2025-04-11 00:47:35,448 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:35,643 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:35,693 - Inserted embeddings for CSE 427
+2025-04-11 00:47:35,698 - Processing CSE428 → CSE 428
+2025-04-11 00:47:35,698 - Skipping CSE 428: already exists
+2025-04-11 00:47:35,698 - Processing CSE431 → CSE 431
+2025-04-11 00:47:35,891 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:36,042 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:36,250 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:36,636 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:36,641 - Inserted embeddings for CSE 431
+2025-04-11 00:47:36,641 - Processing CSE434 → CSE 434
+2025-04-11 00:47:36,929 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:36,934 - Inserted embeddings for CSE 434
+2025-04-11 00:47:36,935 - Processing CSE440 → CSE 440
+2025-04-11 00:47:37,352 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:37,529 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:37,761 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:38,275 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:38,281 - Inserted embeddings for CSE 440
+2025-04-11 00:47:38,281 - Processing CSE441 → CSE 441
+2025-04-11 00:47:38,787 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:38,791 - Inserted embeddings for CSE 441
+2025-04-11 00:47:38,791 - Processing CSE442 → CSE 442
+2025-04-11 00:47:39,030 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:39,236 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:39,488 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:39,915 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:39,920 - Inserted embeddings for CSE 442
+2025-04-11 00:47:39,920 - Processing CSE444 → CSE 444
+2025-04-11 00:47:40,180 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:40,527 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:40,731 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:41,004 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:41,010 - Inserted embeddings for CSE 444
+2025-04-11 00:47:41,010 - Processing CSE446 → CSE 446
+2025-04-11 00:47:41,346 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:41,614 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:42,028 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:42,212 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:42,218 - Inserted embeddings for CSE 446
+2025-04-11 00:47:42,218 - Processing CSE447 → CSE 447
+2025-04-11 00:47:42,329 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:42,524 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:44,575 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:44,733 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:44,738 - Inserted embeddings for CSE 447
+2025-04-11 00:47:44,738 - Processing CSE451 → CSE 451
+2025-04-11 00:47:44,945 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:45,542 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:45,823 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:46,176 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:46,182 - Inserted embeddings for CSE 451
+2025-04-11 00:47:46,182 - Processing CSE452 → CSE 452
+2025-04-11 00:47:46,571 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:49,237 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:49,848 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:50,159 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:50,166 - Inserted embeddings for CSE 452
+2025-04-11 00:47:50,166 - Processing CSE453 → CSE 453
+2025-04-11 00:47:50,331 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:50,674 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:50,900 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:51,432 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:51,437 - Inserted embeddings for CSE 453
+2025-04-11 00:47:51,437 - Processing CSE455 → CSE 455
+2025-04-11 00:47:52,310 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:52,972 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:53,080 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:53,277 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:53,283 - Inserted embeddings for CSE 455
+2025-04-11 00:47:53,283 - Processing CSE456 → CSE 456
+2025-04-11 00:47:53,420 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:55,651 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:55,987 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:56,401 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:56,407 - Inserted embeddings for CSE 456
+2025-04-11 00:47:56,407 - Processing CSE457 → CSE 457
+2025-04-11 00:47:56,702 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:56,945 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:57,329 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:57,518 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:57,521 - Inserted embeddings for CSE 457
+2025-04-11 00:47:57,522 - Processing CSE458 → CSE 458
+2025-04-11 00:47:57,760 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:57,980 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:58,448 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:58,768 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:58,773 - Inserted embeddings for CSE 458
+2025-04-11 00:47:58,773 - Processing CSE459 → CSE 459
+2025-04-11 00:47:58,773 - Skipping CSE 459: already exists
+2025-04-11 00:47:58,773 - Processing CSE460 → CSE 460
+2025-04-11 00:47:58,961 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:59,374 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:59,561 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:59,721 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:47:59,727 - Inserted embeddings for CSE 460
+2025-04-11 00:47:59,727 - Processing CSE461 → CSE 461
+2025-04-11 00:48:00,002 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:00,293 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:00,470 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:00,859 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:01,040 - Inserted embeddings for CSE 461
+2025-04-11 00:48:01,040 - Processing CSE462 → CSE 462
+2025-04-11 00:48:01,199 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:01,593 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:01,887 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:02,116 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:02,125 - Inserted embeddings for CSE 462
+2025-04-11 00:48:02,125 - Processing CSE464 → CSE 464
+2025-04-11 00:48:02,307 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:02,311 - Inserted embeddings for CSE 464
+2025-04-11 00:48:02,311 - Processing CSE469 → CSE 469
+2025-04-11 00:48:02,572 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:02,577 - Inserted embeddings for CSE 469
+2025-04-11 00:48:02,577 - Processing CSE470 → CSE 470
+2025-04-11 00:48:02,803 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:02,808 - Inserted embeddings for CSE 470
+2025-04-11 00:48:02,808 - Processing CSE473 → CSE 473
+2025-04-11 00:48:05,836 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:05,998 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:06,182 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:06,187 - Inserted embeddings for CSE 473
+2025-04-11 00:48:06,187 - Processing CSE474 → CSE 474
+2025-04-11 00:48:06,645 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:06,873 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:07,059 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:07,458 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:07,460 - Inserted embeddings for CSE 474
+2025-04-11 00:48:07,460 - Processing CSE475 → CSE 475
+2025-04-11 00:48:07,460 - Skipping CSE 475: already exists
+2025-04-11 00:48:07,460 - Processing CSE478 → CSE 478
+2025-04-11 00:48:07,625 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:12,195 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:12,404 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:12,631 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:12,636 - Inserted embeddings for CSE 478
+2025-04-11 00:48:12,637 - Processing CSE480 → CSE 480
+2025-04-11 00:48:12,822 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:13,028 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:13,213 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:13,416 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:13,422 - Inserted embeddings for CSE 480
+2025-04-11 00:48:13,423 - Processing CSE481 → CSE 481
+2025-04-11 00:48:13,423 - Skipping CSE 481: already exists
+2025-04-11 00:48:13,423 - Processing CSE481A → CSE 481A
+2025-04-11 00:48:13,628 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:13,803 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:13,969 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:17,398 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:17,401 - Inserted embeddings for CSE 481A
+2025-04-11 00:48:17,401 - Processing CSE481C → CSE 481C
+2025-04-11 00:48:17,701 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:17,987 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:18,254 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:18,441 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:18,447 - Inserted embeddings for CSE 481C
+2025-04-11 00:48:18,447 - Processing CSE481D → CSE 481D
+2025-04-11 00:48:18,447 - Skipping CSE 481D: already exists
+2025-04-11 00:48:18,447 - Processing CSE481DS → CSE 481DS
+2025-04-11 00:48:18,695 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:18,861 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:19,070 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:19,230 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:19,236 - Inserted embeddings for CSE 481DS
+2025-04-11 00:48:19,236 - Processing CSE481L → CSE 481L
+2025-04-11 00:48:19,384 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:19,595 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:19,826 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:20,009 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:20,015 - Inserted embeddings for CSE 481L
+2025-04-11 00:48:20,016 - Processing CSE481N → CSE 481N
+2025-04-11 00:48:20,016 - Skipping CSE 481N: already exists
+2025-04-11 00:48:20,016 - Processing CSE481NE → CSE 481NE
+2025-04-11 00:48:20,016 - Skipping CSE 481NE: already exists
+2025-04-11 00:48:20,016 - Processing CSE481P → CSE 481P
+2025-04-11 00:48:20,197 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:20,527 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:20,822 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:21,054 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-11 00:48:21,059 - Inserted embeddings for CSE 481P
+2025-04-11 00:48:21,059 - Processing CSE481S → CSE 481S
+2025-04-11 00:48:21,060 - Skipping CSE 481S: already exists
+2025-04-11 00:48:21,060 - Processing CSE481V → CSE 481V
+2025-04-11 00:48:21,060 - Skipping CSE 481V: already exists
+2025-04-11 00:48:21,060 - Processing CSE482B → CSE 482B
+2025-04-11 00:48:21,060 - Skipping CSE 482B: already exists
+2025-04-11 00:48:21,060 - Processing CSE484 → CSE 484
+2025-04-11 00:48:21,061 - Skipping CSE 484: already exists
+2025-04-11 00:48:21,061 - Processing CSE492 → CSE 492
+2025-04-11 00:48:21,061 - Skipping CSE 492: already exists
+2025-04-11 00:48:21,061 - Processing CSE492C → CSE 492C
+2025-04-11 00:48:21,061 - Skipping CSE 492C: already exists
+2025-04-11 00:48:21,061 - Processing CSE492J → CSE 492J
+2025-04-11 00:48:21,061 - Skipping CSE 492J: already exists
+2025-04-11 00:48:21,061 - Processing CSE492L → CSE 492L
+2025-04-11 00:48:21,061 - Skipping CSE 492L: already exists
+2025-04-11 00:48:21,061 - Processing CSE492P1 → CSE 492P1
+2025-04-11 00:48:21,062 - Skipping CSE 492P1: already exists
+2025-04-11 00:48:21,062 - Processing CSE493C → CSE 493C
+2025-04-11 00:48:21,062 - Skipping CSE 493C: already exists
+2025-04-11 00:48:21,062 - Processing CSE493E → CSE 493E
+2025-04-11 00:48:21,062 - Skipping CSE 493E: already exists
+2025-04-11 00:48:21,062 - Processing CSE493F → CSE 493F
+2025-04-11 00:48:21,062 - Skipping CSE 493F: already exists
+2025-04-11 00:48:21,062 - Processing CSE493G1 → CSE 493G1
+2025-04-11 00:48:21,062 - Skipping CSE 493G1: already exists
+2025-04-11 00:48:21,062 - Processing CSE493H → CSE 493H
+2025-04-11 00:48:21,062 - Skipping CSE 493H: already exists
+2025-04-11 00:48:21,062 - Processing CSE493Q → CSE 493Q
+2025-04-11 00:48:21,062 - Skipping CSE 493Q: already exists
+2025-04-11 00:48:21,062 - Processing CSE493S → CSE 493S
+2025-04-11 00:48:21,062 - Skipping CSE 493S: already exists
+2025-04-11 00:48:21,062 - Processing CSE493V → CSE 493V
+2025-04-11 00:48:21,062 - Skipping CSE 493V: already exists
+2025-04-11 00:48:21,063 - Processing CSE493W → CSE 493W
+2025-04-11 00:48:21,063 - Skipping CSE 493W: already exists
+2025-04-11 00:48:21,063 - Processing CSE493X → CSE 493X
+2025-04-11 00:48:21,063 - Skipping CSE 493X: already exists
+2025-04-11 00:48:21,063 - Processing CSE142 → CSE 142
+2025-04-11 00:48:21,063 - Skipping CSE 142: already exists
+2025-04-11 00:48:21,063 - Processing CSE143X → CSE 143X
+2025-04-11 00:48:21,064 - Skipping CSE 143X: already exists
+2025-04-11 00:48:21,064 - Processing CSE154 → CSE 154
+2025-04-11 00:48:21,064 - Skipping CSE 154: already exists
+2025-04-25 11:18:01,516 - Processing CSE120 → CSE 120
+2025-04-25 11:18:05,512 - Error processing CSE 120: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,513 - Processing CSE121 → CSE 121
+2025-04-25 11:18:05,513 - Error processing CSE 121: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,513 - Processing CSE122 → CSE 122
+2025-04-25 11:18:05,513 - Error processing CSE 122: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,513 - Processing CSE123 → CSE 123
+2025-04-25 11:18:05,513 - Error processing CSE 123: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,513 - Processing CSE143 → CSE 143
+2025-04-25 11:18:05,513 - Error processing CSE 143: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,513 - Processing CSE163 → CSE 163
+2025-04-25 11:18:05,513 - Error processing CSE 163: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,513 - Processing CSE160 → CSE 160
+2025-04-25 11:18:05,514 - Error processing CSE 160: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,514 - Processing CSE180 → CSE 180
+2025-04-25 11:18:05,514 - Error processing CSE 180: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,514 - Processing CSE311 → CSE 311
+2025-04-25 11:18:05,514 - Error processing CSE 311: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,514 - Processing CSE312 → CSE 312
+2025-04-25 11:18:05,514 - Error processing CSE 312: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,514 - Processing CSE331 → CSE 331
+2025-04-25 11:18:05,514 - Error processing CSE 331: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,514 - Processing CSE332 → CSE 332
+2025-04-25 11:18:05,514 - Error processing CSE 332: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,514 - Processing CSE333 → CSE 333
+2025-04-25 11:18:05,514 - Error processing CSE 333: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,515 - Processing CSE340 → CSE 340
+2025-04-25 11:18:05,515 - Error processing CSE 340: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,515 - Processing CSE341 → CSE 341
+2025-04-25 11:18:05,515 - Error processing CSE 341: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,515 - Processing CSE344 → CSE 344
+2025-04-25 11:18:05,515 - Error processing CSE 344: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,515 - Processing CSE351 → CSE 351
+2025-04-25 11:18:05,515 - Error processing CSE 351: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,515 - Processing CSE369 → CSE 369
+2025-04-25 11:18:05,515 - Error processing CSE 369: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,515 - Processing CSE371 → CSE 371
+2025-04-25 11:18:05,515 - Error processing CSE 371: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,515 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:18:05,515 - Error processing CSE 390Z: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,515 - Processing CSE391 → CSE 391
+2025-04-25 11:18:05,516 - Error processing CSE 391: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,516 - Processing CSE401 → CSE 401
+2025-04-25 11:18:05,516 - Error processing CSE 401: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,516 - Processing CSE402 → CSE 402
+2025-04-25 11:18:05,516 - Error processing CSE 402: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,516 - Processing CSE403 → CSE 403
+2025-04-25 11:18:05,516 - Error processing CSE 403: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,516 - Processing CSE421 → CSE 421
+2025-04-25 11:18:05,516 - Error processing CSE 421: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,516 - Processing CSE422 → CSE 422
+2025-04-25 11:18:05,516 - Error processing CSE 422: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,516 - Processing CSE426 → CSE 426
+2025-04-25 11:18:05,516 - Error processing CSE 426: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,516 - Processing CSE427 → CSE 427
+2025-04-25 11:18:05,516 - Error processing CSE 427: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,517 - Processing CSE428 → CSE 428
+2025-04-25 11:18:05,517 - Error processing CSE 428: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,517 - Processing CSE431 → CSE 431
+2025-04-25 11:18:05,517 - Error processing CSE 431: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,517 - Processing CSE434 → CSE 434
+2025-04-25 11:18:05,517 - Error processing CSE 434: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,517 - Processing CSE440 → CSE 440
+2025-04-25 11:18:05,517 - Error processing CSE 440: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,517 - Processing CSE441 → CSE 441
+2025-04-25 11:18:05,518 - Error processing CSE 441: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,518 - Processing CSE442 → CSE 442
+2025-04-25 11:18:05,518 - Error processing CSE 442: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,519 - Processing CSE444 → CSE 444
+2025-04-25 11:18:05,521 - Error processing CSE 444: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,521 - Processing CSE446 → CSE 446
+2025-04-25 11:18:05,522 - Error processing CSE 446: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,522 - Processing CSE447 → CSE 447
+2025-04-25 11:18:05,522 - Error processing CSE 447: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,523 - Processing CSE451 → CSE 451
+2025-04-25 11:18:05,523 - Error processing CSE 451: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,523 - Processing CSE452 → CSE 452
+2025-04-25 11:18:05,523 - Error processing CSE 452: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,523 - Processing CSE453 → CSE 453
+2025-04-25 11:18:05,523 - Error processing CSE 453: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,523 - Processing CSE455 → CSE 455
+2025-04-25 11:18:05,524 - Error processing CSE 455: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,524 - Processing CSE456 → CSE 456
+2025-04-25 11:18:05,524 - Error processing CSE 456: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,524 - Processing CSE457 → CSE 457
+2025-04-25 11:18:05,524 - Error processing CSE 457: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,524 - Processing CSE458 → CSE 458
+2025-04-25 11:18:05,524 - Error processing CSE 458: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,524 - Processing CSE459 → CSE 459
+2025-04-25 11:18:05,524 - Error processing CSE 459: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,525 - Processing CSE460 → CSE 460
+2025-04-25 11:18:05,525 - Error processing CSE 460: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,525 - Processing CSE461 → CSE 461
+2025-04-25 11:18:05,526 - Error processing CSE 461: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,526 - Processing CSE462 → CSE 462
+2025-04-25 11:18:05,526 - Error processing CSE 462: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,526 - Processing CSE464 → CSE 464
+2025-04-25 11:18:05,526 - Error processing CSE 464: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,526 - Processing CSE469 → CSE 469
+2025-04-25 11:18:05,526 - Error processing CSE 469: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,526 - Processing CSE470 → CSE 470
+2025-04-25 11:18:05,526 - Error processing CSE 470: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,527 - Processing CSE473 → CSE 473
+2025-04-25 11:18:05,527 - Error processing CSE 473: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,527 - Processing CSE474 → CSE 474
+2025-04-25 11:18:05,527 - Error processing CSE 474: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,527 - Processing CSE475 → CSE 475
+2025-04-25 11:18:05,527 - Error processing CSE 475: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,527 - Processing CSE478 → CSE 478
+2025-04-25 11:18:05,527 - Error processing CSE 478: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,527 - Processing CSE480 → CSE 480
+2025-04-25 11:18:05,527 - Error processing CSE 480: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,527 - Processing CSE481 → CSE 481
+2025-04-25 11:18:05,527 - Error processing CSE 481: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,527 - Processing CSE481A → CSE 481A
+2025-04-25 11:18:05,527 - Error processing CSE 481A: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,527 - Processing CSE481C → CSE 481C
+2025-04-25 11:18:05,528 - Error processing CSE 481C: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,528 - Processing CSE481D → CSE 481D
+2025-04-25 11:18:05,528 - Error processing CSE 481D: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,528 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:18:05,528 - Error processing CSE 481DS: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,528 - Processing CSE481L → CSE 481L
+2025-04-25 11:18:05,528 - Error processing CSE 481L: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,528 - Processing CSE481N → CSE 481N
+2025-04-25 11:18:05,528 - Error processing CSE 481N: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,528 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:18:05,528 - Error processing CSE 481NE: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,528 - Processing CSE481P → CSE 481P
+2025-04-25 11:18:05,528 - Error processing CSE 481P: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,528 - Processing CSE481S → CSE 481S
+2025-04-25 11:18:05,528 - Error processing CSE 481S: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,528 - Processing CSE481V → CSE 481V
+2025-04-25 11:18:05,528 - Error processing CSE 481V: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,528 - Processing CSE482B → CSE 482B
+2025-04-25 11:18:05,528 - Error processing CSE 482B: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,529 - Processing CSE484 → CSE 484
+2025-04-25 11:18:05,529 - Error processing CSE 484: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,529 - Processing CSE492 → CSE 492
+2025-04-25 11:18:05,529 - Error processing CSE 492: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,530 - Processing CSE492C → CSE 492C
+2025-04-25 11:18:05,530 - Error processing CSE 492C: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,530 - Processing CSE492J → CSE 492J
+2025-04-25 11:18:05,530 - Error processing CSE 492J: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,530 - Processing CSE492L → CSE 492L
+2025-04-25 11:18:05,531 - Error processing CSE 492L: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,531 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:18:05,531 - Error processing CSE 492P1: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,531 - Processing CSE493C → CSE 493C
+2025-04-25 11:18:05,531 - Error processing CSE 493C: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,531 - Processing CSE493E → CSE 493E
+2025-04-25 11:18:05,531 - Error processing CSE 493E: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,531 - Processing CSE493F → CSE 493F
+2025-04-25 11:18:05,531 - Error processing CSE 493F: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,531 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:18:05,532 - Error processing CSE 493G1: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,532 - Processing CSE493H → CSE 493H
+2025-04-25 11:18:05,532 - Error processing CSE 493H: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,532 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:18:05,532 - Error processing CSE 493Q: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,532 - Processing CSE493S → CSE 493S
+2025-04-25 11:18:05,532 - Error processing CSE 493S: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,532 - Processing CSE493V → CSE 493V
+2025-04-25 11:18:05,532 - Error processing CSE 493V: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,532 - Processing CSE493W → CSE 493W
+2025-04-25 11:18:05,532 - Error processing CSE 493W: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,532 - Processing CSE493X → CSE 493X
+2025-04-25 11:18:05,532 - Error processing CSE 493X: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,533 - Processing CSE142 → CSE 142
+2025-04-25 11:18:05,533 - Error processing CSE 142: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,533 - Processing CSE143X → CSE 143X
+2025-04-25 11:18:05,533 - Error processing CSE 143X: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:18:05,533 - Processing CSE154 → CSE 154
+2025-04-25 11:18:05,533 - Error processing CSE 154: UNIQUE constraint failed: embeddings.course_code
+2025-04-25 11:21:53,166 - Processing CSE120 → CSE 120
+2025-04-25 11:21:55,506 - Updated combined embeddings for CSE 120
+2025-04-25 11:21:55,506 - Combined embeddings incomplete for CSE 120
+2025-04-25 11:21:55,506 - Processing CSE121 → CSE 121
+2025-04-25 11:21:57,964 - Updated combined embeddings for CSE 121
+2025-04-25 11:21:57,965 - Combined embeddings incomplete for CSE 121
+2025-04-25 11:21:57,965 - Processing CSE122 → CSE 122
+2025-04-25 11:21:57,967 - Updated combined embeddings for CSE 122
+2025-04-25 11:21:57,967 - Combined embeddings incomplete for CSE 122
+2025-04-25 11:21:57,967 - Processing CSE123 → CSE 123
+2025-04-25 11:21:57,970 - Updated combined embeddings for CSE 123
+2025-04-25 11:21:57,970 - Combined embeddings incomplete for CSE 123
+2025-04-25 11:21:57,970 - Processing CSE143 → CSE 143
+2025-04-25 11:21:57,972 - Updated combined embeddings for CSE 143
+2025-04-25 11:21:57,972 - Combined embeddings incomplete for CSE 143
+2025-04-25 11:21:57,972 - Processing CSE163 → CSE 163
+2025-04-25 11:21:57,974 - Updated combined embeddings for CSE 163
+2025-04-25 11:21:57,974 - Combined embeddings incomplete for CSE 163
+2025-04-25 11:21:57,974 - Processing CSE160 → CSE 160
+2025-04-25 11:21:57,976 - Updated combined embeddings for CSE 160
+2025-04-25 11:21:57,976 - Combined embeddings incomplete for CSE 160
+2025-04-25 11:21:57,976 - Processing CSE180 → CSE 180
+2025-04-25 11:21:57,977 - Updated combined embeddings for CSE 180
+2025-04-25 11:21:57,977 - Combined embeddings incomplete for CSE 180
+2025-04-25 11:21:57,977 - Processing CSE311 → CSE 311
+2025-04-25 11:21:57,977 - Updated combined embeddings for CSE 311
+2025-04-25 11:21:57,977 - Combined embeddings incomplete for CSE 311
+2025-04-25 11:21:57,978 - Processing CSE312 → CSE 312
+2025-04-25 11:21:57,979 - Updated combined embeddings for CSE 312
+2025-04-25 11:21:57,979 - Combined embeddings incomplete for CSE 312
+2025-04-25 11:21:57,980 - Processing CSE331 → CSE 331
+2025-04-25 11:21:57,981 - Updated combined embeddings for CSE 331
+2025-04-25 11:21:57,981 - Combined embeddings incomplete for CSE 331
+2025-04-25 11:21:57,981 - Processing CSE332 → CSE 332
+2025-04-25 11:21:57,982 - Updated combined embeddings for CSE 332
+2025-04-25 11:21:57,982 - Combined embeddings incomplete for CSE 332
+2025-04-25 11:21:57,982 - Processing CSE333 → CSE 333
+2025-04-25 11:21:57,983 - Updated combined embeddings for CSE 333
+2025-04-25 11:21:57,983 - Combined embeddings incomplete for CSE 333
+2025-04-25 11:21:57,983 - Processing CSE340 → CSE 340
+2025-04-25 11:21:57,983 - Updated combined embeddings for CSE 340
+2025-04-25 11:21:57,983 - Combined embeddings incomplete for CSE 340
+2025-04-25 11:21:57,983 - Processing CSE341 → CSE 341
+2025-04-25 11:21:57,983 - Updated combined embeddings for CSE 341
+2025-04-25 11:21:57,983 - Combined embeddings incomplete for CSE 341
+2025-04-25 11:21:57,983 - Processing CSE344 → CSE 344
+2025-04-25 11:21:57,984 - Updated combined embeddings for CSE 344
+2025-04-25 11:21:57,984 - Combined embeddings incomplete for CSE 344
+2025-04-25 11:21:57,985 - Processing CSE351 → CSE 351
+2025-04-25 11:21:57,986 - Updated combined embeddings for CSE 351
+2025-04-25 11:21:57,986 - Combined embeddings incomplete for CSE 351
+2025-04-25 11:21:57,986 - Processing CSE369 → CSE 369
+2025-04-25 11:21:57,988 - Updated combined embeddings for CSE 369
+2025-04-25 11:21:57,988 - Combined embeddings incomplete for CSE 369
+2025-04-25 11:21:57,988 - Processing CSE371 → CSE 371
+2025-04-25 11:21:57,989 - Updated combined embeddings for CSE 371
+2025-04-25 11:21:57,989 - Combined embeddings incomplete for CSE 371
+2025-04-25 11:21:57,989 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:21:57,990 - Updated combined embeddings for CSE 390Z
+2025-04-25 11:21:57,990 - Combined embeddings incomplete for CSE 390Z
+2025-04-25 11:21:57,990 - Processing CSE391 → CSE 391
+2025-04-25 11:21:57,993 - Updated combined embeddings for CSE 391
+2025-04-25 11:21:57,993 - Combined embeddings incomplete for CSE 391
+2025-04-25 11:21:57,993 - Processing CSE401 → CSE 401
+2025-04-25 11:22:00,162 - Updated combined embeddings for CSE 401
+2025-04-25 11:22:00,162 - Combined embeddings incomplete for CSE 401
+2025-04-25 11:22:00,162 - Processing CSE402 → CSE 402
+2025-04-25 11:22:00,274 - Updated combined embeddings for CSE 402
+2025-04-25 11:22:00,275 - Combined embeddings incomplete for CSE 402
+2025-04-25 11:22:00,275 - Processing CSE403 → CSE 403
+2025-04-25 11:22:00,277 - Updated combined embeddings for CSE 403
+2025-04-25 11:22:00,278 - Combined embeddings incomplete for CSE 403
+2025-04-25 11:22:00,278 - Processing CSE421 → CSE 421
+2025-04-25 11:22:00,279 - Updated combined embeddings for CSE 421
+2025-04-25 11:22:00,279 - Combined embeddings incomplete for CSE 421
+2025-04-25 11:22:00,279 - Processing CSE422 → CSE 422
+2025-04-25 11:22:00,280 - Updated combined embeddings for CSE 422
+2025-04-25 11:22:00,281 - Combined embeddings incomplete for CSE 422
+2025-04-25 11:22:00,281 - Processing CSE426 → CSE 426
+2025-04-25 11:22:00,282 - Updated combined embeddings for CSE 426
+2025-04-25 11:22:00,282 - Combined embeddings incomplete for CSE 426
+2025-04-25 11:22:00,282 - Processing CSE427 → CSE 427
+2025-04-25 11:22:00,283 - Updated combined embeddings for CSE 427
+2025-04-25 11:22:00,283 - Combined embeddings incomplete for CSE 427
+2025-04-25 11:22:00,283 - Processing CSE428 → CSE 428
+2025-04-25 11:22:00,283 - Updated combined embeddings for CSE 428
+2025-04-25 11:22:00,283 - Combined embeddings incomplete for CSE 428
+2025-04-25 11:22:00,283 - Processing CSE431 → CSE 431
+2025-04-25 11:22:00,284 - Updated combined embeddings for CSE 431
+2025-04-25 11:22:00,285 - Combined embeddings incomplete for CSE 431
+2025-04-25 11:22:00,285 - Processing CSE434 → CSE 434
+2025-04-25 11:22:00,285 - Updated combined embeddings for CSE 434
+2025-04-25 11:22:00,285 - Combined embeddings incomplete for CSE 434
+2025-04-25 11:22:00,285 - Processing CSE440 → CSE 440
+2025-04-25 11:22:00,287 - Updated combined embeddings for CSE 440
+2025-04-25 11:22:00,288 - Combined embeddings incomplete for CSE 440
+2025-04-25 11:22:00,288 - Processing CSE441 → CSE 441
+2025-04-25 11:22:00,288 - Updated combined embeddings for CSE 441
+2025-04-25 11:22:00,288 - Combined embeddings incomplete for CSE 441
+2025-04-25 11:22:00,288 - Processing CSE442 → CSE 442
+2025-04-25 11:22:00,290 - Updated combined embeddings for CSE 442
+2025-04-25 11:22:00,290 - Combined embeddings incomplete for CSE 442
+2025-04-25 11:22:00,290 - Processing CSE444 → CSE 444
+2025-04-25 11:22:00,292 - Updated combined embeddings for CSE 444
+2025-04-25 11:22:00,292 - Combined embeddings incomplete for CSE 444
+2025-04-25 11:22:00,292 - Processing CSE446 → CSE 446
+2025-04-25 11:22:00,293 - Updated combined embeddings for CSE 446
+2025-04-25 11:22:00,294 - Combined embeddings incomplete for CSE 446
+2025-04-25 11:22:00,294 - Processing CSE447 → CSE 447
+2025-04-25 11:22:00,294 - Updated combined embeddings for CSE 447
+2025-04-25 11:22:00,294 - Combined embeddings incomplete for CSE 447
+2025-04-25 11:22:00,294 - Processing CSE451 → CSE 451
+2025-04-25 11:22:00,295 - Updated combined embeddings for CSE 451
+2025-04-25 11:22:00,295 - Combined embeddings incomplete for CSE 451
+2025-04-25 11:22:00,295 - Processing CSE452 → CSE 452
+2025-04-25 11:22:00,296 - Updated combined embeddings for CSE 452
+2025-04-25 11:22:00,296 - Combined embeddings incomplete for CSE 452
+2025-04-25 11:22:00,296 - Processing CSE453 → CSE 453
+2025-04-25 11:22:00,299 - Updated combined embeddings for CSE 453
+2025-04-25 11:22:00,299 - Combined embeddings incomplete for CSE 453
+2025-04-25 11:22:00,299 - Processing CSE455 → CSE 455
+2025-04-25 11:22:00,300 - Updated combined embeddings for CSE 455
+2025-04-25 11:22:00,300 - Combined embeddings incomplete for CSE 455
+2025-04-25 11:22:00,300 - Processing CSE456 → CSE 456
+2025-04-25 11:22:00,302 - Updated combined embeddings for CSE 456
+2025-04-25 11:22:00,302 - Combined embeddings incomplete for CSE 456
+2025-04-25 11:22:00,302 - Processing CSE457 → CSE 457
+2025-04-25 11:22:00,303 - Updated combined embeddings for CSE 457
+2025-04-25 11:22:00,303 - Combined embeddings incomplete for CSE 457
+2025-04-25 11:22:00,303 - Processing CSE458 → CSE 458
+2025-04-25 11:22:00,304 - Updated combined embeddings for CSE 458
+2025-04-25 11:22:00,304 - Combined embeddings incomplete for CSE 458
+2025-04-25 11:22:00,304 - Processing CSE459 → CSE 459
+2025-04-25 11:22:00,304 - Updated combined embeddings for CSE 459
+2025-04-25 11:22:00,304 - Combined embeddings incomplete for CSE 459
+2025-04-25 11:22:00,304 - Processing CSE460 → CSE 460
+2025-04-25 11:22:00,306 - Updated combined embeddings for CSE 460
+2025-04-25 11:22:00,306 - Combined embeddings incomplete for CSE 460
+2025-04-25 11:22:00,306 - Processing CSE461 → CSE 461
+2025-04-25 11:22:00,307 - Updated combined embeddings for CSE 461
+2025-04-25 11:22:00,307 - Combined embeddings incomplete for CSE 461
+2025-04-25 11:22:00,307 - Processing CSE462 → CSE 462
+2025-04-25 11:22:00,308 - Updated combined embeddings for CSE 462
+2025-04-25 11:22:00,308 - Combined embeddings incomplete for CSE 462
+2025-04-25 11:22:00,308 - Processing CSE464 → CSE 464
+2025-04-25 11:22:00,309 - Updated combined embeddings for CSE 464
+2025-04-25 11:22:00,309 - Combined embeddings incomplete for CSE 464
+2025-04-25 11:22:00,309 - Processing CSE469 → CSE 469
+2025-04-25 11:22:00,309 - Updated combined embeddings for CSE 469
+2025-04-25 11:22:00,309 - Combined embeddings incomplete for CSE 469
+2025-04-25 11:22:00,309 - Processing CSE470 → CSE 470
+2025-04-25 11:22:00,309 - Updated combined embeddings for CSE 470
+2025-04-25 11:22:00,309 - Combined embeddings incomplete for CSE 470
+2025-04-25 11:22:00,309 - Processing CSE473 → CSE 473
+2025-04-25 11:22:00,310 - Updated combined embeddings for CSE 473
+2025-04-25 11:22:00,310 - Combined embeddings incomplete for CSE 473
+2025-04-25 11:22:00,310 - Processing CSE474 → CSE 474
+2025-04-25 11:22:00,311 - Updated combined embeddings for CSE 474
+2025-04-25 11:22:00,311 - Combined embeddings incomplete for CSE 474
+2025-04-25 11:22:00,311 - Processing CSE475 → CSE 475
+2025-04-25 11:22:00,311 - Updated combined embeddings for CSE 475
+2025-04-25 11:22:00,311 - Combined embeddings incomplete for CSE 475
+2025-04-25 11:22:00,311 - Processing CSE478 → CSE 478
+2025-04-25 11:22:00,311 - Updated combined embeddings for CSE 478
+2025-04-25 11:22:00,311 - Combined embeddings incomplete for CSE 478
+2025-04-25 11:22:00,311 - Processing CSE480 → CSE 480
+2025-04-25 11:22:00,312 - Updated combined embeddings for CSE 480
+2025-04-25 11:22:00,312 - Combined embeddings incomplete for CSE 480
+2025-04-25 11:22:00,313 - Processing CSE481 → CSE 481
+2025-04-25 11:22:00,313 - Updated combined embeddings for CSE 481
+2025-04-25 11:22:00,313 - Combined embeddings incomplete for CSE 481
+2025-04-25 11:22:00,313 - Processing CSE481A → CSE 481A
+2025-04-25 11:22:00,314 - Updated combined embeddings for CSE 481A
+2025-04-25 11:22:00,314 - Combined embeddings incomplete for CSE 481A
+2025-04-25 11:22:00,314 - Processing CSE481C → CSE 481C
+2025-04-25 11:22:00,314 - Updated combined embeddings for CSE 481C
+2025-04-25 11:22:00,314 - Combined embeddings incomplete for CSE 481C
+2025-04-25 11:22:00,314 - Processing CSE481D → CSE 481D
+2025-04-25 11:22:00,314 - Updated combined embeddings for CSE 481D
+2025-04-25 11:22:00,314 - Combined embeddings incomplete for CSE 481D
+2025-04-25 11:22:00,315 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:22:00,315 - Updated combined embeddings for CSE 481DS
+2025-04-25 11:22:00,315 - Combined embeddings incomplete for CSE 481DS
+2025-04-25 11:22:00,315 - Processing CSE481L → CSE 481L
+2025-04-25 11:22:00,316 - Updated combined embeddings for CSE 481L
+2025-04-25 11:22:00,316 - Combined embeddings incomplete for CSE 481L
+2025-04-25 11:22:00,316 - Processing CSE481N → CSE 481N
+2025-04-25 11:22:00,316 - Updated combined embeddings for CSE 481N
+2025-04-25 11:22:00,316 - Combined embeddings incomplete for CSE 481N
+2025-04-25 11:22:00,316 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:22:00,316 - Updated combined embeddings for CSE 481NE
+2025-04-25 11:22:00,316 - Combined embeddings incomplete for CSE 481NE
+2025-04-25 11:22:00,316 - Processing CSE481P → CSE 481P
+2025-04-25 11:22:00,317 - Updated combined embeddings for CSE 481P
+2025-04-25 11:22:00,317 - Combined embeddings incomplete for CSE 481P
+2025-04-25 11:22:00,318 - Processing CSE481S → CSE 481S
+2025-04-25 11:22:00,318 - Updated combined embeddings for CSE 481S
+2025-04-25 11:22:00,318 - Combined embeddings incomplete for CSE 481S
+2025-04-25 11:22:00,318 - Processing CSE481V → CSE 481V
+2025-04-25 11:22:00,318 - Updated combined embeddings for CSE 481V
+2025-04-25 11:22:00,318 - Combined embeddings incomplete for CSE 481V
+2025-04-25 11:22:00,318 - Processing CSE482B → CSE 482B
+2025-04-25 11:22:00,318 - Updated combined embeddings for CSE 482B
+2025-04-25 11:22:00,318 - Combined embeddings incomplete for CSE 482B
+2025-04-25 11:22:00,318 - Processing CSE484 → CSE 484
+2025-04-25 11:22:00,318 - Updated combined embeddings for CSE 484
+2025-04-25 11:22:00,318 - Combined embeddings incomplete for CSE 484
+2025-04-25 11:22:00,318 - Processing CSE492 → CSE 492
+2025-04-25 11:22:00,318 - Updated combined embeddings for CSE 492
+2025-04-25 11:22:00,318 - Combined embeddings incomplete for CSE 492
+2025-04-25 11:22:00,318 - Processing CSE492C → CSE 492C
+2025-04-25 11:22:00,318 - Updated combined embeddings for CSE 492C
+2025-04-25 11:22:00,318 - Combined embeddings incomplete for CSE 492C
+2025-04-25 11:22:00,318 - Processing CSE492J → CSE 492J
+2025-04-25 11:22:00,318 - Updated combined embeddings for CSE 492J
+2025-04-25 11:22:00,318 - Combined embeddings incomplete for CSE 492J
+2025-04-25 11:22:00,318 - Processing CSE492L → CSE 492L
+2025-04-25 11:22:00,318 - Updated combined embeddings for CSE 492L
+2025-04-25 11:22:00,318 - Combined embeddings incomplete for CSE 492L
+2025-04-25 11:22:00,318 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:22:00,319 - Updated combined embeddings for CSE 492P1
+2025-04-25 11:22:00,319 - Combined embeddings incomplete for CSE 492P1
+2025-04-25 11:22:00,319 - Processing CSE493C → CSE 493C
+2025-04-25 11:22:00,319 - Updated combined embeddings for CSE 493C
+2025-04-25 11:22:00,319 - Combined embeddings incomplete for CSE 493C
+2025-04-25 11:22:00,319 - Processing CSE493E → CSE 493E
+2025-04-25 11:22:00,319 - Updated combined embeddings for CSE 493E
+2025-04-25 11:22:00,319 - Combined embeddings incomplete for CSE 493E
+2025-04-25 11:22:00,319 - Processing CSE493F → CSE 493F
+2025-04-25 11:22:00,319 - Updated combined embeddings for CSE 493F
+2025-04-25 11:22:00,319 - Combined embeddings incomplete for CSE 493F
+2025-04-25 11:22:00,319 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:22:00,319 - Updated combined embeddings for CSE 493G1
+2025-04-25 11:22:00,319 - Combined embeddings incomplete for CSE 493G1
+2025-04-25 11:22:00,319 - Processing CSE493H → CSE 493H
+2025-04-25 11:22:00,319 - Updated combined embeddings for CSE 493H
+2025-04-25 11:22:00,319 - Combined embeddings incomplete for CSE 493H
+2025-04-25 11:22:00,319 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:22:00,319 - Updated combined embeddings for CSE 493Q
+2025-04-25 11:22:00,319 - Combined embeddings incomplete for CSE 493Q
+2025-04-25 11:22:00,320 - Processing CSE493S → CSE 493S
+2025-04-25 11:22:00,320 - Updated combined embeddings for CSE 493S
+2025-04-25 11:22:00,320 - Combined embeddings incomplete for CSE 493S
+2025-04-25 11:22:00,320 - Processing CSE493V → CSE 493V
+2025-04-25 11:22:00,320 - Updated combined embeddings for CSE 493V
+2025-04-25 11:22:00,320 - Combined embeddings incomplete for CSE 493V
+2025-04-25 11:22:00,320 - Processing CSE493W → CSE 493W
+2025-04-25 11:22:00,320 - Updated combined embeddings for CSE 493W
+2025-04-25 11:22:00,320 - Combined embeddings incomplete for CSE 493W
+2025-04-25 11:22:00,320 - Processing CSE493X → CSE 493X
+2025-04-25 11:22:00,320 - Updated combined embeddings for CSE 493X
+2025-04-25 11:22:00,320 - Combined embeddings incomplete for CSE 493X
+2025-04-25 11:22:00,320 - Processing CSE142 → CSE 142
+2025-04-25 11:22:00,320 - Updated combined embeddings for CSE 142
+2025-04-25 11:22:00,320 - Combined embeddings incomplete for CSE 142
+2025-04-25 11:22:00,320 - Processing CSE143X → CSE 143X
+2025-04-25 11:22:00,320 - Updated combined embeddings for CSE 143X
+2025-04-25 11:22:00,320 - Combined embeddings incomplete for CSE 143X
+2025-04-25 11:22:00,320 - Processing CSE154 → CSE 154
+2025-04-25 11:22:00,320 - Updated combined embeddings for CSE 154
+2025-04-25 11:22:00,320 - Combined embeddings incomplete for CSE 154
+2025-04-25 11:28:25,246 - Processing CSE120 → CSE 120
+2025-04-25 11:28:26,504 - Updated combined embeddings for CSE 120
+2025-04-25 11:28:26,505 - Processing CSE121 → CSE 121
+2025-04-25 11:28:26,507 - Updated combined embeddings for CSE 121
+2025-04-25 11:28:26,507 - Processing CSE122 → CSE 122
+2025-04-25 11:28:26,509 - Updated combined embeddings for CSE 122
+2025-04-25 11:28:26,510 - Processing CSE123 → CSE 123
+2025-04-25 11:28:26,511 - Updated combined embeddings for CSE 123
+2025-04-25 11:28:26,511 - Processing CSE143 → CSE 143
+2025-04-25 11:28:26,513 - Updated combined embeddings for CSE 143
+2025-04-25 11:28:26,513 - Processing CSE163 → CSE 163
+2025-04-25 11:28:26,514 - Updated combined embeddings for CSE 163
+2025-04-25 11:28:26,515 - Processing CSE160 → CSE 160
+2025-04-25 11:28:26,516 - Updated combined embeddings for CSE 160
+2025-04-25 11:28:26,516 - Processing CSE180 → CSE 180
+2025-04-25 11:28:26,517 - Updated combined embeddings for CSE 180
+2025-04-25 11:28:26,517 - Processing CSE311 → CSE 311
+2025-04-25 11:28:26,517 - Updated combined embeddings for CSE 311
+2025-04-25 11:28:26,518 - Processing CSE312 → CSE 312
+2025-04-25 11:28:26,519 - Updated combined embeddings for CSE 312
+2025-04-25 11:28:26,519 - Processing CSE331 → CSE 331
+2025-04-25 11:28:26,520 - Updated combined embeddings for CSE 331
+2025-04-25 11:28:26,520 - Processing CSE332 → CSE 332
+2025-04-25 11:28:26,521 - Updated combined embeddings for CSE 332
+2025-04-25 11:28:26,521 - Processing CSE333 → CSE 333
+2025-04-25 11:28:26,521 - Updated combined embeddings for CSE 333
+2025-04-25 11:28:26,522 - Processing CSE340 → CSE 340
+2025-04-25 11:28:26,522 - Updated combined embeddings for CSE 340
+2025-04-25 11:28:26,522 - Processing CSE341 → CSE 341
+2025-04-25 11:28:26,522 - Updated combined embeddings for CSE 341
+2025-04-25 11:28:26,522 - Processing CSE344 → CSE 344
+2025-04-25 11:28:26,523 - Updated combined embeddings for CSE 344
+2025-04-25 11:28:26,523 - Processing CSE351 → CSE 351
+2025-04-25 11:28:26,524 - Updated combined embeddings for CSE 351
+2025-04-25 11:28:26,524 - Processing CSE369 → CSE 369
+2025-04-25 11:28:26,525 - Updated combined embeddings for CSE 369
+2025-04-25 11:28:26,525 - Processing CSE371 → CSE 371
+2025-04-25 11:28:26,526 - Updated combined embeddings for CSE 371
+2025-04-25 11:28:26,526 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:28:26,527 - Updated combined embeddings for CSE 390Z
+2025-04-25 11:28:26,527 - Processing CSE391 → CSE 391
+2025-04-25 11:28:26,529 - Updated combined embeddings for CSE 391
+2025-04-25 11:28:26,529 - Processing CSE401 → CSE 401
+2025-04-25 11:28:26,531 - Updated combined embeddings for CSE 401
+2025-04-25 11:28:26,531 - Processing CSE402 → CSE 402
+2025-04-25 11:28:26,531 - Updated combined embeddings for CSE 402
+2025-04-25 11:28:26,531 - Processing CSE403 → CSE 403
+2025-04-25 11:28:26,532 - Updated combined embeddings for CSE 403
+2025-04-25 11:28:26,532 - Processing CSE421 → CSE 421
+2025-04-25 11:28:26,532 - Updated combined embeddings for CSE 421
+2025-04-25 11:28:26,532 - Processing CSE422 → CSE 422
+2025-04-25 11:28:26,533 - Updated combined embeddings for CSE 422
+2025-04-25 11:28:26,533 - Processing CSE426 → CSE 426
+2025-04-25 11:28:26,533 - Updated combined embeddings for CSE 426
+2025-04-25 11:28:26,533 - Processing CSE427 → CSE 427
+2025-04-25 11:28:26,533 - Updated combined embeddings for CSE 427
+2025-04-25 11:28:26,533 - Processing CSE428 → CSE 428
+2025-04-25 11:28:26,533 - Updated combined embeddings for CSE 428
+2025-04-25 11:28:26,533 - Processing CSE431 → CSE 431
+2025-04-25 11:28:26,534 - Updated combined embeddings for CSE 431
+2025-04-25 11:28:26,534 - Processing CSE434 → CSE 434
+2025-04-25 11:28:26,534 - Updated combined embeddings for CSE 434
+2025-04-25 11:28:26,534 - Processing CSE440 → CSE 440
+2025-04-25 11:28:26,534 - Updated combined embeddings for CSE 440
+2025-04-25 11:28:26,534 - Processing CSE441 → CSE 441
+2025-04-25 11:28:26,535 - Updated combined embeddings for CSE 441
+2025-04-25 11:28:26,535 - Processing CSE442 → CSE 442
+2025-04-25 11:28:26,535 - Updated combined embeddings for CSE 442
+2025-04-25 11:28:26,536 - Processing CSE444 → CSE 444
+2025-04-25 11:28:26,536 - Updated combined embeddings for CSE 444
+2025-04-25 11:28:26,536 - Processing CSE446 → CSE 446
+2025-04-25 11:28:26,536 - Updated combined embeddings for CSE 446
+2025-04-25 11:28:26,536 - Processing CSE447 → CSE 447
+2025-04-25 11:28:26,537 - Updated combined embeddings for CSE 447
+2025-04-25 11:28:26,537 - Processing CSE451 → CSE 451
+2025-04-25 11:28:26,537 - Updated combined embeddings for CSE 451
+2025-04-25 11:28:26,537 - Processing CSE452 → CSE 452
+2025-04-25 11:28:26,538 - Updated combined embeddings for CSE 452
+2025-04-25 11:28:26,538 - Processing CSE453 → CSE 453
+2025-04-25 11:28:26,538 - Updated combined embeddings for CSE 453
+2025-04-25 11:28:26,538 - Processing CSE455 → CSE 455
+2025-04-25 11:28:26,539 - Updated combined embeddings for CSE 455
+2025-04-25 11:28:26,539 - Processing CSE456 → CSE 456
+2025-04-25 11:28:26,539 - Updated combined embeddings for CSE 456
+2025-04-25 11:28:26,539 - Processing CSE457 → CSE 457
+2025-04-25 11:28:26,540 - Updated combined embeddings for CSE 457
+2025-04-25 11:28:26,540 - Processing CSE458 → CSE 458
+2025-04-25 11:28:26,540 - Updated combined embeddings for CSE 458
+2025-04-25 11:28:26,540 - Processing CSE459 → CSE 459
+2025-04-25 11:28:26,540 - Updated combined embeddings for CSE 459
+2025-04-25 11:28:26,540 - Processing CSE460 → CSE 460
+2025-04-25 11:28:26,541 - Updated combined embeddings for CSE 460
+2025-04-25 11:28:26,541 - Processing CSE461 → CSE 461
+2025-04-25 11:28:26,541 - Updated combined embeddings for CSE 461
+2025-04-25 11:28:26,541 - Processing CSE462 → CSE 462
+2025-04-25 11:28:26,541 - Updated combined embeddings for CSE 462
+2025-04-25 11:28:26,541 - Processing CSE464 → CSE 464
+2025-04-25 11:28:26,542 - Updated combined embeddings for CSE 464
+2025-04-25 11:28:26,542 - Processing CSE469 → CSE 469
+2025-04-25 11:28:26,542 - Updated combined embeddings for CSE 469
+2025-04-25 11:28:26,542 - Processing CSE470 → CSE 470
+2025-04-25 11:28:26,542 - Updated combined embeddings for CSE 470
+2025-04-25 11:28:26,542 - Processing CSE473 → CSE 473
+2025-04-25 11:28:26,542 - Updated combined embeddings for CSE 473
+2025-04-25 11:28:26,542 - Processing CSE474 → CSE 474
+2025-04-25 11:28:26,542 - Updated combined embeddings for CSE 474
+2025-04-25 11:28:26,542 - Processing CSE475 → CSE 475
+2025-04-25 11:28:26,542 - Updated combined embeddings for CSE 475
+2025-04-25 11:28:26,543 - Processing CSE478 → CSE 478
+2025-04-25 11:28:26,544 - Updated combined embeddings for CSE 478
+2025-04-25 11:28:26,544 - Processing CSE480 → CSE 480
+2025-04-25 11:28:26,544 - Updated combined embeddings for CSE 480
+2025-04-25 11:28:26,544 - Processing CSE481 → CSE 481
+2025-04-25 11:28:26,544 - Updated combined embeddings for CSE 481
+2025-04-25 11:28:26,544 - Processing CSE481A → CSE 481A
+2025-04-25 11:28:26,545 - Updated combined embeddings for CSE 481A
+2025-04-25 11:28:26,545 - Processing CSE481C → CSE 481C
+2025-04-25 11:28:26,545 - Updated combined embeddings for CSE 481C
+2025-04-25 11:28:26,545 - Processing CSE481D → CSE 481D
+2025-04-25 11:28:26,545 - Updated combined embeddings for CSE 481D
+2025-04-25 11:28:26,545 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:28:26,546 - Updated combined embeddings for CSE 481DS
+2025-04-25 11:28:26,546 - Processing CSE481L → CSE 481L
+2025-04-25 11:28:26,546 - Updated combined embeddings for CSE 481L
+2025-04-25 11:28:26,547 - Processing CSE481N → CSE 481N
+2025-04-25 11:28:26,547 - Updated combined embeddings for CSE 481N
+2025-04-25 11:28:26,547 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:28:26,547 - Updated combined embeddings for CSE 481NE
+2025-04-25 11:28:26,547 - Processing CSE481P → CSE 481P
+2025-04-25 11:28:26,547 - Updated combined embeddings for CSE 481P
+2025-04-25 11:28:26,548 - Processing CSE481S → CSE 481S
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 481S
+2025-04-25 11:28:26,548 - Processing CSE481V → CSE 481V
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 481V
+2025-04-25 11:28:26,548 - Processing CSE482B → CSE 482B
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 482B
+2025-04-25 11:28:26,548 - Processing CSE484 → CSE 484
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 484
+2025-04-25 11:28:26,548 - Processing CSE492 → CSE 492
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 492
+2025-04-25 11:28:26,548 - Processing CSE492C → CSE 492C
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 492C
+2025-04-25 11:28:26,548 - Processing CSE492J → CSE 492J
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 492J
+2025-04-25 11:28:26,548 - Processing CSE492L → CSE 492L
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 492L
+2025-04-25 11:28:26,548 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 492P1
+2025-04-25 11:28:26,548 - Processing CSE493C → CSE 493C
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 493C
+2025-04-25 11:28:26,548 - Processing CSE493E → CSE 493E
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 493E
+2025-04-25 11:28:26,548 - Processing CSE493F → CSE 493F
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 493F
+2025-04-25 11:28:26,548 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 493G1
+2025-04-25 11:28:26,548 - Processing CSE493H → CSE 493H
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 493H
+2025-04-25 11:28:26,548 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 493Q
+2025-04-25 11:28:26,548 - Processing CSE493S → CSE 493S
+2025-04-25 11:28:26,548 - Updated combined embeddings for CSE 493S
+2025-04-25 11:28:26,548 - Processing CSE493V → CSE 493V
+2025-04-25 11:28:26,549 - Updated combined embeddings for CSE 493V
+2025-04-25 11:28:26,549 - Processing CSE493W → CSE 493W
+2025-04-25 11:28:26,549 - Updated combined embeddings for CSE 493W
+2025-04-25 11:28:26,549 - Processing CSE493X → CSE 493X
+2025-04-25 11:28:26,549 - Updated combined embeddings for CSE 493X
+2025-04-25 11:28:26,549 - Processing CSE142 → CSE 142
+2025-04-25 11:28:26,549 - Updated combined embeddings for CSE 142
+2025-04-25 11:28:26,549 - Processing CSE143X → CSE 143X
+2025-04-25 11:28:26,549 - Updated combined embeddings for CSE 143X
+2025-04-25 11:28:26,549 - Processing CSE154 → CSE 154
+2025-04-25 11:28:26,549 - Updated combined embeddings for CSE 154
+2025-04-25 11:30:12,114 - Processing CSE120 → CSE 120
+2025-04-25 11:30:12,508 - Updated combined embeddings for CSE 120
+2025-04-25 11:30:12,508 - Processing CSE121 → CSE 121
+2025-04-25 11:30:12,509 - Updated combined embeddings for CSE 121
+2025-04-25 11:30:12,510 - Processing CSE122 → CSE 122
+2025-04-25 11:30:12,510 - Updated combined embeddings for CSE 122
+2025-04-25 11:30:12,510 - Processing CSE123 → CSE 123
+2025-04-25 11:30:12,511 - Updated combined embeddings for CSE 123
+2025-04-25 11:30:12,511 - Processing CSE143 → CSE 143
+2025-04-25 11:30:12,512 - Updated combined embeddings for CSE 143
+2025-04-25 11:30:12,512 - Processing CSE163 → CSE 163
+2025-04-25 11:30:12,512 - Updated combined embeddings for CSE 163
+2025-04-25 11:30:12,513 - Processing CSE160 → CSE 160
+2025-04-25 11:30:12,513 - Updated combined embeddings for CSE 160
+2025-04-25 11:30:12,513 - Processing CSE180 → CSE 180
+2025-04-25 11:30:12,514 - Updated combined embeddings for CSE 180
+2025-04-25 11:30:12,514 - Processing CSE311 → CSE 311
+2025-04-25 11:30:12,514 - Updated combined embeddings for CSE 311
+2025-04-25 11:30:12,514 - Processing CSE312 → CSE 312
+2025-04-25 11:30:12,515 - Updated combined embeddings for CSE 312
+2025-04-25 11:30:12,515 - Processing CSE331 → CSE 331
+2025-04-25 11:30:12,516 - Updated combined embeddings for CSE 331
+2025-04-25 11:30:12,516 - Processing CSE332 → CSE 332
+2025-04-25 11:30:12,516 - Updated combined embeddings for CSE 332
+2025-04-25 11:30:12,516 - Processing CSE333 → CSE 333
+2025-04-25 11:30:12,517 - Updated combined embeddings for CSE 333
+2025-04-25 11:30:12,518 - Processing CSE340 → CSE 340
+2025-04-25 11:30:12,518 - Updated combined embeddings for CSE 340
+2025-04-25 11:30:12,519 - Processing CSE341 → CSE 341
+2025-04-25 11:30:12,519 - Updated combined embeddings for CSE 341
+2025-04-25 11:30:12,519 - Processing CSE344 → CSE 344
+2025-04-25 11:30:12,520 - Updated combined embeddings for CSE 344
+2025-04-25 11:30:12,521 - Processing CSE351 → CSE 351
+2025-04-25 11:30:12,521 - Updated combined embeddings for CSE 351
+2025-04-25 11:30:12,521 - Processing CSE369 → CSE 369
+2025-04-25 11:30:12,522 - Updated combined embeddings for CSE 369
+2025-04-25 11:30:12,522 - Processing CSE371 → CSE 371
+2025-04-25 11:30:12,523 - Updated combined embeddings for CSE 371
+2025-04-25 11:30:12,523 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:30:12,523 - Updated combined embeddings for CSE 390Z
+2025-04-25 11:30:12,523 - Processing CSE391 → CSE 391
+2025-04-25 11:30:12,524 - Updated combined embeddings for CSE 391
+2025-04-25 11:30:12,524 - Processing CSE401 → CSE 401
+2025-04-25 11:30:12,525 - Updated combined embeddings for CSE 401
+2025-04-25 11:30:12,525 - Processing CSE402 → CSE 402
+2025-04-25 11:30:12,525 - Updated combined embeddings for CSE 402
+2025-04-25 11:30:12,525 - Processing CSE403 → CSE 403
+2025-04-25 11:30:12,526 - Updated combined embeddings for CSE 403
+2025-04-25 11:30:12,526 - Processing CSE421 → CSE 421
+2025-04-25 11:30:12,527 - Updated combined embeddings for CSE 421
+2025-04-25 11:30:12,527 - Processing CSE422 → CSE 422
+2025-04-25 11:30:12,527 - Updated combined embeddings for CSE 422
+2025-04-25 11:30:12,527 - Processing CSE426 → CSE 426
+2025-04-25 11:30:12,528 - Updated combined embeddings for CSE 426
+2025-04-25 11:30:12,528 - Processing CSE427 → CSE 427
+2025-04-25 11:30:12,528 - Updated combined embeddings for CSE 427
+2025-04-25 11:30:12,528 - Processing CSE428 → CSE 428
+2025-04-25 11:30:12,528 - Updated combined embeddings for CSE 428
+2025-04-25 11:30:12,529 - Processing CSE431 → CSE 431
+2025-04-25 11:30:12,529 - Updated combined embeddings for CSE 431
+2025-04-25 11:30:12,529 - Processing CSE434 → CSE 434
+2025-04-25 11:30:12,529 - Updated combined embeddings for CSE 434
+2025-04-25 11:30:12,529 - Processing CSE440 → CSE 440
+2025-04-25 11:30:12,530 - Updated combined embeddings for CSE 440
+2025-04-25 11:30:12,530 - Processing CSE441 → CSE 441
+2025-04-25 11:30:12,531 - Updated combined embeddings for CSE 441
+2025-04-25 11:30:12,532 - Processing CSE442 → CSE 442
+2025-04-25 11:30:12,533 - Updated combined embeddings for CSE 442
+2025-04-25 11:30:12,533 - Processing CSE444 → CSE 444
+2025-04-25 11:30:12,533 - Updated combined embeddings for CSE 444
+2025-04-25 11:30:12,533 - Processing CSE446 → CSE 446
+2025-04-25 11:30:12,534 - Updated combined embeddings for CSE 446
+2025-04-25 11:30:12,534 - Processing CSE447 → CSE 447
+2025-04-25 11:30:12,535 - Updated combined embeddings for CSE 447
+2025-04-25 11:30:12,535 - Processing CSE451 → CSE 451
+2025-04-25 11:30:12,535 - Updated combined embeddings for CSE 451
+2025-04-25 11:30:12,536 - Processing CSE452 → CSE 452
+2025-04-25 11:30:12,536 - Updated combined embeddings for CSE 452
+2025-04-25 11:30:12,536 - Processing CSE453 → CSE 453
+2025-04-25 11:30:12,537 - Updated combined embeddings for CSE 453
+2025-04-25 11:30:12,537 - Processing CSE455 → CSE 455
+2025-04-25 11:30:12,538 - Updated combined embeddings for CSE 455
+2025-04-25 11:30:12,538 - Processing CSE456 → CSE 456
+2025-04-25 11:30:12,538 - Updated combined embeddings for CSE 456
+2025-04-25 11:30:12,538 - Processing CSE457 → CSE 457
+2025-04-25 11:30:12,539 - Updated combined embeddings for CSE 457
+2025-04-25 11:30:12,539 - Processing CSE458 → CSE 458
+2025-04-25 11:30:12,539 - Updated combined embeddings for CSE 458
+2025-04-25 11:30:12,539 - Processing CSE459 → CSE 459
+2025-04-25 11:30:12,539 - Updated combined embeddings for CSE 459
+2025-04-25 11:30:12,539 - Processing CSE460 → CSE 460
+2025-04-25 11:30:12,540 - Updated combined embeddings for CSE 460
+2025-04-25 11:30:12,540 - Processing CSE461 → CSE 461
+2025-04-25 11:30:12,540 - Updated combined embeddings for CSE 461
+2025-04-25 11:30:12,541 - Processing CSE462 → CSE 462
+2025-04-25 11:30:12,541 - Updated combined embeddings for CSE 462
+2025-04-25 11:30:12,541 - Processing CSE464 → CSE 464
+2025-04-25 11:30:12,542 - Updated combined embeddings for CSE 464
+2025-04-25 11:30:12,542 - Processing CSE469 → CSE 469
+2025-04-25 11:30:12,542 - Updated combined embeddings for CSE 469
+2025-04-25 11:30:12,543 - Processing CSE470 → CSE 470
+2025-04-25 11:30:12,543 - Updated combined embeddings for CSE 470
+2025-04-25 11:30:12,543 - Processing CSE473 → CSE 473
+2025-04-25 11:30:12,543 - Updated combined embeddings for CSE 473
+2025-04-25 11:30:12,543 - Processing CSE474 → CSE 474
+2025-04-25 11:30:12,544 - Updated combined embeddings for CSE 474
+2025-04-25 11:30:12,544 - Processing CSE475 → CSE 475
+2025-04-25 11:30:12,544 - Updated combined embeddings for CSE 475
+2025-04-25 11:30:12,544 - Processing CSE478 → CSE 478
+2025-04-25 11:30:12,544 - Updated combined embeddings for CSE 478
+2025-04-25 11:30:12,544 - Processing CSE480 → CSE 480
+2025-04-25 11:30:12,545 - Updated combined embeddings for CSE 480
+2025-04-25 11:30:12,545 - Processing CSE481 → CSE 481
+2025-04-25 11:30:12,545 - Updated combined embeddings for CSE 481
+2025-04-25 11:30:12,545 - Processing CSE481A → CSE 481A
+2025-04-25 11:30:12,545 - Updated combined embeddings for CSE 481A
+2025-04-25 11:30:12,545 - Processing CSE481C → CSE 481C
+2025-04-25 11:30:12,546 - Updated combined embeddings for CSE 481C
+2025-04-25 11:30:12,546 - Processing CSE481D → CSE 481D
+2025-04-25 11:30:12,546 - Updated combined embeddings for CSE 481D
+2025-04-25 11:30:12,546 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:30:12,546 - Updated combined embeddings for CSE 481DS
+2025-04-25 11:30:12,546 - Processing CSE481L → CSE 481L
+2025-04-25 11:30:12,547 - Updated combined embeddings for CSE 481L
+2025-04-25 11:30:12,547 - Processing CSE481N → CSE 481N
+2025-04-25 11:30:12,547 - Updated combined embeddings for CSE 481N
+2025-04-25 11:30:12,547 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:30:12,547 - Updated combined embeddings for CSE 481NE
+2025-04-25 11:30:12,547 - Processing CSE481P → CSE 481P
+2025-04-25 11:30:12,548 - Updated combined embeddings for CSE 481P
+2025-04-25 11:30:12,548 - Processing CSE481S → CSE 481S
+2025-04-25 11:30:12,548 - Updated combined embeddings for CSE 481S
+2025-04-25 11:30:12,548 - Processing CSE481V → CSE 481V
+2025-04-25 11:30:12,548 - Updated combined embeddings for CSE 481V
+2025-04-25 11:30:12,548 - Processing CSE482B → CSE 482B
+2025-04-25 11:30:12,548 - Updated combined embeddings for CSE 482B
+2025-04-25 11:30:12,548 - Processing CSE484 → CSE 484
+2025-04-25 11:30:12,548 - Updated combined embeddings for CSE 484
+2025-04-25 11:30:12,549 - Processing CSE492 → CSE 492
+2025-04-25 11:30:12,549 - Updated combined embeddings for CSE 492
+2025-04-25 11:30:12,549 - Processing CSE492C → CSE 492C
+2025-04-25 11:30:12,549 - Updated combined embeddings for CSE 492C
+2025-04-25 11:30:12,549 - Processing CSE492J → CSE 492J
+2025-04-25 11:30:12,549 - Updated combined embeddings for CSE 492J
+2025-04-25 11:30:12,549 - Processing CSE492L → CSE 492L
+2025-04-25 11:30:12,549 - Updated combined embeddings for CSE 492L
+2025-04-25 11:30:12,549 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:30:12,549 - Updated combined embeddings for CSE 492P1
+2025-04-25 11:30:12,550 - Processing CSE493C → CSE 493C
+2025-04-25 11:30:12,550 - Updated combined embeddings for CSE 493C
+2025-04-25 11:30:12,550 - Processing CSE493E → CSE 493E
+2025-04-25 11:30:12,550 - Updated combined embeddings for CSE 493E
+2025-04-25 11:30:12,550 - Processing CSE493F → CSE 493F
+2025-04-25 11:30:12,550 - Updated combined embeddings for CSE 493F
+2025-04-25 11:30:12,550 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:30:12,550 - Updated combined embeddings for CSE 493G1
+2025-04-25 11:30:12,550 - Processing CSE493H → CSE 493H
+2025-04-25 11:30:12,551 - Updated combined embeddings for CSE 493H
+2025-04-25 11:30:12,551 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:30:12,551 - Updated combined embeddings for CSE 493Q
+2025-04-25 11:30:12,551 - Processing CSE493S → CSE 493S
+2025-04-25 11:30:12,551 - Updated combined embeddings for CSE 493S
+2025-04-25 11:30:12,551 - Processing CSE493V → CSE 493V
+2025-04-25 11:30:12,551 - Updated combined embeddings for CSE 493V
+2025-04-25 11:30:12,551 - Processing CSE493W → CSE 493W
+2025-04-25 11:30:12,552 - Updated combined embeddings for CSE 493W
+2025-04-25 11:30:12,552 - Processing CSE493X → CSE 493X
+2025-04-25 11:30:12,552 - Updated combined embeddings for CSE 493X
+2025-04-25 11:30:12,552 - Processing CSE142 → CSE 142
+2025-04-25 11:30:12,552 - Updated combined embeddings for CSE 142
+2025-04-25 11:30:12,552 - Processing CSE143X → CSE 143X
+2025-04-25 11:30:12,552 - Updated combined embeddings for CSE 143X
+2025-04-25 11:30:12,552 - Processing CSE154 → CSE 154
+2025-04-25 11:30:12,553 - Updated combined embeddings for CSE 154
+2025-04-25 11:31:07,048 - Processing CSE120 → CSE 120
+2025-04-25 11:31:07,050 - Updated combined embeddings for CSE 120
+2025-04-25 11:31:07,050 - Processing CSE121 → CSE 121
+2025-04-25 11:31:07,050 - Updated combined embeddings for CSE 121
+2025-04-25 11:31:07,050 - Processing CSE122 → CSE 122
+2025-04-25 11:31:07,050 - Updated combined embeddings for CSE 122
+2025-04-25 11:31:07,051 - Processing CSE123 → CSE 123
+2025-04-25 11:31:07,051 - Updated combined embeddings for CSE 123
+2025-04-25 11:31:07,051 - Processing CSE143 → CSE 143
+2025-04-25 11:31:07,051 - Updated combined embeddings for CSE 143
+2025-04-25 11:31:07,051 - Processing CSE163 → CSE 163
+2025-04-25 11:31:07,051 - Updated combined embeddings for CSE 163
+2025-04-25 11:31:07,051 - Processing CSE160 → CSE 160
+2025-04-25 11:31:07,051 - Updated combined embeddings for CSE 160
+2025-04-25 11:31:07,052 - Processing CSE180 → CSE 180
+2025-04-25 11:31:07,052 - Updated combined embeddings for CSE 180
+2025-04-25 11:31:07,052 - Processing CSE311 → CSE 311
+2025-04-25 11:31:07,052 - Updated combined embeddings for CSE 311
+2025-04-25 11:31:07,052 - Processing CSE312 → CSE 312
+2025-04-25 11:31:07,052 - Updated combined embeddings for CSE 312
+2025-04-25 11:31:07,052 - Processing CSE331 → CSE 331
+2025-04-25 11:31:07,052 - Updated combined embeddings for CSE 331
+2025-04-25 11:31:07,052 - Processing CSE332 → CSE 332
+2025-04-25 11:31:07,053 - Updated combined embeddings for CSE 332
+2025-04-25 11:31:07,053 - Processing CSE333 → CSE 333
+2025-04-25 11:31:07,053 - Updated combined embeddings for CSE 333
+2025-04-25 11:31:07,053 - Processing CSE340 → CSE 340
+2025-04-25 11:31:07,053 - Updated combined embeddings for CSE 340
+2025-04-25 11:31:07,053 - Processing CSE341 → CSE 341
+2025-04-25 11:31:07,053 - Updated combined embeddings for CSE 341
+2025-04-25 11:31:07,053 - Processing CSE344 → CSE 344
+2025-04-25 11:31:07,053 - Updated combined embeddings for CSE 344
+2025-04-25 11:31:07,053 - Processing CSE351 → CSE 351
+2025-04-25 11:31:07,054 - Updated combined embeddings for CSE 351
+2025-04-25 11:31:07,054 - Processing CSE369 → CSE 369
+2025-04-25 11:31:07,054 - Updated combined embeddings for CSE 369
+2025-04-25 11:31:07,054 - Processing CSE371 → CSE 371
+2025-04-25 11:31:07,054 - Updated combined embeddings for CSE 371
+2025-04-25 11:31:07,054 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:31:07,054 - Updated combined embeddings for CSE 390Z
+2025-04-25 11:31:07,055 - Processing CSE391 → CSE 391
+2025-04-25 11:31:07,055 - Updated combined embeddings for CSE 391
+2025-04-25 11:31:07,055 - Processing CSE401 → CSE 401
+2025-04-25 11:31:07,055 - Updated combined embeddings for CSE 401
+2025-04-25 11:31:07,055 - Processing CSE402 → CSE 402
+2025-04-25 11:31:07,056 - Updated combined embeddings for CSE 402
+2025-04-25 11:31:07,056 - Processing CSE403 → CSE 403
+2025-04-25 11:31:07,056 - Updated combined embeddings for CSE 403
+2025-04-25 11:31:07,056 - Processing CSE421 → CSE 421
+2025-04-25 11:31:07,056 - Updated combined embeddings for CSE 421
+2025-04-25 11:31:07,056 - Processing CSE422 → CSE 422
+2025-04-25 11:31:07,056 - Updated combined embeddings for CSE 422
+2025-04-25 11:31:07,056 - Processing CSE426 → CSE 426
+2025-04-25 11:31:07,057 - Updated combined embeddings for CSE 426
+2025-04-25 11:31:07,057 - Processing CSE427 → CSE 427
+2025-04-25 11:31:07,057 - Updated combined embeddings for CSE 427
+2025-04-25 11:31:07,057 - Processing CSE428 → CSE 428
+2025-04-25 11:31:07,057 - Updated combined embeddings for CSE 428
+2025-04-25 11:31:07,057 - Processing CSE431 → CSE 431
+2025-04-25 11:31:07,057 - Updated combined embeddings for CSE 431
+2025-04-25 11:31:07,057 - Processing CSE434 → CSE 434
+2025-04-25 11:31:07,057 - Updated combined embeddings for CSE 434
+2025-04-25 11:31:07,057 - Processing CSE440 → CSE 440
+2025-04-25 11:31:07,057 - Updated combined embeddings for CSE 440
+2025-04-25 11:31:07,058 - Processing CSE441 → CSE 441
+2025-04-25 11:31:07,058 - Updated combined embeddings for CSE 441
+2025-04-25 11:31:07,058 - Processing CSE442 → CSE 442
+2025-04-25 11:31:07,058 - Updated combined embeddings for CSE 442
+2025-04-25 11:31:07,058 - Processing CSE444 → CSE 444
+2025-04-25 11:31:07,058 - Updated combined embeddings for CSE 444
+2025-04-25 11:31:07,058 - Processing CSE446 → CSE 446
+2025-04-25 11:31:07,058 - Updated combined embeddings for CSE 446
+2025-04-25 11:31:07,058 - Processing CSE447 → CSE 447
+2025-04-25 11:31:07,059 - Updated combined embeddings for CSE 447
+2025-04-25 11:31:07,059 - Processing CSE451 → CSE 451
+2025-04-25 11:31:07,059 - Updated combined embeddings for CSE 451
+2025-04-25 11:31:07,059 - Processing CSE452 → CSE 452
+2025-04-25 11:31:07,060 - Updated combined embeddings for CSE 452
+2025-04-25 11:31:07,060 - Processing CSE453 → CSE 453
+2025-04-25 11:31:07,060 - Updated combined embeddings for CSE 453
+2025-04-25 11:31:07,060 - Processing CSE455 → CSE 455
+2025-04-25 11:31:07,061 - Updated combined embeddings for CSE 455
+2025-04-25 11:31:07,061 - Processing CSE456 → CSE 456
+2025-04-25 11:31:07,061 - Updated combined embeddings for CSE 456
+2025-04-25 11:31:07,061 - Processing CSE457 → CSE 457
+2025-04-25 11:31:07,061 - Updated combined embeddings for CSE 457
+2025-04-25 11:31:07,061 - Processing CSE458 → CSE 458
+2025-04-25 11:31:07,062 - Updated combined embeddings for CSE 458
+2025-04-25 11:31:07,062 - Processing CSE459 → CSE 459
+2025-04-25 11:31:07,062 - Updated combined embeddings for CSE 459
+2025-04-25 11:31:07,062 - Processing CSE460 → CSE 460
+2025-04-25 11:31:07,062 - Updated combined embeddings for CSE 460
+2025-04-25 11:31:07,062 - Processing CSE461 → CSE 461
+2025-04-25 11:31:07,062 - Updated combined embeddings for CSE 461
+2025-04-25 11:31:07,062 - Processing CSE462 → CSE 462
+2025-04-25 11:31:07,063 - Updated combined embeddings for CSE 462
+2025-04-25 11:31:07,063 - Processing CSE464 → CSE 464
+2025-04-25 11:31:07,063 - Updated combined embeddings for CSE 464
+2025-04-25 11:31:07,063 - Processing CSE469 → CSE 469
+2025-04-25 11:31:07,063 - Updated combined embeddings for CSE 469
+2025-04-25 11:31:07,063 - Processing CSE470 → CSE 470
+2025-04-25 11:31:07,063 - Updated combined embeddings for CSE 470
+2025-04-25 11:31:07,063 - Processing CSE473 → CSE 473
+2025-04-25 11:31:07,063 - Updated combined embeddings for CSE 473
+2025-04-25 11:31:07,063 - Processing CSE474 → CSE 474
+2025-04-25 11:31:07,064 - Updated combined embeddings for CSE 474
+2025-04-25 11:31:07,064 - Processing CSE475 → CSE 475
+2025-04-25 11:31:07,064 - Updated combined embeddings for CSE 475
+2025-04-25 11:31:07,064 - Processing CSE478 → CSE 478
+2025-04-25 11:31:07,064 - Updated combined embeddings for CSE 478
+2025-04-25 11:31:07,064 - Processing CSE480 → CSE 480
+2025-04-25 11:31:07,065 - Updated combined embeddings for CSE 480
+2025-04-25 11:31:07,065 - Processing CSE481 → CSE 481
+2025-04-25 11:31:07,065 - Updated combined embeddings for CSE 481
+2025-04-25 11:31:07,065 - Processing CSE481A → CSE 481A
+2025-04-25 11:31:07,065 - Updated combined embeddings for CSE 481A
+2025-04-25 11:31:07,065 - Processing CSE481C → CSE 481C
+2025-04-25 11:31:07,065 - Updated combined embeddings for CSE 481C
+2025-04-25 11:31:07,065 - Processing CSE481D → CSE 481D
+2025-04-25 11:31:07,066 - Updated combined embeddings for CSE 481D
+2025-04-25 11:31:07,066 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:31:07,066 - Updated combined embeddings for CSE 481DS
+2025-04-25 11:31:07,066 - Processing CSE481L → CSE 481L
+2025-04-25 11:31:07,066 - Updated combined embeddings for CSE 481L
+2025-04-25 11:31:07,066 - Processing CSE481N → CSE 481N
+2025-04-25 11:31:07,067 - Updated combined embeddings for CSE 481N
+2025-04-25 11:31:07,067 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:31:07,067 - Updated combined embeddings for CSE 481NE
+2025-04-25 11:31:07,067 - Processing CSE481P → CSE 481P
+2025-04-25 11:31:07,067 - Updated combined embeddings for CSE 481P
+2025-04-25 11:31:07,067 - Processing CSE481S → CSE 481S
+2025-04-25 11:31:07,067 - Updated combined embeddings for CSE 481S
+2025-04-25 11:31:07,068 - Processing CSE481V → CSE 481V
+2025-04-25 11:31:07,068 - Updated combined embeddings for CSE 481V
+2025-04-25 11:31:07,068 - Processing CSE482B → CSE 482B
+2025-04-25 11:31:07,068 - Updated combined embeddings for CSE 482B
+2025-04-25 11:31:07,068 - Processing CSE484 → CSE 484
+2025-04-25 11:31:07,068 - Updated combined embeddings for CSE 484
+2025-04-25 11:31:07,068 - Processing CSE492 → CSE 492
+2025-04-25 11:31:07,068 - Updated combined embeddings for CSE 492
+2025-04-25 11:31:07,068 - Processing CSE492C → CSE 492C
+2025-04-25 11:31:07,068 - Updated combined embeddings for CSE 492C
+2025-04-25 11:31:07,068 - Processing CSE492J → CSE 492J
+2025-04-25 11:31:07,068 - Updated combined embeddings for CSE 492J
+2025-04-25 11:31:07,068 - Processing CSE492L → CSE 492L
+2025-04-25 11:31:07,068 - Updated combined embeddings for CSE 492L
+2025-04-25 11:31:07,068 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:31:07,068 - Updated combined embeddings for CSE 492P1
+2025-04-25 11:31:07,068 - Processing CSE493C → CSE 493C
+2025-04-25 11:31:07,068 - Updated combined embeddings for CSE 493C
+2025-04-25 11:31:07,069 - Processing CSE493E → CSE 493E
+2025-04-25 11:31:07,069 - Updated combined embeddings for CSE 493E
+2025-04-25 11:31:07,069 - Processing CSE493F → CSE 493F
+2025-04-25 11:31:07,069 - Updated combined embeddings for CSE 493F
+2025-04-25 11:31:07,069 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:31:07,069 - Updated combined embeddings for CSE 493G1
+2025-04-25 11:31:07,069 - Processing CSE493H → CSE 493H
+2025-04-25 11:31:07,069 - Updated combined embeddings for CSE 493H
+2025-04-25 11:31:07,069 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:31:07,069 - Updated combined embeddings for CSE 493Q
+2025-04-25 11:31:07,069 - Processing CSE493S → CSE 493S
+2025-04-25 11:31:07,069 - Updated combined embeddings for CSE 493S
+2025-04-25 11:31:07,069 - Processing CSE493V → CSE 493V
+2025-04-25 11:31:07,069 - Updated combined embeddings for CSE 493V
+2025-04-25 11:31:07,069 - Processing CSE493W → CSE 493W
+2025-04-25 11:31:07,070 - Updated combined embeddings for CSE 493W
+2025-04-25 11:31:07,070 - Processing CSE493X → CSE 493X
+2025-04-25 11:31:07,070 - Updated combined embeddings for CSE 493X
+2025-04-25 11:31:07,070 - Processing CSE142 → CSE 142
+2025-04-25 11:31:07,070 - Updated combined embeddings for CSE 142
+2025-04-25 11:31:07,070 - Processing CSE143X → CSE 143X
+2025-04-25 11:31:07,070 - Updated combined embeddings for CSE 143X
+2025-04-25 11:31:07,070 - Processing CSE154 → CSE 154
+2025-04-25 11:31:07,070 - Updated combined embeddings for CSE 154
+2025-04-25 11:33:38,576 - Processing CSE120 → CSE 120
+2025-04-25 11:33:38,577 - Processing CSE121 → CSE 121
+2025-04-25 11:33:38,577 - Processing CSE122 → CSE 122
+2025-04-25 11:33:38,577 - Processing CSE123 → CSE 123
+2025-04-25 11:33:38,577 - Processing CSE143 → CSE 143
+2025-04-25 11:33:38,577 - Processing CSE163 → CSE 163
+2025-04-25 11:33:38,577 - Processing CSE160 → CSE 160
+2025-04-25 11:33:38,577 - Processing CSE180 → CSE 180
+2025-04-25 11:33:38,577 - Processing CSE311 → CSE 311
+2025-04-25 11:33:38,577 - Processing CSE312 → CSE 312
+2025-04-25 11:33:38,577 - Processing CSE331 → CSE 331
+2025-04-25 11:33:38,577 - Processing CSE332 → CSE 332
+2025-04-25 11:33:38,577 - Processing CSE333 → CSE 333
+2025-04-25 11:33:38,577 - Processing CSE340 → CSE 340
+2025-04-25 11:33:38,577 - Processing CSE341 → CSE 341
+2025-04-25 11:33:38,577 - Processing CSE344 → CSE 344
+2025-04-25 11:33:38,577 - Processing CSE351 → CSE 351
+2025-04-25 11:33:38,577 - Processing CSE369 → CSE 369
+2025-04-25 11:33:38,577 - Processing CSE371 → CSE 371
+2025-04-25 11:33:38,577 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:33:38,577 - Processing CSE391 → CSE 391
+2025-04-25 11:33:38,577 - Processing CSE401 → CSE 401
+2025-04-25 11:33:38,577 - Processing CSE402 → CSE 402
+2025-04-25 11:33:38,577 - Processing CSE403 → CSE 403
+2025-04-25 11:33:38,577 - Processing CSE421 → CSE 421
+2025-04-25 11:33:38,577 - Processing CSE422 → CSE 422
+2025-04-25 11:33:38,577 - Processing CSE426 → CSE 426
+2025-04-25 11:33:38,577 - Processing CSE427 → CSE 427
+2025-04-25 11:33:38,577 - Processing CSE428 → CSE 428
+2025-04-25 11:33:38,577 - Processing CSE431 → CSE 431
+2025-04-25 11:33:38,577 - Processing CSE434 → CSE 434
+2025-04-25 11:33:38,577 - Processing CSE440 → CSE 440
+2025-04-25 11:33:38,577 - Processing CSE441 → CSE 441
+2025-04-25 11:33:38,577 - Processing CSE442 → CSE 442
+2025-04-25 11:33:38,577 - Processing CSE444 → CSE 444
+2025-04-25 11:33:38,577 - Processing CSE446 → CSE 446
+2025-04-25 11:33:38,577 - Processing CSE447 → CSE 447
+2025-04-25 11:33:38,577 - Processing CSE451 → CSE 451
+2025-04-25 11:33:38,577 - Processing CSE452 → CSE 452
+2025-04-25 11:33:38,577 - Processing CSE453 → CSE 453
+2025-04-25 11:33:38,577 - Processing CSE455 → CSE 455
+2025-04-25 11:33:38,577 - Processing CSE456 → CSE 456
+2025-04-25 11:33:38,577 - Processing CSE457 → CSE 457
+2025-04-25 11:33:38,577 - Processing CSE458 → CSE 458
+2025-04-25 11:33:38,577 - Processing CSE459 → CSE 459
+2025-04-25 11:33:38,577 - Processing CSE460 → CSE 460
+2025-04-25 11:33:38,577 - Processing CSE461 → CSE 461
+2025-04-25 11:33:38,577 - Processing CSE462 → CSE 462
+2025-04-25 11:33:38,578 - Processing CSE464 → CSE 464
+2025-04-25 11:33:38,578 - Processing CSE469 → CSE 469
+2025-04-25 11:33:38,578 - Processing CSE470 → CSE 470
+2025-04-25 11:33:38,578 - Processing CSE473 → CSE 473
+2025-04-25 11:33:38,578 - Processing CSE474 → CSE 474
+2025-04-25 11:33:38,578 - Processing CSE475 → CSE 475
+2025-04-25 11:33:38,578 - Processing CSE478 → CSE 478
+2025-04-25 11:33:38,578 - Processing CSE480 → CSE 480
+2025-04-25 11:33:38,578 - Processing CSE481 → CSE 481
+2025-04-25 11:33:38,578 - Processing CSE481A → CSE 481A
+2025-04-25 11:33:38,578 - Processing CSE481C → CSE 481C
+2025-04-25 11:33:38,578 - Processing CSE481D → CSE 481D
+2025-04-25 11:33:38,578 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:33:38,578 - Processing CSE481L → CSE 481L
+2025-04-25 11:33:38,578 - Processing CSE481N → CSE 481N
+2025-04-25 11:33:38,578 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:33:38,578 - Processing CSE481P → CSE 481P
+2025-04-25 11:33:38,578 - Processing CSE481S → CSE 481S
+2025-04-25 11:33:38,578 - Processing CSE481V → CSE 481V
+2025-04-25 11:33:38,578 - Processing CSE482B → CSE 482B
+2025-04-25 11:33:38,578 - Processing CSE484 → CSE 484
+2025-04-25 11:33:38,578 - Processing CSE492 → CSE 492
+2025-04-25 11:33:38,578 - Processing CSE492C → CSE 492C
+2025-04-25 11:33:38,578 - Processing CSE492J → CSE 492J
+2025-04-25 11:33:38,578 - Processing CSE492L → CSE 492L
+2025-04-25 11:33:38,578 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:33:38,578 - Processing CSE493C → CSE 493C
+2025-04-25 11:33:38,578 - Processing CSE493E → CSE 493E
+2025-04-25 11:33:38,578 - Processing CSE493F → CSE 493F
+2025-04-25 11:33:38,578 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:33:38,578 - Processing CSE493H → CSE 493H
+2025-04-25 11:33:38,578 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:33:38,578 - Processing CSE493S → CSE 493S
+2025-04-25 11:33:38,578 - Processing CSE493V → CSE 493V
+2025-04-25 11:33:38,578 - Processing CSE493W → CSE 493W
+2025-04-25 11:33:38,578 - Processing CSE493X → CSE 493X
+2025-04-25 11:33:38,578 - Processing CSE142 → CSE 142
+2025-04-25 11:33:38,578 - Processing CSE143X → CSE 143X
+2025-04-25 11:33:38,578 - Processing CSE154 → CSE 154
+2025-04-25 11:38:17,030 - Processing CSE120 → CSE 120
+2025-04-25 11:38:18,669 - Processing CSE121 → CSE 121
+2025-04-25 11:38:18,669 - Processing CSE122 → CSE 122
+2025-04-25 11:38:18,669 - Processing CSE123 → CSE 123
+2025-04-25 11:38:18,669 - Processing CSE143 → CSE 143
+2025-04-25 11:38:18,669 - Processing CSE163 → CSE 163
+2025-04-25 11:38:18,669 - Processing CSE160 → CSE 160
+2025-04-25 11:38:18,669 - Processing CSE180 → CSE 180
+2025-04-25 11:38:18,669 - Processing CSE311 → CSE 311
+2025-04-25 11:38:18,669 - Processing CSE312 → CSE 312
+2025-04-25 11:38:18,670 - Processing CSE331 → CSE 331
+2025-04-25 11:38:18,670 - Processing CSE332 → CSE 332
+2025-04-25 11:38:18,670 - Processing CSE333 → CSE 333
+2025-04-25 11:38:18,670 - Processing CSE340 → CSE 340
+2025-04-25 11:38:18,670 - Processing CSE341 → CSE 341
+2025-04-25 11:38:18,670 - Processing CSE344 → CSE 344
+2025-04-25 11:38:18,670 - Processing CSE351 → CSE 351
+2025-04-25 11:38:18,670 - Processing CSE369 → CSE 369
+2025-04-25 11:38:18,670 - Processing CSE371 → CSE 371
+2025-04-25 11:38:18,670 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:38:18,670 - Processing CSE391 → CSE 391
+2025-04-25 11:38:18,670 - Processing CSE401 → CSE 401
+2025-04-25 11:38:18,670 - Processing CSE402 → CSE 402
+2025-04-25 11:38:18,670 - Processing CSE403 → CSE 403
+2025-04-25 11:38:18,671 - Processing CSE421 → CSE 421
+2025-04-25 11:38:18,671 - Processing CSE422 → CSE 422
+2025-04-25 11:38:18,671 - Processing CSE426 → CSE 426
+2025-04-25 11:38:18,671 - Processing CSE427 → CSE 427
+2025-04-25 11:38:18,671 - Processing CSE428 → CSE 428
+2025-04-25 11:38:18,671 - Processing CSE431 → CSE 431
+2025-04-25 11:38:18,671 - Processing CSE434 → CSE 434
+2025-04-25 11:38:18,671 - Processing CSE440 → CSE 440
+2025-04-25 11:38:18,671 - Processing CSE441 → CSE 441
+2025-04-25 11:38:18,671 - Processing CSE442 → CSE 442
+2025-04-25 11:38:18,671 - Processing CSE444 → CSE 444
+2025-04-25 11:38:18,671 - Processing CSE446 → CSE 446
+2025-04-25 11:38:18,672 - Processing CSE447 → CSE 447
+2025-04-25 11:38:18,672 - Processing CSE451 → CSE 451
+2025-04-25 11:38:18,672 - Processing CSE452 → CSE 452
+2025-04-25 11:38:18,672 - Processing CSE453 → CSE 453
+2025-04-25 11:38:18,672 - Processing CSE455 → CSE 455
+2025-04-25 11:38:18,672 - Processing CSE456 → CSE 456
+2025-04-25 11:38:18,672 - Processing CSE457 → CSE 457
+2025-04-25 11:38:18,672 - Processing CSE458 → CSE 458
+2025-04-25 11:38:18,672 - Processing CSE459 → CSE 459
+2025-04-25 11:38:18,672 - Processing CSE460 → CSE 460
+2025-04-25 11:38:18,672 - Processing CSE461 → CSE 461
+2025-04-25 11:38:18,673 - Processing CSE462 → CSE 462
+2025-04-25 11:38:18,673 - Processing CSE464 → CSE 464
+2025-04-25 11:38:18,673 - Processing CSE469 → CSE 469
+2025-04-25 11:38:18,673 - Processing CSE470 → CSE 470
+2025-04-25 11:38:18,673 - Processing CSE473 → CSE 473
+2025-04-25 11:38:18,673 - Processing CSE474 → CSE 474
+2025-04-25 11:38:18,673 - Processing CSE475 → CSE 475
+2025-04-25 11:38:18,673 - Processing CSE478 → CSE 478
+2025-04-25 11:38:18,673 - Processing CSE480 → CSE 480
+2025-04-25 11:38:18,673 - Processing CSE481 → CSE 481
+2025-04-25 11:38:18,673 - Processing CSE481A → CSE 481A
+2025-04-25 11:38:18,673 - Processing CSE481C → CSE 481C
+2025-04-25 11:38:18,674 - Processing CSE481D → CSE 481D
+2025-04-25 11:38:18,674 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:38:18,674 - Processing CSE481L → CSE 481L
+2025-04-25 11:38:18,674 - Processing CSE481N → CSE 481N
+2025-04-25 11:38:18,674 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:38:18,674 - Processing CSE481P → CSE 481P
+2025-04-25 11:38:18,674 - Processing CSE481S → CSE 481S
+2025-04-25 11:38:18,674 - Processing CSE481V → CSE 481V
+2025-04-25 11:38:18,674 - Processing CSE482B → CSE 482B
+2025-04-25 11:38:18,674 - Processing CSE484 → CSE 484
+2025-04-25 11:38:18,674 - Processing CSE492 → CSE 492
+2025-04-25 11:38:18,675 - Processing CSE492C → CSE 492C
+2025-04-25 11:38:18,675 - Processing CSE492J → CSE 492J
+2025-04-25 11:38:18,675 - Processing CSE492L → CSE 492L
+2025-04-25 11:38:18,675 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:38:18,675 - Processing CSE493C → CSE 493C
+2025-04-25 11:38:18,675 - Processing CSE493E → CSE 493E
+2025-04-25 11:38:18,675 - Processing CSE493F → CSE 493F
+2025-04-25 11:38:18,675 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:38:18,675 - Processing CSE493H → CSE 493H
+2025-04-25 11:38:18,675 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:38:18,675 - Processing CSE493S → CSE 493S
+2025-04-25 11:38:18,676 - Processing CSE493V → CSE 493V
+2025-04-25 11:38:18,676 - Processing CSE493W → CSE 493W
+2025-04-25 11:38:18,676 - Processing CSE493X → CSE 493X
+2025-04-25 11:38:18,676 - Processing CSE142 → CSE 142
+2025-04-25 11:38:18,676 - Processing CSE143X → CSE 143X
+2025-04-25 11:38:18,676 - Processing CSE154 → CSE 154
+2025-04-25 11:39:17,106 - Processing CSE120 → CSE 120
+2025-04-25 11:39:17,106 - Processing CSE121 → CSE 121
+2025-04-25 11:39:17,106 - Processing CSE122 → CSE 122
+2025-04-25 11:39:17,107 - Processing CSE123 → CSE 123
+2025-04-25 11:39:17,107 - Processing CSE143 → CSE 143
+2025-04-25 11:39:17,107 - Processing CSE163 → CSE 163
+2025-04-25 11:39:17,107 - Processing CSE160 → CSE 160
+2025-04-25 11:39:17,107 - Processing CSE180 → CSE 180
+2025-04-25 11:39:17,107 - Processing CSE311 → CSE 311
+2025-04-25 11:39:17,107 - Processing CSE312 → CSE 312
+2025-04-25 11:39:17,107 - Processing CSE331 → CSE 331
+2025-04-25 11:39:17,107 - Processing CSE332 → CSE 332
+2025-04-25 11:39:17,107 - Processing CSE333 → CSE 333
+2025-04-25 11:39:17,107 - Processing CSE340 → CSE 340
+2025-04-25 11:39:17,107 - Processing CSE341 → CSE 341
+2025-04-25 11:39:17,107 - Processing CSE344 → CSE 344
+2025-04-25 11:39:17,107 - Processing CSE351 → CSE 351
+2025-04-25 11:39:17,107 - Processing CSE369 → CSE 369
+2025-04-25 11:39:17,107 - Processing CSE371 → CSE 371
+2025-04-25 11:39:17,107 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:39:17,107 - Processing CSE391 → CSE 391
+2025-04-25 11:39:17,107 - Processing CSE401 → CSE 401
+2025-04-25 11:39:17,107 - Processing CSE402 → CSE 402
+2025-04-25 11:39:17,107 - Processing CSE403 → CSE 403
+2025-04-25 11:39:17,107 - Processing CSE421 → CSE 421
+2025-04-25 11:39:17,107 - Processing CSE422 → CSE 422
+2025-04-25 11:39:17,107 - Processing CSE426 → CSE 426
+2025-04-25 11:39:17,107 - Processing CSE427 → CSE 427
+2025-04-25 11:39:17,107 - Processing CSE428 → CSE 428
+2025-04-25 11:39:17,107 - Processing CSE431 → CSE 431
+2025-04-25 11:39:17,107 - Processing CSE434 → CSE 434
+2025-04-25 11:39:17,107 - Processing CSE440 → CSE 440
+2025-04-25 11:39:17,107 - Processing CSE441 → CSE 441
+2025-04-25 11:39:17,107 - Processing CSE442 → CSE 442
+2025-04-25 11:39:17,107 - Processing CSE444 → CSE 444
+2025-04-25 11:39:17,107 - Processing CSE446 → CSE 446
+2025-04-25 11:39:17,107 - Processing CSE447 → CSE 447
+2025-04-25 11:39:17,107 - Processing CSE451 → CSE 451
+2025-04-25 11:39:17,107 - Processing CSE452 → CSE 452
+2025-04-25 11:39:17,107 - Processing CSE453 → CSE 453
+2025-04-25 11:39:17,107 - Processing CSE455 → CSE 455
+2025-04-25 11:39:17,107 - Processing CSE456 → CSE 456
+2025-04-25 11:39:17,107 - Processing CSE457 → CSE 457
+2025-04-25 11:39:17,107 - Processing CSE458 → CSE 458
+2025-04-25 11:39:17,107 - Processing CSE459 → CSE 459
+2025-04-25 11:39:17,107 - Processing CSE460 → CSE 460
+2025-04-25 11:39:17,107 - Processing CSE461 → CSE 461
+2025-04-25 11:39:17,107 - Processing CSE462 → CSE 462
+2025-04-25 11:39:17,107 - Processing CSE464 → CSE 464
+2025-04-25 11:39:17,107 - Processing CSE469 → CSE 469
+2025-04-25 11:39:17,107 - Processing CSE470 → CSE 470
+2025-04-25 11:39:17,107 - Processing CSE473 → CSE 473
+2025-04-25 11:39:17,107 - Processing CSE474 → CSE 474
+2025-04-25 11:39:17,107 - Processing CSE475 → CSE 475
+2025-04-25 11:39:17,108 - Processing CSE478 → CSE 478
+2025-04-25 11:39:17,108 - Processing CSE480 → CSE 480
+2025-04-25 11:39:17,108 - Processing CSE481 → CSE 481
+2025-04-25 11:39:17,108 - Processing CSE481A → CSE 481A
+2025-04-25 11:39:17,108 - Processing CSE481C → CSE 481C
+2025-04-25 11:39:17,108 - Processing CSE481D → CSE 481D
+2025-04-25 11:39:17,108 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:39:17,108 - Processing CSE481L → CSE 481L
+2025-04-25 11:39:17,108 - Processing CSE481N → CSE 481N
+2025-04-25 11:39:17,108 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:39:17,108 - Processing CSE481P → CSE 481P
+2025-04-25 11:39:17,108 - Processing CSE481S → CSE 481S
+2025-04-25 11:39:17,108 - Processing CSE481V → CSE 481V
+2025-04-25 11:39:17,108 - Processing CSE482B → CSE 482B
+2025-04-25 11:39:17,108 - Processing CSE484 → CSE 484
+2025-04-25 11:39:17,108 - Processing CSE492 → CSE 492
+2025-04-25 11:39:17,108 - Processing CSE492C → CSE 492C
+2025-04-25 11:39:17,108 - Processing CSE492J → CSE 492J
+2025-04-25 11:39:17,108 - Processing CSE492L → CSE 492L
+2025-04-25 11:39:17,108 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:39:17,108 - Processing CSE493C → CSE 493C
+2025-04-25 11:39:17,108 - Processing CSE493E → CSE 493E
+2025-04-25 11:39:17,108 - Processing CSE493F → CSE 493F
+2025-04-25 11:39:17,108 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:39:17,108 - Processing CSE493H → CSE 493H
+2025-04-25 11:39:17,108 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:39:17,108 - Processing CSE493S → CSE 493S
+2025-04-25 11:39:17,108 - Processing CSE493V → CSE 493V
+2025-04-25 11:39:17,108 - Processing CSE493W → CSE 493W
+2025-04-25 11:39:17,108 - Processing CSE493X → CSE 493X
+2025-04-25 11:39:17,108 - Processing CSE142 → CSE 142
+2025-04-25 11:39:17,108 - Processing CSE143X → CSE 143X
+2025-04-25 11:39:17,108 - Processing CSE154 → CSE 154
+2025-04-25 11:41:33,231 - Processing CSE120 → CSE 120
+2025-04-25 11:41:33,231 - Error processing CSE 120: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE121 → CSE 121
+2025-04-25 11:41:33,231 - Error processing CSE 121: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE122 → CSE 122
+2025-04-25 11:41:33,231 - Error processing CSE 122: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE123 → CSE 123
+2025-04-25 11:41:33,231 - Error processing CSE 123: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE143 → CSE 143
+2025-04-25 11:41:33,231 - Error processing CSE 143: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE163 → CSE 163
+2025-04-25 11:41:33,231 - Error processing CSE 163: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE160 → CSE 160
+2025-04-25 11:41:33,231 - Error processing CSE 160: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE180 → CSE 180
+2025-04-25 11:41:33,231 - Error processing CSE 180: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE311 → CSE 311
+2025-04-25 11:41:33,231 - Error processing CSE 311: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE312 → CSE 312
+2025-04-25 11:41:33,231 - Error processing CSE 312: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE331 → CSE 331
+2025-04-25 11:41:33,231 - Error processing CSE 331: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE332 → CSE 332
+2025-04-25 11:41:33,231 - Error processing CSE 332: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE333 → CSE 333
+2025-04-25 11:41:33,231 - Error processing CSE 333: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE340 → CSE 340
+2025-04-25 11:41:33,231 - Error processing CSE 340: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE341 → CSE 341
+2025-04-25 11:41:33,231 - Error processing CSE 341: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE344 → CSE 344
+2025-04-25 11:41:33,231 - Error processing CSE 344: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE351 → CSE 351
+2025-04-25 11:41:33,231 - Error processing CSE 351: name 'desc' is not defined
+2025-04-25 11:41:33,231 - Processing CSE369 → CSE 369
+2025-04-25 11:41:33,231 - Error processing CSE 369: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE371 → CSE 371
+2025-04-25 11:41:33,232 - Error processing CSE 371: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:41:33,232 - Error processing CSE 390Z: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE391 → CSE 391
+2025-04-25 11:41:33,232 - Error processing CSE 391: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE401 → CSE 401
+2025-04-25 11:41:33,232 - Error processing CSE 401: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE402 → CSE 402
+2025-04-25 11:41:33,232 - Error processing CSE 402: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE403 → CSE 403
+2025-04-25 11:41:33,232 - Error processing CSE 403: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE421 → CSE 421
+2025-04-25 11:41:33,232 - Error processing CSE 421: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE422 → CSE 422
+2025-04-25 11:41:33,232 - Error processing CSE 422: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE426 → CSE 426
+2025-04-25 11:41:33,232 - Error processing CSE 426: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE427 → CSE 427
+2025-04-25 11:41:33,232 - Error processing CSE 427: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE428 → CSE 428
+2025-04-25 11:41:33,232 - Error processing CSE 428: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE431 → CSE 431
+2025-04-25 11:41:33,232 - Error processing CSE 431: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE434 → CSE 434
+2025-04-25 11:41:33,232 - Error processing CSE 434: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE440 → CSE 440
+2025-04-25 11:41:33,232 - Error processing CSE 440: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE441 → CSE 441
+2025-04-25 11:41:33,232 - Error processing CSE 441: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE442 → CSE 442
+2025-04-25 11:41:33,232 - Error processing CSE 442: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE444 → CSE 444
+2025-04-25 11:41:33,232 - Error processing CSE 444: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE446 → CSE 446
+2025-04-25 11:41:33,232 - Error processing CSE 446: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE447 → CSE 447
+2025-04-25 11:41:33,232 - Error processing CSE 447: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE451 → CSE 451
+2025-04-25 11:41:33,232 - Error processing CSE 451: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE452 → CSE 452
+2025-04-25 11:41:33,232 - Error processing CSE 452: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE453 → CSE 453
+2025-04-25 11:41:33,232 - Error processing CSE 453: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE455 → CSE 455
+2025-04-25 11:41:33,232 - Error processing CSE 455: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE456 → CSE 456
+2025-04-25 11:41:33,232 - Error processing CSE 456: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE457 → CSE 457
+2025-04-25 11:41:33,232 - Error processing CSE 457: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE458 → CSE 458
+2025-04-25 11:41:33,232 - Error processing CSE 458: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE459 → CSE 459
+2025-04-25 11:41:33,232 - Error processing CSE 459: name 'desc' is not defined
+2025-04-25 11:41:33,232 - Processing CSE460 → CSE 460
+2025-04-25 11:41:33,232 - Error processing CSE 460: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE461 → CSE 461
+2025-04-25 11:41:33,233 - Error processing CSE 461: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE462 → CSE 462
+2025-04-25 11:41:33,233 - Error processing CSE 462: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE464 → CSE 464
+2025-04-25 11:41:33,233 - Error processing CSE 464: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE469 → CSE 469
+2025-04-25 11:41:33,233 - Error processing CSE 469: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE470 → CSE 470
+2025-04-25 11:41:33,233 - Error processing CSE 470: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE473 → CSE 473
+2025-04-25 11:41:33,233 - Error processing CSE 473: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE474 → CSE 474
+2025-04-25 11:41:33,233 - Error processing CSE 474: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE475 → CSE 475
+2025-04-25 11:41:33,233 - Error processing CSE 475: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE478 → CSE 478
+2025-04-25 11:41:33,233 - Error processing CSE 478: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE480 → CSE 480
+2025-04-25 11:41:33,233 - Error processing CSE 480: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481 → CSE 481
+2025-04-25 11:41:33,233 - Error processing CSE 481: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481A → CSE 481A
+2025-04-25 11:41:33,233 - Error processing CSE 481A: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481C → CSE 481C
+2025-04-25 11:41:33,233 - Error processing CSE 481C: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481D → CSE 481D
+2025-04-25 11:41:33,233 - Error processing CSE 481D: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:41:33,233 - Error processing CSE 481DS: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481L → CSE 481L
+2025-04-25 11:41:33,233 - Error processing CSE 481L: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481N → CSE 481N
+2025-04-25 11:41:33,233 - Error processing CSE 481N: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:41:33,233 - Error processing CSE 481NE: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481P → CSE 481P
+2025-04-25 11:41:33,233 - Error processing CSE 481P: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481S → CSE 481S
+2025-04-25 11:41:33,233 - Error processing CSE 481S: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE481V → CSE 481V
+2025-04-25 11:41:33,233 - Error processing CSE 481V: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE482B → CSE 482B
+2025-04-25 11:41:33,233 - Error processing CSE 482B: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE484 → CSE 484
+2025-04-25 11:41:33,233 - Error processing CSE 484: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE492 → CSE 492
+2025-04-25 11:41:33,233 - Error processing CSE 492: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE492C → CSE 492C
+2025-04-25 11:41:33,233 - Error processing CSE 492C: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE492J → CSE 492J
+2025-04-25 11:41:33,233 - Error processing CSE 492J: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE492L → CSE 492L
+2025-04-25 11:41:33,233 - Error processing CSE 492L: name 'desc' is not defined
+2025-04-25 11:41:33,233 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:41:33,234 - Error processing CSE 492P1: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE493C → CSE 493C
+2025-04-25 11:41:33,234 - Error processing CSE 493C: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE493E → CSE 493E
+2025-04-25 11:41:33,234 - Error processing CSE 493E: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE493F → CSE 493F
+2025-04-25 11:41:33,234 - Error processing CSE 493F: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:41:33,234 - Error processing CSE 493G1: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE493H → CSE 493H
+2025-04-25 11:41:33,234 - Error processing CSE 493H: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:41:33,234 - Error processing CSE 493Q: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE493S → CSE 493S
+2025-04-25 11:41:33,234 - Error processing CSE 493S: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE493V → CSE 493V
+2025-04-25 11:41:33,234 - Error processing CSE 493V: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE493W → CSE 493W
+2025-04-25 11:41:33,234 - Error processing CSE 493W: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE493X → CSE 493X
+2025-04-25 11:41:33,234 - Error processing CSE 493X: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE142 → CSE 142
+2025-04-25 11:41:33,234 - Error processing CSE 142: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE143X → CSE 143X
+2025-04-25 11:41:33,234 - Error processing CSE 143X: name 'desc' is not defined
+2025-04-25 11:41:33,234 - Processing CSE154 → CSE 154
+2025-04-25 11:41:33,234 - Error processing CSE 154: name 'desc' is not defined
+2025-04-25 11:42:03,170 - Processing CSE120 → CSE 120
+2025-04-25 11:42:03,171 - Error processing CSE 120: name 'combined_text' is not defined
+2025-04-25 11:42:03,171 - Processing CSE121 → CSE 121
+2025-04-25 11:42:03,171 - Error processing CSE 121: name 'combined_text' is not defined
+2025-04-25 11:42:03,171 - Processing CSE122 → CSE 122
+2025-04-25 11:42:03,171 - Error processing CSE 122: name 'combined_text' is not defined
+2025-04-25 11:42:03,171 - Processing CSE123 → CSE 123
+2025-04-25 11:42:03,171 - Error processing CSE 123: name 'combined_text' is not defined
+2025-04-25 11:42:03,171 - Processing CSE143 → CSE 143
+2025-04-25 11:42:03,172 - Error processing CSE 143: name 'combined_text' is not defined
+2025-04-25 11:42:03,172 - Processing CSE163 → CSE 163
+2025-04-25 11:42:03,172 - Error processing CSE 163: name 'combined_text' is not defined
+2025-04-25 11:42:03,172 - Processing CSE160 → CSE 160
+2025-04-25 11:42:03,172 - Error processing CSE 160: name 'combined_text' is not defined
+2025-04-25 11:42:03,172 - Processing CSE180 → CSE 180
+2025-04-25 11:42:03,172 - Error processing CSE 180: name 'combined_text' is not defined
+2025-04-25 11:42:03,172 - Processing CSE311 → CSE 311
+2025-04-25 11:42:03,172 - Error processing CSE 311: name 'combined_text' is not defined
+2025-04-25 11:42:03,172 - Processing CSE312 → CSE 312
+2025-04-25 11:42:03,172 - Error processing CSE 312: name 'combined_text' is not defined
+2025-04-25 11:42:03,172 - Processing CSE331 → CSE 331
+2025-04-25 11:42:03,172 - Error processing CSE 331: name 'combined_text' is not defined
+2025-04-25 11:42:03,172 - Processing CSE332 → CSE 332
+2025-04-25 11:42:03,173 - Error processing CSE 332: name 'combined_text' is not defined
+2025-04-25 11:42:03,173 - Processing CSE333 → CSE 333
+2025-04-25 11:42:03,173 - Error processing CSE 333: name 'combined_text' is not defined
+2025-04-25 11:42:03,173 - Processing CSE340 → CSE 340
+2025-04-25 11:42:03,173 - Error processing CSE 340: name 'combined_text' is not defined
+2025-04-25 11:42:03,173 - Processing CSE341 → CSE 341
+2025-04-25 11:42:03,173 - Error processing CSE 341: name 'combined_text' is not defined
+2025-04-25 11:42:03,173 - Processing CSE344 → CSE 344
+2025-04-25 11:42:03,173 - Error processing CSE 344: name 'combined_text' is not defined
+2025-04-25 11:42:03,173 - Processing CSE351 → CSE 351
+2025-04-25 11:42:03,173 - Error processing CSE 351: name 'combined_text' is not defined
+2025-04-25 11:42:03,173 - Processing CSE369 → CSE 369
+2025-04-25 11:42:03,174 - Error processing CSE 369: name 'combined_text' is not defined
+2025-04-25 11:42:03,174 - Processing CSE371 → CSE 371
+2025-04-25 11:42:03,174 - Error processing CSE 371: name 'combined_text' is not defined
+2025-04-25 11:42:03,174 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:42:03,174 - Error processing CSE 390Z: name 'combined_text' is not defined
+2025-04-25 11:42:03,174 - Processing CSE391 → CSE 391
+2025-04-25 11:42:03,174 - Error processing CSE 391: name 'combined_text' is not defined
+2025-04-25 11:42:03,174 - Processing CSE401 → CSE 401
+2025-04-25 11:42:03,174 - Error processing CSE 401: name 'combined_text' is not defined
+2025-04-25 11:42:03,174 - Processing CSE402 → CSE 402
+2025-04-25 11:42:03,175 - Error processing CSE 402: name 'combined_text' is not defined
+2025-04-25 11:42:03,175 - Processing CSE403 → CSE 403
+2025-04-25 11:42:03,175 - Error processing CSE 403: name 'combined_text' is not defined
+2025-04-25 11:42:03,175 - Processing CSE421 → CSE 421
+2025-04-25 11:42:03,175 - Error processing CSE 421: name 'combined_text' is not defined
+2025-04-25 11:42:03,175 - Processing CSE422 → CSE 422
+2025-04-25 11:42:03,175 - Error processing CSE 422: name 'combined_text' is not defined
+2025-04-25 11:42:03,175 - Processing CSE426 → CSE 426
+2025-04-25 11:42:03,175 - Error processing CSE 426: name 'combined_text' is not defined
+2025-04-25 11:42:03,175 - Processing CSE427 → CSE 427
+2025-04-25 11:42:03,175 - Error processing CSE 427: name 'combined_text' is not defined
+2025-04-25 11:42:03,175 - Processing CSE428 → CSE 428
+2025-04-25 11:42:03,175 - Error processing CSE 428: name 'combined_text' is not defined
+2025-04-25 11:42:03,176 - Processing CSE431 → CSE 431
+2025-04-25 11:42:03,176 - Error processing CSE 431: name 'combined_text' is not defined
+2025-04-25 11:42:03,176 - Processing CSE434 → CSE 434
+2025-04-25 11:42:03,176 - Error processing CSE 434: name 'combined_text' is not defined
+2025-04-25 11:42:03,176 - Processing CSE440 → CSE 440
+2025-04-25 11:42:03,176 - Error processing CSE 440: name 'combined_text' is not defined
+2025-04-25 11:42:03,176 - Processing CSE441 → CSE 441
+2025-04-25 11:42:03,176 - Error processing CSE 441: name 'combined_text' is not defined
+2025-04-25 11:42:03,176 - Processing CSE442 → CSE 442
+2025-04-25 11:42:03,176 - Error processing CSE 442: name 'combined_text' is not defined
+2025-04-25 11:42:03,176 - Processing CSE444 → CSE 444
+2025-04-25 11:42:03,176 - Error processing CSE 444: name 'combined_text' is not defined
+2025-04-25 11:42:03,176 - Processing CSE446 → CSE 446
+2025-04-25 11:42:03,176 - Error processing CSE 446: name 'combined_text' is not defined
+2025-04-25 11:42:03,176 - Processing CSE447 → CSE 447
+2025-04-25 11:42:03,176 - Error processing CSE 447: name 'combined_text' is not defined
+2025-04-25 11:42:03,176 - Processing CSE451 → CSE 451
+2025-04-25 11:42:03,177 - Error processing CSE 451: name 'combined_text' is not defined
+2025-04-25 11:42:03,177 - Processing CSE452 → CSE 452
+2025-04-25 11:42:03,177 - Error processing CSE 452: name 'combined_text' is not defined
+2025-04-25 11:42:03,177 - Processing CSE453 → CSE 453
+2025-04-25 11:42:03,177 - Error processing CSE 453: name 'combined_text' is not defined
+2025-04-25 11:42:03,177 - Processing CSE455 → CSE 455
+2025-04-25 11:42:03,177 - Error processing CSE 455: name 'combined_text' is not defined
+2025-04-25 11:42:03,177 - Processing CSE456 → CSE 456
+2025-04-25 11:42:03,177 - Error processing CSE 456: name 'combined_text' is not defined
+2025-04-25 11:42:03,177 - Processing CSE457 → CSE 457
+2025-04-25 11:42:03,177 - Error processing CSE 457: name 'combined_text' is not defined
+2025-04-25 11:42:03,177 - Processing CSE458 → CSE 458
+2025-04-25 11:42:03,177 - Error processing CSE 458: name 'combined_text' is not defined
+2025-04-25 11:42:03,177 - Processing CSE459 → CSE 459
+2025-04-25 11:42:03,177 - Error processing CSE 459: name 'combined_text' is not defined
+2025-04-25 11:42:03,177 - Processing CSE460 → CSE 460
+2025-04-25 11:42:03,177 - Error processing CSE 460: name 'combined_text' is not defined
+2025-04-25 11:42:03,177 - Processing CSE461 → CSE 461
+2025-04-25 11:42:03,177 - Error processing CSE 461: name 'combined_text' is not defined
+2025-04-25 11:42:03,178 - Processing CSE462 → CSE 462
+2025-04-25 11:42:03,178 - Error processing CSE 462: name 'combined_text' is not defined
+2025-04-25 11:42:03,178 - Processing CSE464 → CSE 464
+2025-04-25 11:42:03,178 - Error processing CSE 464: name 'combined_text' is not defined
+2025-04-25 11:42:03,178 - Processing CSE469 → CSE 469
+2025-04-25 11:42:03,178 - Error processing CSE 469: name 'combined_text' is not defined
+2025-04-25 11:42:03,178 - Processing CSE470 → CSE 470
+2025-04-25 11:42:03,178 - Error processing CSE 470: name 'combined_text' is not defined
+2025-04-25 11:42:03,178 - Processing CSE473 → CSE 473
+2025-04-25 11:42:03,178 - Error processing CSE 473: name 'combined_text' is not defined
+2025-04-25 11:42:03,178 - Processing CSE474 → CSE 474
+2025-04-25 11:42:03,178 - Error processing CSE 474: name 'combined_text' is not defined
+2025-04-25 11:42:03,178 - Processing CSE475 → CSE 475
+2025-04-25 11:42:03,178 - Error processing CSE 475: name 'combined_text' is not defined
+2025-04-25 11:42:03,178 - Processing CSE478 → CSE 478
+2025-04-25 11:42:03,179 - Error processing CSE 478: name 'combined_text' is not defined
+2025-04-25 11:42:03,179 - Processing CSE480 → CSE 480
+2025-04-25 11:42:03,179 - Error processing CSE 480: name 'combined_text' is not defined
+2025-04-25 11:42:03,179 - Processing CSE481 → CSE 481
+2025-04-25 11:42:03,179 - Error processing CSE 481: name 'combined_text' is not defined
+2025-04-25 11:42:03,179 - Processing CSE481A → CSE 481A
+2025-04-25 11:42:03,179 - Error processing CSE 481A: name 'combined_text' is not defined
+2025-04-25 11:42:03,179 - Processing CSE481C → CSE 481C
+2025-04-25 11:42:03,179 - Error processing CSE 481C: name 'combined_text' is not defined
+2025-04-25 11:42:03,179 - Processing CSE481D → CSE 481D
+2025-04-25 11:42:03,179 - Error processing CSE 481D: name 'combined_text' is not defined
+2025-04-25 11:42:03,179 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:42:03,179 - Error processing CSE 481DS: name 'combined_text' is not defined
+2025-04-25 11:42:03,179 - Processing CSE481L → CSE 481L
+2025-04-25 11:42:03,179 - Error processing CSE 481L: name 'combined_text' is not defined
+2025-04-25 11:42:03,179 - Processing CSE481N → CSE 481N
+2025-04-25 11:42:03,180 - Error processing CSE 481N: name 'combined_text' is not defined
+2025-04-25 11:42:03,180 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:42:03,180 - Error processing CSE 481NE: name 'combined_text' is not defined
+2025-04-25 11:42:03,180 - Processing CSE481P → CSE 481P
+2025-04-25 11:42:03,180 - Error processing CSE 481P: name 'combined_text' is not defined
+2025-04-25 11:42:03,180 - Processing CSE481S → CSE 481S
+2025-04-25 11:42:03,180 - Error processing CSE 481S: name 'combined_text' is not defined
+2025-04-25 11:42:03,180 - Processing CSE481V → CSE 481V
+2025-04-25 11:42:03,180 - Error processing CSE 481V: name 'combined_text' is not defined
+2025-04-25 11:42:03,180 - Processing CSE482B → CSE 482B
+2025-04-25 11:42:03,180 - Error processing CSE 482B: name 'combined_text' is not defined
+2025-04-25 11:42:03,180 - Processing CSE484 → CSE 484
+2025-04-25 11:42:03,180 - Error processing CSE 484: name 'combined_text' is not defined
+2025-04-25 11:42:03,180 - Processing CSE492 → CSE 492
+2025-04-25 11:42:03,180 - Error processing CSE 492: name 'combined_text' is not defined
+2025-04-25 11:42:03,180 - Processing CSE492C → CSE 492C
+2025-04-25 11:42:03,181 - Error processing CSE 492C: name 'combined_text' is not defined
+2025-04-25 11:42:03,181 - Processing CSE492J → CSE 492J
+2025-04-25 11:42:03,181 - Error processing CSE 492J: name 'combined_text' is not defined
+2025-04-25 11:42:03,181 - Processing CSE492L → CSE 492L
+2025-04-25 11:42:03,181 - Error processing CSE 492L: name 'combined_text' is not defined
+2025-04-25 11:42:03,181 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:42:03,181 - Error processing CSE 492P1: name 'combined_text' is not defined
+2025-04-25 11:42:03,181 - Processing CSE493C → CSE 493C
+2025-04-25 11:42:03,181 - Error processing CSE 493C: name 'combined_text' is not defined
+2025-04-25 11:42:03,181 - Processing CSE493E → CSE 493E
+2025-04-25 11:42:03,181 - Error processing CSE 493E: name 'combined_text' is not defined
+2025-04-25 11:42:03,181 - Processing CSE493F → CSE 493F
+2025-04-25 11:42:03,181 - Error processing CSE 493F: name 'combined_text' is not defined
+2025-04-25 11:42:03,181 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:42:03,181 - Error processing CSE 493G1: name 'combined_text' is not defined
+2025-04-25 11:42:03,181 - Processing CSE493H → CSE 493H
+2025-04-25 11:42:03,181 - Error processing CSE 493H: name 'combined_text' is not defined
+2025-04-25 11:42:03,181 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:42:03,182 - Error processing CSE 493Q: name 'combined_text' is not defined
+2025-04-25 11:42:03,182 - Processing CSE493S → CSE 493S
+2025-04-25 11:42:03,182 - Error processing CSE 493S: name 'combined_text' is not defined
+2025-04-25 11:42:03,182 - Processing CSE493V → CSE 493V
+2025-04-25 11:42:03,182 - Error processing CSE 493V: name 'combined_text' is not defined
+2025-04-25 11:42:03,182 - Processing CSE493W → CSE 493W
+2025-04-25 11:42:03,182 - Error processing CSE 493W: name 'combined_text' is not defined
+2025-04-25 11:42:03,182 - Processing CSE493X → CSE 493X
+2025-04-25 11:42:03,182 - Error processing CSE 493X: name 'combined_text' is not defined
+2025-04-25 11:42:03,182 - Processing CSE142 → CSE 142
+2025-04-25 11:42:03,182 - Error processing CSE 142: name 'combined_text' is not defined
+2025-04-25 11:42:03,182 - Processing CSE143X → CSE 143X
+2025-04-25 11:42:03,182 - Error processing CSE 143X: name 'combined_text' is not defined
+2025-04-25 11:42:03,182 - Processing CSE154 → CSE 154
+2025-04-25 11:42:03,182 - Error processing CSE 154: name 'combined_text' is not defined
+2025-04-25 11:42:15,427 - Processing CSE120 → CSE 120
+2025-04-25 11:42:15,427 - Processing CSE121 → CSE 121
+2025-04-25 11:42:15,427 - Processing CSE122 → CSE 122
+2025-04-25 11:42:15,427 - Processing CSE123 → CSE 123
+2025-04-25 11:42:15,427 - Processing CSE143 → CSE 143
+2025-04-25 11:42:15,427 - Processing CSE163 → CSE 163
+2025-04-25 11:42:15,427 - Processing CSE160 → CSE 160
+2025-04-25 11:42:15,427 - Processing CSE180 → CSE 180
+2025-04-25 11:42:15,427 - Processing CSE311 → CSE 311
+2025-04-25 11:42:15,427 - Processing CSE312 → CSE 312
+2025-04-25 11:42:15,427 - Processing CSE331 → CSE 331
+2025-04-25 11:42:15,427 - Processing CSE332 → CSE 332
+2025-04-25 11:42:15,427 - Processing CSE333 → CSE 333
+2025-04-25 11:42:15,427 - Processing CSE340 → CSE 340
+2025-04-25 11:42:15,427 - Processing CSE341 → CSE 341
+2025-04-25 11:42:15,427 - Processing CSE344 → CSE 344
+2025-04-25 11:42:15,427 - Processing CSE351 → CSE 351
+2025-04-25 11:42:15,427 - Processing CSE369 → CSE 369
+2025-04-25 11:42:15,427 - Processing CSE371 → CSE 371
+2025-04-25 11:42:15,427 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:42:15,427 - Processing CSE391 → CSE 391
+2025-04-25 11:42:15,427 - Processing CSE401 → CSE 401
+2025-04-25 11:42:15,427 - Processing CSE402 → CSE 402
+2025-04-25 11:42:15,427 - Processing CSE403 → CSE 403
+2025-04-25 11:42:15,427 - Processing CSE421 → CSE 421
+2025-04-25 11:42:15,427 - Processing CSE422 → CSE 422
+2025-04-25 11:42:15,428 - Processing CSE426 → CSE 426
+2025-04-25 11:42:15,428 - Processing CSE427 → CSE 427
+2025-04-25 11:42:15,428 - Processing CSE428 → CSE 428
+2025-04-25 11:42:15,428 - Processing CSE431 → CSE 431
+2025-04-25 11:42:15,428 - Processing CSE434 → CSE 434
+2025-04-25 11:42:15,428 - Processing CSE440 → CSE 440
+2025-04-25 11:42:15,428 - Processing CSE441 → CSE 441
+2025-04-25 11:42:15,428 - Processing CSE442 → CSE 442
+2025-04-25 11:42:15,428 - Processing CSE444 → CSE 444
+2025-04-25 11:42:15,428 - Processing CSE446 → CSE 446
+2025-04-25 11:42:15,428 - Processing CSE447 → CSE 447
+2025-04-25 11:42:15,428 - Processing CSE451 → CSE 451
+2025-04-25 11:42:15,428 - Processing CSE452 → CSE 452
+2025-04-25 11:42:15,428 - Processing CSE453 → CSE 453
+2025-04-25 11:42:15,428 - Processing CSE455 → CSE 455
+2025-04-25 11:42:15,428 - Processing CSE456 → CSE 456
+2025-04-25 11:42:15,428 - Processing CSE457 → CSE 457
+2025-04-25 11:42:15,428 - Processing CSE458 → CSE 458
+2025-04-25 11:42:15,428 - Processing CSE459 → CSE 459
+2025-04-25 11:42:15,428 - Processing CSE460 → CSE 460
+2025-04-25 11:42:15,428 - Processing CSE461 → CSE 461
+2025-04-25 11:42:15,428 - Processing CSE462 → CSE 462
+2025-04-25 11:42:15,428 - Processing CSE464 → CSE 464
+2025-04-25 11:42:15,428 - Processing CSE469 → CSE 469
+2025-04-25 11:42:15,428 - Processing CSE470 → CSE 470
+2025-04-25 11:42:15,428 - Processing CSE473 → CSE 473
+2025-04-25 11:42:15,428 - Processing CSE474 → CSE 474
+2025-04-25 11:42:15,428 - Processing CSE475 → CSE 475
+2025-04-25 11:42:15,428 - Processing CSE478 → CSE 478
+2025-04-25 11:42:15,428 - Processing CSE480 → CSE 480
+2025-04-25 11:42:15,428 - Processing CSE481 → CSE 481
+2025-04-25 11:42:15,428 - Processing CSE481A → CSE 481A
+2025-04-25 11:42:15,428 - Processing CSE481C → CSE 481C
+2025-04-25 11:42:15,428 - Processing CSE481D → CSE 481D
+2025-04-25 11:42:15,428 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:42:15,428 - Processing CSE481L → CSE 481L
+2025-04-25 11:42:15,428 - Processing CSE481N → CSE 481N
+2025-04-25 11:42:15,428 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:42:15,429 - Processing CSE481P → CSE 481P
+2025-04-25 11:42:15,429 - Processing CSE481S → CSE 481S
+2025-04-25 11:42:15,429 - Processing CSE481V → CSE 481V
+2025-04-25 11:42:15,429 - Processing CSE482B → CSE 482B
+2025-04-25 11:42:15,429 - Processing CSE484 → CSE 484
+2025-04-25 11:42:15,429 - Processing CSE492 → CSE 492
+2025-04-25 11:42:15,429 - Processing CSE492C → CSE 492C
+2025-04-25 11:42:15,429 - Processing CSE492J → CSE 492J
+2025-04-25 11:42:15,429 - Processing CSE492L → CSE 492L
+2025-04-25 11:42:15,429 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:42:15,429 - Processing CSE493C → CSE 493C
+2025-04-25 11:42:15,429 - Processing CSE493E → CSE 493E
+2025-04-25 11:42:15,429 - Processing CSE493F → CSE 493F
+2025-04-25 11:42:15,429 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:42:15,429 - Processing CSE493H → CSE 493H
+2025-04-25 11:42:15,429 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:42:15,429 - Processing CSE493S → CSE 493S
+2025-04-25 11:42:15,429 - Processing CSE493V → CSE 493V
+2025-04-25 11:42:15,429 - Processing CSE493W → CSE 493W
+2025-04-25 11:42:15,429 - Processing CSE493X → CSE 493X
+2025-04-25 11:42:15,429 - Processing CSE142 → CSE 142
+2025-04-25 11:42:15,429 - Processing CSE143X → CSE 143X
+2025-04-25 11:42:15,429 - Processing CSE154 → CSE 154
+2025-04-25 11:43:30,308 - Processing CSE120 → CSE 120
+2025-04-25 11:43:30,717 - Processing CSE121 → CSE 121
+2025-04-25 11:43:30,717 - Processing CSE122 → CSE 122
+2025-04-25 11:43:30,717 - Processing CSE123 → CSE 123
+2025-04-25 11:43:30,717 - Processing CSE143 → CSE 143
+2025-04-25 11:43:30,717 - Processing CSE163 → CSE 163
+2025-04-25 11:43:30,717 - Processing CSE160 → CSE 160
+2025-04-25 11:43:30,717 - Processing CSE180 → CSE 180
+2025-04-25 11:43:30,717 - Processing CSE311 → CSE 311
+2025-04-25 11:43:30,717 - Processing CSE312 → CSE 312
+2025-04-25 11:43:30,717 - Processing CSE331 → CSE 331
+2025-04-25 11:43:30,717 - Processing CSE332 → CSE 332
+2025-04-25 11:43:30,718 - Processing CSE333 → CSE 333
+2025-04-25 11:43:30,718 - Processing CSE340 → CSE 340
+2025-04-25 11:43:30,718 - Processing CSE341 → CSE 341
+2025-04-25 11:43:30,718 - Processing CSE344 → CSE 344
+2025-04-25 11:43:30,718 - Processing CSE351 → CSE 351
+2025-04-25 11:43:30,718 - Processing CSE369 → CSE 369
+2025-04-25 11:43:30,718 - Processing CSE371 → CSE 371
+2025-04-25 11:43:30,718 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:43:30,718 - Processing CSE391 → CSE 391
+2025-04-25 11:43:30,718 - Processing CSE401 → CSE 401
+2025-04-25 11:43:30,718 - Processing CSE402 → CSE 402
+2025-04-25 11:43:30,718 - Processing CSE403 → CSE 403
+2025-04-25 11:43:30,718 - Processing CSE421 → CSE 421
+2025-04-25 11:43:30,718 - Processing CSE422 → CSE 422
+2025-04-25 11:43:30,718 - Processing CSE426 → CSE 426
+2025-04-25 11:43:30,718 - Processing CSE427 → CSE 427
+2025-04-25 11:43:30,718 - Processing CSE428 → CSE 428
+2025-04-25 11:43:30,719 - Processing CSE431 → CSE 431
+2025-04-25 11:43:30,719 - Processing CSE434 → CSE 434
+2025-04-25 11:43:30,719 - Processing CSE440 → CSE 440
+2025-04-25 11:43:30,719 - Processing CSE441 → CSE 441
+2025-04-25 11:43:30,719 - Processing CSE442 → CSE 442
+2025-04-25 11:43:30,719 - Processing CSE444 → CSE 444
+2025-04-25 11:43:30,719 - Processing CSE446 → CSE 446
+2025-04-25 11:43:30,719 - Processing CSE447 → CSE 447
+2025-04-25 11:43:30,719 - Processing CSE451 → CSE 451
+2025-04-25 11:43:30,719 - Processing CSE452 → CSE 452
+2025-04-25 11:43:30,719 - Processing CSE453 → CSE 453
+2025-04-25 11:43:30,719 - Processing CSE455 → CSE 455
+2025-04-25 11:43:30,719 - Processing CSE456 → CSE 456
+2025-04-25 11:43:30,719 - Processing CSE457 → CSE 457
+2025-04-25 11:43:30,719 - Processing CSE458 → CSE 458
+2025-04-25 11:43:30,719 - Processing CSE459 → CSE 459
+2025-04-25 11:43:30,719 - Processing CSE460 → CSE 460
+2025-04-25 11:43:30,719 - Processing CSE461 → CSE 461
+2025-04-25 11:43:30,720 - Processing CSE462 → CSE 462
+2025-04-25 11:43:30,720 - Processing CSE464 → CSE 464
+2025-04-25 11:43:30,720 - Processing CSE469 → CSE 469
+2025-04-25 11:43:30,720 - Processing CSE470 → CSE 470
+2025-04-25 11:43:30,720 - Processing CSE473 → CSE 473
+2025-04-25 11:43:30,720 - Processing CSE474 → CSE 474
+2025-04-25 11:43:30,720 - Processing CSE475 → CSE 475
+2025-04-25 11:43:30,720 - Processing CSE478 → CSE 478
+2025-04-25 11:43:30,720 - Processing CSE480 → CSE 480
+2025-04-25 11:43:30,720 - Processing CSE481 → CSE 481
+2025-04-25 11:43:30,720 - Processing CSE481A → CSE 481A
+2025-04-25 11:43:30,720 - Processing CSE481C → CSE 481C
+2025-04-25 11:43:30,720 - Processing CSE481D → CSE 481D
+2025-04-25 11:43:30,720 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:43:30,720 - Processing CSE481L → CSE 481L
+2025-04-25 11:43:30,720 - Processing CSE481N → CSE 481N
+2025-04-25 11:43:30,720 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:43:30,720 - Processing CSE481P → CSE 481P
+2025-04-25 11:43:30,720 - Processing CSE481S → CSE 481S
+2025-04-25 11:43:30,721 - Processing CSE481V → CSE 481V
+2025-04-25 11:43:30,721 - Processing CSE482B → CSE 482B
+2025-04-25 11:43:30,721 - Processing CSE484 → CSE 484
+2025-04-25 11:43:30,721 - Processing CSE492 → CSE 492
+2025-04-25 11:43:30,721 - Processing CSE492C → CSE 492C
+2025-04-25 11:43:30,721 - Processing CSE492J → CSE 492J
+2025-04-25 11:43:30,721 - Processing CSE492L → CSE 492L
+2025-04-25 11:43:30,721 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:43:30,721 - Processing CSE493C → CSE 493C
+2025-04-25 11:43:30,721 - Processing CSE493E → CSE 493E
+2025-04-25 11:43:30,721 - Processing CSE493F → CSE 493F
+2025-04-25 11:43:30,721 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:43:30,721 - Processing CSE493H → CSE 493H
+2025-04-25 11:43:30,721 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:43:30,721 - Processing CSE493S → CSE 493S
+2025-04-25 11:43:30,721 - Processing CSE493V → CSE 493V
+2025-04-25 11:43:30,721 - Processing CSE493W → CSE 493W
+2025-04-25 11:43:30,721 - Processing CSE493X → CSE 493X
+2025-04-25 11:43:30,722 - Processing CSE142 → CSE 142
+2025-04-25 11:43:30,722 - Processing CSE143X → CSE 143X
+2025-04-25 11:43:30,722 - Processing CSE154 → CSE 154
+2025-04-25 11:54:11,723 - Processing CSE120 → CSE 120
+2025-04-25 11:54:12,980 - Processing CSE121 → CSE 121
+2025-04-25 11:54:12,980 - Processing CSE122 → CSE 122
+2025-04-25 11:54:12,980 - Processing CSE123 → CSE 123
+2025-04-25 11:54:12,980 - Processing CSE143 → CSE 143
+2025-04-25 11:54:12,981 - Processing CSE163 → CSE 163
+2025-04-25 11:54:12,981 - Processing CSE160 → CSE 160
+2025-04-25 11:54:12,981 - Processing CSE180 → CSE 180
+2025-04-25 11:54:12,981 - Processing CSE311 → CSE 311
+2025-04-25 11:54:12,981 - Processing CSE312 → CSE 312
+2025-04-25 11:54:12,981 - Processing CSE331 → CSE 331
+2025-04-25 11:54:12,981 - Processing CSE332 → CSE 332
+2025-04-25 11:54:12,981 - Processing CSE333 → CSE 333
+2025-04-25 11:54:12,981 - Processing CSE340 → CSE 340
+2025-04-25 11:54:12,981 - Processing CSE341 → CSE 341
+2025-04-25 11:54:12,981 - Processing CSE344 → CSE 344
+2025-04-25 11:54:12,982 - Processing CSE351 → CSE 351
+2025-04-25 11:54:12,982 - Processing CSE369 → CSE 369
+2025-04-25 11:54:12,982 - Processing CSE371 → CSE 371
+2025-04-25 11:54:12,982 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:54:12,982 - Processing CSE391 → CSE 391
+2025-04-25 11:54:12,982 - Processing CSE401 → CSE 401
+2025-04-25 11:54:12,982 - Processing CSE402 → CSE 402
+2025-04-25 11:54:12,982 - Processing CSE403 → CSE 403
+2025-04-25 11:54:12,983 - Processing CSE421 → CSE 421
+2025-04-25 11:54:12,983 - Processing CSE422 → CSE 422
+2025-04-25 11:54:12,983 - Processing CSE426 → CSE 426
+2025-04-25 11:54:12,983 - Processing CSE427 → CSE 427
+2025-04-25 11:54:12,983 - Processing CSE428 → CSE 428
+2025-04-25 11:54:12,983 - Processing CSE431 → CSE 431
+2025-04-25 11:54:12,983 - Processing CSE434 → CSE 434
+2025-04-25 11:54:12,984 - Processing CSE440 → CSE 440
+2025-04-25 11:54:12,984 - Processing CSE441 → CSE 441
+2025-04-25 11:54:12,984 - Processing CSE442 → CSE 442
+2025-04-25 11:54:12,984 - Processing CSE444 → CSE 444
+2025-04-25 11:54:12,984 - Processing CSE446 → CSE 446
+2025-04-25 11:54:12,984 - Processing CSE447 → CSE 447
+2025-04-25 11:54:12,984 - Processing CSE451 → CSE 451
+2025-04-25 11:54:12,984 - Processing CSE452 → CSE 452
+2025-04-25 11:54:12,984 - Processing CSE453 → CSE 453
+2025-04-25 11:54:12,985 - Processing CSE455 → CSE 455
+2025-04-25 11:54:12,985 - Processing CSE456 → CSE 456
+2025-04-25 11:54:12,986 - Processing CSE457 → CSE 457
+2025-04-25 11:54:12,987 - Processing CSE458 → CSE 458
+2025-04-25 11:54:12,989 - Processing CSE459 → CSE 459
+2025-04-25 11:54:12,989 - Processing CSE460 → CSE 460
+2025-04-25 11:54:12,989 - Processing CSE461 → CSE 461
+2025-04-25 11:54:12,990 - Processing CSE462 → CSE 462
+2025-04-25 11:54:12,991 - Processing CSE464 → CSE 464
+2025-04-25 11:54:12,992 - Processing CSE469 → CSE 469
+2025-04-25 11:54:12,992 - Processing CSE470 → CSE 470
+2025-04-25 11:54:12,993 - Processing CSE473 → CSE 473
+2025-04-25 11:54:12,993 - Processing CSE474 → CSE 474
+2025-04-25 11:54:12,993 - Processing CSE475 → CSE 475
+2025-04-25 11:54:12,993 - Processing CSE478 → CSE 478
+2025-04-25 11:54:12,994 - Processing CSE480 → CSE 480
+2025-04-25 11:54:12,995 - Processing CSE481 → CSE 481
+2025-04-25 11:54:12,995 - Processing CSE481A → CSE 481A
+2025-04-25 11:54:12,995 - Processing CSE481C → CSE 481C
+2025-04-25 11:54:12,995 - Processing CSE481D → CSE 481D
+2025-04-25 11:54:12,995 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:54:12,995 - Processing CSE481L → CSE 481L
+2025-04-25 11:54:12,995 - Processing CSE481N → CSE 481N
+2025-04-25 11:54:12,995 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:54:12,995 - Processing CSE481P → CSE 481P
+2025-04-25 11:54:12,995 - Processing CSE481S → CSE 481S
+2025-04-25 11:54:12,995 - Processing CSE481V → CSE 481V
+2025-04-25 11:54:12,995 - Processing CSE482B → CSE 482B
+2025-04-25 11:54:12,995 - Processing CSE484 → CSE 484
+2025-04-25 11:54:12,996 - Processing CSE492 → CSE 492
+2025-04-25 11:54:12,996 - Processing CSE492C → CSE 492C
+2025-04-25 11:54:12,996 - Processing CSE492J → CSE 492J
+2025-04-25 11:54:12,996 - Processing CSE492L → CSE 492L
+2025-04-25 11:54:12,996 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:54:12,996 - Processing CSE493C → CSE 493C
+2025-04-25 11:54:12,996 - Processing CSE493E → CSE 493E
+2025-04-25 11:54:12,996 - Processing CSE493F → CSE 493F
+2025-04-25 11:54:12,996 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:54:12,996 - Processing CSE493H → CSE 493H
+2025-04-25 11:54:12,996 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:54:12,996 - Processing CSE493S → CSE 493S
+2025-04-25 11:54:12,996 - Processing CSE493V → CSE 493V
+2025-04-25 11:54:12,996 - Processing CSE493W → CSE 493W
+2025-04-25 11:54:12,996 - Processing CSE493X → CSE 493X
+2025-04-25 11:54:12,996 - Processing CSE142 → CSE 142
+2025-04-25 11:54:12,996 - Processing CSE143X → CSE 143X
+2025-04-25 11:54:12,996 - Processing CSE154 → CSE 154
+2025-04-25 11:57:38,636 - Processing CSE120 → CSE 120
+2025-04-25 11:57:40,190 - Updated combined embeddings for CSE 120
+2025-04-25 11:57:40,190 - Processing CSE121 → CSE 121
+2025-04-25 11:57:41,191 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:42,827 - Updated combined embeddings for CSE 121
+2025-04-25 11:57:42,828 - Processing CSE122 → CSE 122
+2025-04-25 11:57:43,345 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:43,351 - Updated combined embeddings for CSE 122
+2025-04-25 11:57:43,352 - Processing CSE123 → CSE 123
+2025-04-25 11:57:43,560 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:43,569 - Updated combined embeddings for CSE 123
+2025-04-25 11:57:43,569 - Processing CSE143 → CSE 143
+2025-04-25 11:57:44,367 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:44,377 - Updated combined embeddings for CSE 143
+2025-04-25 11:57:44,377 - Processing CSE163 → CSE 163
+2025-04-25 11:57:44,876 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:44,887 - Updated combined embeddings for CSE 163
+2025-04-25 11:57:44,887 - Processing CSE160 → CSE 160
+2025-04-25 11:57:45,534 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:45,542 - Updated combined embeddings for CSE 160
+2025-04-25 11:57:45,542 - Processing CSE180 → CSE 180
+2025-04-25 11:57:45,940 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:45,948 - Updated combined embeddings for CSE 180
+2025-04-25 11:57:45,948 - Processing CSE311 → CSE 311
+2025-04-25 11:57:46,135 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:46,138 - Updated combined embeddings for CSE 311
+2025-04-25 11:57:46,139 - Processing CSE312 → CSE 312
+2025-04-25 11:57:46,695 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:46,701 - Updated combined embeddings for CSE 312
+2025-04-25 11:57:46,702 - Processing CSE331 → CSE 331
+2025-04-25 11:57:46,908 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:46,912 - Updated combined embeddings for CSE 331
+2025-04-25 11:57:46,912 - Processing CSE332 → CSE 332
+2025-04-25 11:57:47,748 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:52,174 - Updated combined embeddings for CSE 332
+2025-04-25 11:57:52,174 - Processing CSE333 → CSE 333
+2025-04-25 11:57:53,790 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:53,797 - Updated combined embeddings for CSE 333
+2025-04-25 11:57:53,798 - Processing CSE340 → CSE 340
+2025-04-25 11:57:53,798 - Updated combined embeddings for CSE 340
+2025-04-25 11:57:53,798 - Processing CSE341 → CSE 341
+2025-04-25 11:57:53,798 - Updated combined embeddings for CSE 341
+2025-04-25 11:57:53,799 - Processing CSE344 → CSE 344
+2025-04-25 11:57:54,610 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:54,620 - Updated combined embeddings for CSE 344
+2025-04-25 11:57:54,620 - Processing CSE351 → CSE 351
+2025-04-25 11:57:55,531 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:55,540 - Updated combined embeddings for CSE 351
+2025-04-25 11:57:55,540 - Processing CSE369 → CSE 369
+2025-04-25 11:57:56,041 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:56,047 - Updated combined embeddings for CSE 369
+2025-04-25 11:57:56,048 - Processing CSE371 → CSE 371
+2025-04-25 11:57:56,760 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:56,768 - Updated combined embeddings for CSE 371
+2025-04-25 11:57:56,768 - Processing CSE390Z → CSE 390Z
+2025-04-25 11:57:57,374 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:57,384 - Updated combined embeddings for CSE 390Z
+2025-04-25 11:57:57,384 - Processing CSE391 → CSE 391
+2025-04-25 11:57:57,782 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:57,787 - Updated combined embeddings for CSE 391
+2025-04-25 11:57:57,787 - Processing CSE401 → CSE 401
+2025-04-25 11:57:58,135 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:58,145 - Updated combined embeddings for CSE 401
+2025-04-25 11:57:58,145 - Processing CSE402 → CSE 402
+2025-04-25 11:57:58,353 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:58,358 - Updated combined embeddings for CSE 402
+2025-04-25 11:57:58,358 - Processing CSE403 → CSE 403
+2025-04-25 11:57:59,619 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:59,625 - Updated combined embeddings for CSE 403
+2025-04-25 11:57:59,625 - Processing CSE421 → CSE 421
+2025-04-25 11:57:59,827 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:57:59,836 - Updated combined embeddings for CSE 421
+2025-04-25 11:57:59,836 - Processing CSE422 → CSE 422
+2025-04-25 11:58:00,211 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:00,219 - Updated combined embeddings for CSE 422
+2025-04-25 11:58:00,219 - Processing CSE426 → CSE 426
+2025-04-25 11:58:00,882 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:00,891 - Updated combined embeddings for CSE 426
+2025-04-25 11:58:00,891 - Processing CSE427 → CSE 427
+2025-04-25 11:58:01,135 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:01,143 - Updated combined embeddings for CSE 427
+2025-04-25 11:58:01,143 - Processing CSE428 → CSE 428
+2025-04-25 11:58:01,144 - Updated combined embeddings for CSE 428
+2025-04-25 11:58:01,144 - Processing CSE431 → CSE 431
+2025-04-25 11:58:01,411 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:01,418 - Updated combined embeddings for CSE 431
+2025-04-25 11:58:01,419 - Processing CSE434 → CSE 434
+2025-04-25 11:58:01,694 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:01,698 - Updated combined embeddings for CSE 434
+2025-04-25 11:58:01,699 - Processing CSE440 → CSE 440
+2025-04-25 11:58:01,903 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:01,912 - Updated combined embeddings for CSE 440
+2025-04-25 11:58:01,912 - Processing CSE441 → CSE 441
+2025-04-25 11:58:02,394 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:02,397 - Updated combined embeddings for CSE 441
+2025-04-25 11:58:02,397 - Processing CSE442 → CSE 442
+2025-04-25 11:58:02,602 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:02,610 - Updated combined embeddings for CSE 442
+2025-04-25 11:58:02,610 - Processing CSE444 → CSE 444
+2025-04-25 11:58:02,875 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:02,880 - Updated combined embeddings for CSE 444
+2025-04-25 11:58:02,880 - Processing CSE446 → CSE 446
+2025-04-25 11:58:03,117 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:03,125 - Updated combined embeddings for CSE 446
+2025-04-25 11:58:03,125 - Processing CSE447 → CSE 447
+2025-04-25 11:58:03,476 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:03,483 - Updated combined embeddings for CSE 447
+2025-04-25 11:58:03,483 - Processing CSE451 → CSE 451
+2025-04-25 11:58:03,614 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:03,622 - Updated combined embeddings for CSE 451
+2025-04-25 11:58:03,622 - Processing CSE452 → CSE 452
+2025-04-25 11:58:03,812 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:03,816 - Updated combined embeddings for CSE 452
+2025-04-25 11:58:03,816 - Processing CSE453 → CSE 453
+2025-04-25 11:58:04,075 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:04,081 - Updated combined embeddings for CSE 453
+2025-04-25 11:58:04,081 - Processing CSE455 → CSE 455
+2025-04-25 11:58:04,251 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:04,263 - Updated combined embeddings for CSE 455
+2025-04-25 11:58:04,264 - Processing CSE456 → CSE 456
+2025-04-25 11:58:04,761 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:04,766 - Updated combined embeddings for CSE 456
+2025-04-25 11:58:04,766 - Processing CSE457 → CSE 457
+2025-04-25 11:58:05,233 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:05,248 - Updated combined embeddings for CSE 457
+2025-04-25 11:58:05,248 - Processing CSE458 → CSE 458
+2025-04-25 11:58:05,590 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:05,602 - Updated combined embeddings for CSE 458
+2025-04-25 11:58:05,602 - Processing CSE459 → CSE 459
+2025-04-25 11:58:05,602 - Updated combined embeddings for CSE 459
+2025-04-25 11:58:05,602 - Processing CSE460 → CSE 460
+2025-04-25 11:58:05,841 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:05,846 - Updated combined embeddings for CSE 460
+2025-04-25 11:58:05,846 - Processing CSE461 → CSE 461
+2025-04-25 11:58:06,192 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:06,199 - Updated combined embeddings for CSE 461
+2025-04-25 11:58:06,199 - Processing CSE462 → CSE 462
+2025-04-25 11:58:06,389 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:06,395 - Updated combined embeddings for CSE 462
+2025-04-25 11:58:06,395 - Processing CSE464 → CSE 464
+2025-04-25 11:58:06,758 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:06,761 - Updated combined embeddings for CSE 464
+2025-04-25 11:58:06,762 - Processing CSE469 → CSE 469
+2025-04-25 11:58:07,205 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:07,209 - Updated combined embeddings for CSE 469
+2025-04-25 11:58:07,209 - Processing CSE470 → CSE 470
+2025-04-25 11:58:07,600 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:07,607 - Updated combined embeddings for CSE 470
+2025-04-25 11:58:07,607 - Processing CSE473 → CSE 473
+2025-04-25 11:58:07,833 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:07,839 - Updated combined embeddings for CSE 473
+2025-04-25 11:58:07,839 - Processing CSE474 → CSE 474
+2025-04-25 11:58:08,049 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:08,055 - Updated combined embeddings for CSE 474
+2025-04-25 11:58:08,055 - Processing CSE475 → CSE 475
+2025-04-25 11:58:08,056 - Updated combined embeddings for CSE 475
+2025-04-25 11:58:08,057 - Processing CSE478 → CSE 478
+2025-04-25 11:58:08,238 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:08,252 - Updated combined embeddings for CSE 478
+2025-04-25 11:58:08,252 - Processing CSE480 → CSE 480
+2025-04-25 11:58:08,471 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:08,480 - Updated combined embeddings for CSE 480
+2025-04-25 11:58:08,480 - Processing CSE481 → CSE 481
+2025-04-25 11:58:08,480 - Updated combined embeddings for CSE 481
+2025-04-25 11:58:08,480 - Processing CSE481A → CSE 481A
+2025-04-25 11:58:14,848 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:14,852 - Updated combined embeddings for CSE 481A
+2025-04-25 11:58:14,852 - Processing CSE481C → CSE 481C
+2025-04-25 11:58:15,329 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:15,338 - Updated combined embeddings for CSE 481C
+2025-04-25 11:58:15,338 - Processing CSE481D → CSE 481D
+2025-04-25 11:58:15,338 - Updated combined embeddings for CSE 481D
+2025-04-25 11:58:15,338 - Processing CSE481DS → CSE 481DS
+2025-04-25 11:58:16,113 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:16,136 - Updated combined embeddings for CSE 481DS
+2025-04-25 11:58:16,136 - Processing CSE481L → CSE 481L
+2025-04-25 11:58:16,942 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:16,951 - Updated combined embeddings for CSE 481L
+2025-04-25 11:58:16,951 - Processing CSE481N → CSE 481N
+2025-04-25 11:58:16,951 - Updated combined embeddings for CSE 481N
+2025-04-25 11:58:16,952 - Processing CSE481NE → CSE 481NE
+2025-04-25 11:58:16,952 - Updated combined embeddings for CSE 481NE
+2025-04-25 11:58:16,952 - Processing CSE481P → CSE 481P
+2025-04-25 11:58:17,549 - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-25 11:58:17,560 - Updated combined embeddings for CSE 481P
+2025-04-25 11:58:17,560 - Processing CSE481S → CSE 481S
+2025-04-25 11:58:17,560 - Updated combined embeddings for CSE 481S
+2025-04-25 11:58:17,561 - Processing CSE481V → CSE 481V
+2025-04-25 11:58:17,561 - Updated combined embeddings for CSE 481V
+2025-04-25 11:58:17,561 - Processing CSE482B → CSE 482B
+2025-04-25 11:58:17,561 - Updated combined embeddings for CSE 482B
+2025-04-25 11:58:17,561 - Processing CSE484 → CSE 484
+2025-04-25 11:58:17,561 - Updated combined embeddings for CSE 484
+2025-04-25 11:58:17,561 - Processing CSE492 → CSE 492
+2025-04-25 11:58:17,561 - Updated combined embeddings for CSE 492
+2025-04-25 11:58:17,561 - Processing CSE492C → CSE 492C
+2025-04-25 11:58:17,561 - Updated combined embeddings for CSE 492C
+2025-04-25 11:58:17,561 - Processing CSE492J → CSE 492J
+2025-04-25 11:58:17,561 - Updated combined embeddings for CSE 492J
+2025-04-25 11:58:17,561 - Processing CSE492L → CSE 492L
+2025-04-25 11:58:17,561 - Updated combined embeddings for CSE 492L
+2025-04-25 11:58:17,561 - Processing CSE492P1 → CSE 492P1
+2025-04-25 11:58:17,561 - Updated combined embeddings for CSE 492P1
+2025-04-25 11:58:17,561 - Processing CSE493C → CSE 493C
+2025-04-25 11:58:17,562 - Updated combined embeddings for CSE 493C
+2025-04-25 11:58:17,562 - Processing CSE493E → CSE 493E
+2025-04-25 11:58:17,562 - Updated combined embeddings for CSE 493E
+2025-04-25 11:58:17,562 - Processing CSE493F → CSE 493F
+2025-04-25 11:58:17,562 - Updated combined embeddings for CSE 493F
+2025-04-25 11:58:17,562 - Processing CSE493G1 → CSE 493G1
+2025-04-25 11:58:17,562 - Updated combined embeddings for CSE 493G1
+2025-04-25 11:58:17,562 - Processing CSE493H → CSE 493H
+2025-04-25 11:58:17,562 - Updated combined embeddings for CSE 493H
+2025-04-25 11:58:17,562 - Processing CSE493Q → CSE 493Q
+2025-04-25 11:58:17,562 - Updated combined embeddings for CSE 493Q
+2025-04-25 11:58:17,562 - Processing CSE493S → CSE 493S
+2025-04-25 11:58:17,563 - Updated combined embeddings for CSE 493S
+2025-04-25 11:58:17,563 - Processing CSE493V → CSE 493V
+2025-04-25 11:58:17,563 - Updated combined embeddings for CSE 493V
+2025-04-25 11:58:17,564 - Processing CSE493W → CSE 493W
+2025-04-25 11:58:17,564 - Updated combined embeddings for CSE 493W
+2025-04-25 11:58:17,564 - Processing CSE493X → CSE 493X
+2025-04-25 11:58:17,564 - Updated combined embeddings for CSE 493X
+2025-04-25 11:58:17,564 - Processing CSE142 → CSE 142
+2025-04-25 11:58:17,564 - Updated combined embeddings for CSE 142
+2025-04-25 11:58:17,564 - Processing CSE143X → CSE 143X
+2025-04-25 11:58:17,564 - Updated combined embeddings for CSE 143X
+2025-04-25 11:58:17,565 - Processing CSE154 → CSE 154
+2025-04-25 11:58:17,565 - Updated combined embeddings for CSE 154

@@ -1,0 +1,12 @@
+Course Goals
+This course provides a theoretical background in, and practical
+          experience with, tools and techniques for modeling complex digital
+          systems with the SystemVerilog hardware description language,
+          including converting software algorithms to hardware.
+          Prerequisites: EE 205/215 and EE 271/CSE 369.
+
+          This is the last undergraduate course for digital design;
+          other related courses of particular interest include:Computer Architecture I (EE/CSE 469)Introdution to Embedded Systems (EE/CSE 474)Introduction to Very Large-Scale Integrated Design (EE 476)
+Computer Architecture I (EE/CSE 469)Introdution to Embedded Systems (EE/CSE 474)Introduction to Very Large-Scale Integrated Design (EE 476)
+Introdution to Embedded Systems (EE/CSE 474)Introduction to Very Large-Scale Integrated Design (EE 476)
+Introduction to Very Large-Scale Integrated Design (EE 476)

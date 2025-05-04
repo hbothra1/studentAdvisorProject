@@ -1,0 +1,33 @@
+Course Goals¶
+
+Learning Objectives¶
+CSE 122is designed around a set of 17 learning objectives, organized into seven major themes. At the end of the course, successful students will be able to do the following:
+Computational Thinking
+Decompose a problem into smaller subproblems that can be composed to give a solution to the full problem
+Create an algorithm to solve a given problem and express that algorithm in a structured way (e.g. pseudocode)
+Code Comprehension
+Trace the behavior and state of a Java program that includes complex and/or compound data through its execution
+Predict the behavior and results of executing a Java program that includes complex and/or compound data
+Code Writing
+Write functionally correct Java programs that meet a provided specification using objects and compound data types
+Write programs that accept input and produce output to/from the console and text files
+Select and apply appropriate data structures to manage and manipulate data for a given problem:ListsStacksQueuesMaps
+Lists
+Stacks
+Queues
+Maps
+Write functionally correct Java classes to represent new, compound data types
+Define relationships between Java classes using interfaces and references
+Write programs and classes that are readable and maintainable, and that conform to provided guidelines for style and implementation
+Communication
+Clearly and effectively describe the behavior of a Java program that uses other classes
+Clearly and effectively describe the behavior of a Java class and its public methods for various inputs and state
+Produce clear and effective documentation to improve comprehension and maintainability of programs, methods, and classes
+Testing
+Determine the correctness of a program by evaluating its behavior as compared to a provided specification
+Identify and enumerate a set of inputs or tests that are sufficient to determine the correctness of a program or class
+Debugging
+Identify errors in a program’s state or behavior
+Define and implement fixes for identified errors
+Ethics/Impact
+Describe ethical and sociotechnical issues related to software and technology and explain how their choices as programmers can impact those issues.

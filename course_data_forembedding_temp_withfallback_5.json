@@ -1,0 +1,619 @@
+{
+  "CSE120": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE121": {
+    "course_description": "This course serves as an introduction to computer programming for students without prior programming experience. Utilizing the Java programming language, students will learn to express algorithmic thinking and solve computational problems inspired by modern societal and scientific needs. Key topics include procedural programming constructs, control structures, and standard data types such as arrays.",
+    "learning_goals": "Write functionally correct Java programs that meet provided specifications and solve specified problems.\n\nBreak down complex problems into modular and reusable subproblems, defining methods to represent those subproblems.\n\nSelect and apply control structures (e.g., loops, conditionals) to manage the flow of control and information in programs.\n\nUtilize basic data abstractions (e.g., variables, parameters, arrays, classes) to manage and manipulate data in programs.\n\nDevelop programs that are well-written, readable, maintainable, and conform to established standards.",
+    "topics_covered": "Course Policies; Hello World!\n\nPrinting; Strings; Variables\n\nDatatypes; Expressions\n\nRevisiting Strings & Variables\n\n`for` Loops and Nested Loops\n\n`Random`, `Math`, Methods, Parameters, Scope\n\nBoolean Expressions; `if/else`; While Loops\n\nArrays; Classes and Objects\n\nFile Input/Output\n\nFinal Review",
+    "tools": "Java Development Kit (JDK) version 8 or higher\n\njGRASP editor",
+    "source_url": "https://courses.cs.washington.edu/courses/cse121/24wi",
+    "url2": "https://courses.cs.washington.edu/courses/cse121/22au",
+    "url3": "https://courses.cs.washington.edu/courses/cse121/24sp",
+    "url4": "https://courses.cs.washington.edu/courses/cse121/25sp",
+    "url5": "https://courses.cs.washington.edu/courses/cse121",
+    "url6": "https://courses.cs.washington.edu/courses/cse121/24au/syllabus",
+    "url7": "http://courses.cs.washington.edu/courses/cse121/24su"
+  },
+  "CSE122": {
+    "course_description": "Building upon foundational programming skills, this course delves into data structures and object-oriented programming using Java. Students will learn to solve complex problems by decomposing them into smaller tasks, utilize data structures like lists, dictionaries, and sets, and design object-oriented programs emphasizing interface and implementation abstraction.",
+    "learning_goals": "Solve complex problems by decomposing them into smaller programming tasks and assess the design trade-offs of particular solutions.\n\nUtilize data structures such as lists, dictionaries, and sets to efficiently solve computational problems.\n\nDesign object-oriented programs that ensure abstraction between interfaces and their implementations.",
+    "topics_covered": "Functional Decomposition & Design\n\nJava Review\n\nFile Input/Output\n\nArrayLists and Applications\n\nObject-Oriented Programming\n\nNested Collections\n\nInterfaces and Inheritance\n\nEncapsulation\n\nAlgorithm Complexity and Performance Trade-offs\n\nSorting and Searching Algorithms",
+    "tools": "Java Development Kit (JDK) version 8 or higher\n\njGRASP editor",
+    "source_url": "https://courses.cs.washington.edu/courses/cse122/25sp",
+    "url2": "https://courses.cs.washington.edu/courses/cse122/23wi",
+    "url3": "https://courses.cs.washington.edu/courses/cse122/24sp"
+  },
+  "CSE123": {
+    "course_description": "As a third course in computer programming, this class focuses on the design and implementation of data structures. Assuming prior experience with programming and fundamental computing concepts, students will learn to implement compound data structures, apply recursion to solve computational problems, and utilize inheritance to represent relationships among classes.",
+    "learning_goals": "Implement compound data structures such as lists and trees.\n\nApply recursion techniques to efficiently solve computational problems.\n\nUtilize inheritance to represent relationships among similar classes.",
+    "topics_covered": "Course Introduction; Syllabus Overview\n\nFunctional Decomposition & Design\n\nJava Review\n\nFile Input/Output\n\nArrayLists and Applications\n\nObject-Oriented Programming\n\nNested Collections\n\nInterfaces and Inheritance\n\nEncapsulation\n\nAlgorithm Complexity and Performance Trade-offs",
+    "tools": "Java Development Kit (JDK) version 8 or higher\n\njGRASP editor",
+    "source_url": "https://courses.cs.washington.edu/courses/cse123/23sp",
+    "url2": "https://courses.cs.washington.edu/courses/cse123/24sp",
+    "url3": "https://courses.cs.washington.edu/courses/cse123/23au",
+    "url4": "https://courses.cs.washington.edu/courses/cse123/25sp",
+    "url5": "https://courses.cs.washington.edu/courses/cse123",
+    "url6": "https://courses.cs.washington.edu/courses/cse123/23wi/syllabus"
+  },
+  "CSE143": {
+    "course_description": "This course is a continuation of CSE142, focusing on data-related issues in programming. Topics include abstract data types (ADTs), stacks, queues, linked lists, binary trees, recursion, interfaces, inheritance, and encapsulation. The course also introduces complexity and performance trade-offs in classic algorithms such as sorting and searching, and classic data structures like lists, sets, and maps. Both implementation and utilization of data structures from the Java Collections Framework are covered. Prerequisite: CSE142 or equivalent.",
+    "learning_goals": "Implement and utilize various abstract data types (ADTs) such as stacks, queues, linked lists, and binary trees.\n\nApply recursion techniques to solve computational problems.\n\nUnderstand and implement interfaces, inheritance, and encapsulation in Java.\n\nAnalyze and compare the complexity and performance trade-offs of classic algorithms like sorting and searching.\n\nEffectively use data structures from the Java Collections Framework.",
+    "topics_covered": "Abstract Data Types (ADTs)\n\nStacks and Queues\n\nLinked Lists\n\nBinary Trees\n\nRecursion\n\nInterfaces and Inheritance\n\nEncapsulation\n\nAlgorithm Complexity and Performance Trade-offs\n\nSorting and Searching Algorithms\n\nJava Collections Framework",
+    "tools": "Java Development Kit (JDK) version 8 or higher\n\njGRASP editor",
+    "source_url": "https://courses.cs.washington.edu/courses/cse143/23au",
+    "url2": "https://courses.cs.washington.edu/courses/cse143/24sp"
+  },
+  "CSE163": {
+    "course_description": "CSE163 introduces programming with data in Python. Students learn to clean, analyze, and visualize data using modern Python libraries. The course teaches fundamentals of computational thinking and statistical reasoning for data analysis.",
+    "learning_goals": "Clean and process real-world datasets.\n\nUse Python libraries to manipulate and visualize data.\n\nWrite reusable code for data workflows.\n\nApply basic statistical reasoning.",
+    "topics_covered": "Python Syntax\n\nPandas for DataFrames\n\nData Cleaning\n\nData Visualization with matplotlib/seaborn\n\nBasic Descriptive Stats\n\nWriting Modular Code",
+    "tools": "Python\n\nPandas\n\nmatplotlib\n\nJupyter Notebooks",
+    "source_url": "https://courses.cs.washington.edu/courses/cse163/24sp",
+    "url2": "https://courses.cs.washington.edu/courses/cse163/25sp"
+  },
+  "CSE160": {
+    "course_description": "CSE160 is a foundations course in computing for non-majors. It introduces data-driven decision making using Python and visual programming. Students explore computation through hands-on labs and visual tools.",
+    "learning_goals": "Understand basic computing principles.\n\nWrite simple Python scripts for problem solving.\n\nVisualize and interpret data.\n\nUse computational tools to explore real-world scenarios.",
+    "topics_covered": "Basic Python\n\nData Types and Control Flow\n\nVisualization\n\nComputational Thinking\n\nSocial Impact of Computing",
+    "tools": "Python\n\nVisual Programming tools\n\nExcel or Google Sheets",
+    "source_url": "https://courses.cs.washington.edu/courses/cse160/25sp",
+    "url2": "https://courses.cs.washington.edu/courses/cse160/24au",
+    "url3": "https://courses.cs.washington.edu/courses/cse160/24wi",
+    "url4": "http://courses.cs.washington.edu/courses/cse160/25wi"
+  },
+  "CSE180": {
+    "course_description": "CSE160 is a foundations course in computing for non-majors. It introduces data-driven decision making using Python and visual programming. Students explore computation through hands-on labs and visual tools.",
+    "learning_goals": "Understand basic computing principles.\n\nWrite simple Python scripts for problem solving.\n\nVisualize and interpret data.\n\nUse computational tools to explore real-world scenarios.",
+    "topics_covered": "Basic Python\n\nData Types and Control Flow\n\nVisualization\n\nComputational Thinking\n\nSocial Impact of Computing",
+    "tools": "Python\n\nVisual Programming tools\n\nExcel or Google Sheets",
+    "source_url": "https://courses.cs.washington.edu/courses/cse180"
+  },
+  "CSE311": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data",
+    "source_url": "https://courses.cs.washington.edu/courses/cse311",
+    "url2": "https://courses.cs.washington.edu/courses/cse311/25sp"
+  },
+  "CSE312": {
+    "course_description": "CSE312 introduces the fundamentals of computer security and web development. Topics include HTTP, cookies, cross-site scripting, encryption, authentication, and privacy. Students build secure full-stack web apps and analyze real-world vulnerabilities.",
+    "learning_goals": "Understand the structure of web applications and HTTP.\n\nIdentify and mitigate common security flaws.\n\nApply principles of authentication, encryption, and input validation.\n\nDesign secure software systems.",
+    "topics_covered": "HTTP and Web Protocols\n\nSession Management\n\nCross-Site Scripting (XSS)\n\nSQL Injection\n\nHashing and Encryption\n\nAuthentication and OAuth\n\nWeb Development Practices",
+    "tools": "Flask or Node.js\n\nSQLite or PostgreSQL\n\nOpenSSL\n\nDeveloper tools in Browsers"
+  },
+  "CSE331": {
+    "course_description": "CSE331 teaches software engineering principles, with a focus on design, specification, testing, and maintenance of software systems. The course emphasizes modularity, abstraction, and documentation. Students also practice collaborative development using version control and issue tracking.",
+    "learning_goals": "Design modular, abstract, and reusable software components.\n\nWrite formal specifications and test cases.\n\nUnderstand and apply software design patterns.\n\nPractice code reviews, version control, and documentation.",
+    "topics_covered": "Specification and Abstraction\n\nDesign Patterns\n\nTesting Strategies\n\nVersion Control with Git\n\nSoftware Architecture\n\nDocumentation and Code Reviews\n\nSoftware Lifecycle and Maintenance",
+    "tools": "Java\n\nGitHub\n\nJUnit\n\nStatic Analysis tools",
+    "source_url": "https://courses.cs.washington.edu/courses/cse331",
+    "url2": "https://courses.cs.washington.edu/courses/cse331/24wi",
+    "url3": "https://courses.cs.washington.edu/courses/cse331/23sp"
+  },
+  "CSE332": {
+    "course_description": "This course focuses on data structures, parallelism, and algorithms. Students implement and evaluate abstract data types like trees, heaps, hash tables, and graphs. The course also includes parallel programming and big-O analysis for runtime complexity.",
+    "learning_goals": "Design and implement efficient data structures.\n\nAnalyze algorithms using asymptotic notation.\n\nDevelop parallel solutions to computational problems.\n\nCompare trade-offs between data structure alternatives.",
+    "topics_covered": "Lists, Stacks, Queues\n\nTrees (Binary, AVL, B-Trees)\n\nHashing and Hash Tables\n\nPriority Queues and Heaps\n\nGraphs and Traversals\n\nSorting Algorithms\n\nAsymptotic Analysis\n\nParallelism Concepts",
+    "tools": "Java or C++\n\nJUnit Testing\n\nMultithreading Libraries\n\nPerformance Profiling tools",
+    "source_url": "https://courses.cs.washington.edu/courses/cse332/20sp/syllabus.html"
+  },
+  "CSE333": {
+    "course_description": "Includes substantial programming experience in languages that expose machine characteristics and low-level data representation (e.g., C and C++); explicit memory management; modern libraries and language features; interacting with operating-system services; introduction to concurrent programming. Prerequisite: CSE 351",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse333/25sp"
+  },
+  "CSE340": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE341": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse341/22sp"
+  },
+  "CSE344": {
+    "course_description": "This course explores data management through the lens of relational databases, emphasizing both theory and practical system-building. Topics include the relational model, SQL, database-backed applications, concurrency, and data analysis. Students will solve problems using set theory and learn to develop Java programs both with and without databases. The course highlights how good theory informs system design, helping students develop a well-rounded understanding of data management.",
+    "learning_goals": "Understand the relational model and how it represents and stores data.\n\nWrite SQL programs to solve a wide range of data management tasks.\n\nDesign and implement Java programs for data management problems, including both non-database and database-backed approaches.\n\nReason about data using mathematical set theory.\n\nBuild database-backed applications and understand concurrency and transactions.\n\nApply theoretical foundations to build practical data management systems.",
+    "topics_covered": "Relational Model and Basic SQL\n\nJoins, NULLs, and Database Design\n\nAggregation and Grouping\n\nSubqueries and Relational Algebra\n\nDatabase Design for Applications\n\nDatabase Normalization\n\nTransactions and Concurrency\n\nApplication Development and SQL Injection\n\nQuery Processing\n\nQuery Optimization",
+    "tools": "SQLite\n\nPostgreSQL\n\nDuckDB\n\nJava",
+    "source_url": "https://courses.cs.washington.edu/courses/cse344/24sp"
+  },
+  "CSE351": {
+    "course_description": "CSE351 bridges the gap between high-level programming and hardware. Students explore the memory hierarchy, assembly language, the C programming language, and system-level concepts like the stack, heap, processes, and virtual memory. This course builds strong systems thinking skills for debugging and performance optimization.",
+    "learning_goals": "Understand how C programs are executed at the assembly level.\n\nManipulate and analyze memory layout (stack, heap, global).\n\nUnderstand function calling, registers, and stack frames.\n\nAnalyze memory management and caching.\n\nDebug, profile, and optimize system-level code.",
+    "topics_covered": "x86-64 Assembly\n\nC Programming Language\n\nMemory Layout (Stack, Heap, Global)\n\nPointers and Dynamic Memory\n\nThe Memory Hierarchy\n\nProcesses and System Calls\n\nVirtual Memory and Caching",
+    "tools": "GCC and Clang compilers\n\ngdb debugger\n\nvalgrind and perf\n\nMakefiles",
+    "source_url": "https://courses.cs.washington.edu/courses/cse351/25sp",
+    "url2": "https://courses.cs.washington.edu/courses/cse351/25wi",
+    "url3": "https://courses.cs.washington.edu/courses/cse351/25sp/syllabus.html"
+  },
+  "CSE369": {
+    "course_description": "This course introduces students to the basic components and techniques that underpin digital circuits, starting from logic gates and building towards larger building blocks such as adders and finite state machines (FSMs). This course emphasizes simulation in SystemVerilog and implementation on field-programmable gate arrays (FPGAs).",
+    "learning_goals": "Understand the principles of combinational and sequential logic.\n\nDevelop logic simplification skills using Karnaugh maps.\n\nDesign and simulate digital systems using SystemVerilog.\n\nImplement digital logic on FPGAs.\n\nBuild systems incorporating FSMs, shift registers, and arithmetic units.",
+    "topics_covered": "Combinational logic: logic gates, Boolean algebra\n\nLogic simplification: Karnaugh maps\n\nSequential logic: flip-flops, registers\n\nTiming considerations\n\nFinite state machines (FSMs)\n\nRouting elements and adders\n\nShift registers and counters\n\nSystemVerilog",
+    "tools": "SystemVerilog\n\nField-Programmable Gate Arrays (FPGAs)\n\nQuartus design software"
+  },
+  "CSE371": {
+    "course_description": "This course provides a theoretical background in, and practical experience with, tools and techniques for modeling complex digital systems with the SystemVerilog hardware description language. It includes converting software algorithms to hardware and offers the final undergraduate foundation for digital design. Prerequisites include EE 205/215 and EE 271/CSE 369.",
+    "learning_goals": "Model complex digital systems using SystemVerilog.\n\nTranslate software algorithms into hardware implementations.\n\nDesign and simulate finite state machines and datapath logic.\n\nAnalyze and manage timing and communication across digital circuits.\n\nApply advanced testing techniques including assertions and randomization.",
+    "topics_covered": "EDA tools and SystemVerilog\n\nFinite State Machines (Mealy and Moore)\n\nMemories: ROM, RAM, register files, FIFO buffers\n\nAlgorithmic State Machine (ASM) charts and Datapath (ASMD)\n\nAlgorithms to hardware/datapath\n\nTiming: static timing analysis, clock domain crossing, pipelining\n\nCommunication\n\nAdvanced Testing: assertions, classes, randomization",
+    "tools": "SystemVerilog\n\nElectronic Design Automation (EDA) tools",
+    "source_url": "https://courses.cs.washington.edu/courses/cse371",
+    "url2": "https://courses.cs.washington.edu/courses/cse371/24sp"
+  },
+  "CSE390Z": {
+    "course_description": "CSE390Z is a seminar for first-year direct admits, designed to support academic success and community building. Students engage in discussions about college adjustment, resources, identity, and computing culture.",
+    "learning_goals": "Build a supportive academic community.\n\nEngage in discussions about identity and inclusion in computing.\n\nDevelop strategies for academic and professional success.",
+    "topics_covered": "Time Management\n\nNavigating the Major\n\nBuilding Community\n\nWellbeing and Self-Advocacy\n\nImposter Syndrome\n\nIdentity and Bias in Tech\n\nCareer Planning",
+    "tools": "Guest speakers\n\nDiscussion boards\n\nPersonal reflection prompts",
+    "source_url": "https://courses.cs.washington.edu/courses/cse390z"
+  },
+  "CSE391": {
+    "course_description": "This course introduces Unix/Linux tools and scripting techniques for effective software development. Topics include command-line usage, scripting in bash and Python, and software tools such as Git, debuggers, and profilers. The focus is on practical skills for real-world programming and system interaction.",
+    "learning_goals": "Use Unix/Linux shell and command-line tools effectively.\n\nWrite bash and Python scripts to automate tasks.\n\nUnderstand core software development tools like Git.\n\nApply debugging and profiling tools for program analysis.",
+    "topics_covered": "Unix Shell\n\nFile Systems and Permissions\n\nScripting with Bash\n\nPython Introduction\n\nVersion Control with Git\n\nBuild Systems\n\nDebugging and Profiling\n\nSoftware Deployment",
+    "tools": "Unix/Linux Shell\n\nBash\n\nPython\n\nGit\n\ngdb and valgrind\n\nMake/CMake",
+    "source_url": "https://courses.cs.washington.edu/courses/cse391"
+  },
+  "CSE401": {
+    "course_description": "Fundamentals of compilers and interpreters; symbol tables, lexical analysis, syntax analysis, semantic analysis, code generation, and optimization for general purpose programming languages. ",
+    "learning_goals": " Or, more concretely, how do we program a computer to understand and carry out a computation written as text in a file? The computer only knows 1\u2019s & 0\u2019s: encodings of instructions and data",
+    "topics_covered": "Divide and Conquer\n\nDynamic Programming\n\nGreedy Algorithms\n\nGraph Algorithms\n\nShortest Paths\n\nMinimum Spanning Trees\n\nNetwork Flows\n\nNP-Completeness\n\nApproximation Algorithms",
+    "tools": "Written problem-solving techniques\n\nPseudocode for algorithm expression\n\nAlgorithm simulation tools (optional for learning)",
+    "source_url": "https://courses.cs.washington.edu/courses/cse401"
+  },
+  "CSE402": {
+    "course_description": "Design and implementation of domain-specific languages. Creation of new programming abstractions, formal and informal language specification techniques, implementation strategies to support language analysis and execution on traditional and non-traditional computing platforms. Selection and use of appropriate software tools and development environments to build novel DSLs.",
+    "learning_goals": "no data.",
+    "topics_covered": "The revolutionary role of PLs\\nHow to implement a language\\nfluent regexes\\ndesigning DSL abstractions\\ntop-down and bottom-up design of DSL abstractions\\nembedding DSLs in a host language\\nthe rake DSL for project builds\\nConstructing the AST with call chaining\\nOptimization\\nOptimization with global dataflow analysis\\nGrammars and recursive descent parsing\\nRecursive-descent parser\\nSyntax-directed translation\\nParsing with ANTLR\\nListeners and visitors\\neliminating left recursion with grammar predicates\\nThe design of the Handlebars DSL\\ntemplating\\nhow to make a DSL extensible\\nAdvanced parsing: how to implement Handlebars\\nerror checking\\ncompile-time and run-time data structures\\nlate binding\\nCompiling regular expressions\\nRegular expressions are not regexes\\nsyntax-directed translation of REs to NFAs\\nIterators\\nCoroutines and composing iterators\\nBacktracking with coroutines\\nRx, a reactive language\\nhigh-order observables\\nA reactive language via call chaining\\ncontinuation-passing style (CPS)\\ncall chaining for reactivity in JS\\nBootstrapping a compiler\\ntombstone diagrams\\nhiding an exploit in a compiler\\nProbabilistic Programming Languages\\nsemantics and applications of PPLs\\nImplementing objects with meta-programming\\nObjects in a statically typed language\\nWhat to keep learning about DSLs",
+    "tools": "Regular Expressions\\nDSL abstractions\\ncall chaining\\nAST construction\\nglobal dataflow analysis\\nrecursive-descent parsing\\nsyntax-directed translation\\nANTLR\\nListeners and visitors\\ngrammar predicates\\nHandlebars DSL\\ncompile-time data structures\\nrun-time data structures\\nlate binding\\ntranslation of REs to NFAs\\nIterators\\nCoroutines\\nRx (reactive language)\\ncontinuation-passing style (CPS)\\ntombstone diagrams\\nProbabilistic Programming Languages (PPLs)\\nV8 JIT compiler\\nGarbage Collection\\nmeta-programming",
+    "source_url": "https://courses.cs.washington.edu/courses/cse402"
+  },
+  "CSE403": {
+    "course_description": "In this course, students learn and gain practical experience with software engineering principles, techniques, and tools. Topics in this course include requirements analysis, specification, design, abstraction, programming style, testing, maintenance, communication, teamwork, and software project management. The practical experience centers on a quarter-long team project, in which a software development project is carried through all the stages of the software life cycle. Particular emphasis is placed on communication skills and on developing maintainable software. In-class activities further provide a hands-on experience in using state-of-the-art techniques and tools.",
+    "learning_goals": "Lern the full software building process from creating a proposal, to writing requirements all the way to launching and maintaining ",
+    "topics_covered": "requirements analysis \n \nspecification \n\ndesign \n\nabstraction \n\nprogramming style \n\ntesting \n\nmaintenance \n\ncommunication \n\nteamwork \n\nsoftware project management",
+    "tools": "Version Control & GIT.",
+    "source_url": "https://homes.cs.washington.edu/~rjust/courses/CSE403/project/09_final_release.html"
+  },
+  "CSE421": {
+    "course_description": "Techniques for design of efficient algorithms. Methods for showing lower bounds on computational complexity. Particular algorithms for sorting, searching, set manipulation, arithmetic, graph problems, pattern matching. Prerequisite: CSE 312; CSE 332.",
+    "learning_goals": "Model word problems as computational problems \n Determine an appropriate algorithm design paradigm for a new problem. \n Design an algorithm using a variety of algorithm-design paradigms (including greedy algorithms, divide and conquer, dynamic programming, flow modeling, and others).\n Prove that your algorithm produces the correct answer.\n Reduce between a known problem and a new problem (for showing hardness or for reusing existing algorithms)\n Identify and cope with computational problems that are infeasible.\n Consider the implications of modeling decisions in the real world..",
+    "topics_covered": "Thinking like a computer scientist\nThe stable matching algorithm\nGraph traversal\nMore graph traversal\nGreedy algorithms\nGreedy graph algorithms\nDivide and conquer algorithms\nMultiplication\nRandomized divide and conquer\nDynamic programming\nThe Knapsack problem\nModern dynamic programming\nGraph dynamic programming\nNetwork flow\nMax flow/min cut\nNetwork flow in polynomial time\nFlow algorithm applications I\nFlow algorithm applications II\nLinear programming I\nLinear programming II\nNon-deterministic polynomial time I\nNon-deterministic polynomial time II\nNon-deterministic polynomial time III\nAlgorithms for linear programming\nApproximation algorithms\nParametrized complexity, SAT solvers, quantum computing.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse421/24au",
+    "url2": "https://courses.cs.washington.edu/courses/cse421"
+  },
+  "CSE422": {
+    "course_description": "This course provides a rigorous introduction to the principles of modern algorithm design, with a particular focus on the analysis of large, noisy data sets, and the algorithmic principles underlying modern statistics and machine learning. For most topics, there will be an associated assignment, where students will get their hands dirty, experimenting with underlying ideas.",
+    "learning_goals": "no data.",
+    "topics_covered": "Course introduction. Consistent hashing\nHeavy hitters, count-min sketch\nSimilarity search\nCurse of dimensionality\nGeneralization theory\nRegularization\nIntroduction to PCA\nComputing the principal components\nSingular value decomposition\nTensors and tensor low-rank decomposition\nGraphs as matrices\nSpectral clustering\nCompressive Sensing\nLinear programming\nThe multiplicative weights algorithm\nSolving linear programs with multiplicative weights\nMarkov Chain Monte Carlo\nLangevin Dynamics and Diffusion Models\nLearning with outliers\nSpectral signatures and high-dimensional robust statistics",
+    "tools": "Python /n Numpy /n Pyplot /n IPython",
+    "source_url": "https://courses.cs.washington.edu/courses/cse422/25wi/cse422wi25.html",
+    "url2": ""
+  },
+  "CSE426": {
+    "course_description": "This course covers the design and application of important cryptographic objects, including basic cryptographic tools, such as encryption, message authentication, and digital signatures, as well as advanced cryptographic objects and protocols, such as zero-knowledge proofs, secure multi-party computation, and fully homomorphic encryption. ",
+    "learning_goals": "For each cryptographic object, we formalize its security goal, show schemes that achieve the desired security, and study security attacks or security proofs that establish the insecurity or security of the scheme at hand.",
+    "topics_covered": "The Provable Security Angle\nIntroduction to Encryption\nSymmetric Encryption\nAttack types\nBreaking monoalphaetic substitution\nOne-time Pads, Perfect Secrecy, and its Limitations\nThe one-time pad\nShannon and perfect secrecy\nLimitations of perfect secrecy\nIntro to computational hardness\nBlock Ciphers and Pseudorandom Permutations I\nDefinition of Block Ciphers\nDefinition of random permutations\nBlock ciphers and Pseudorandom Permutations II\nDistinguishing Advantage\nDefinition of Pseudorandom Permutations\nDesign of AES\nSymmetric Encryption: Definition\nThe design of AES\nInsecurity of ECB\nIntroduction to semantic security\nSymmmetric Encryption from PRFs I\nDefinition of IND-CPA security\nDefinition of PRFs\nThe PRF/PRP Switching Lemma and collision probabilities\nSymmmetric Encryption from PRFs II\nSecurity proof for the simple encryption scheme\nProofs via hybrid oracles\nBasic reductions\nModes of Operation + Padding-Oracles Intro\nCTR encryption\nCBC encryption\nPadding Schemes\nPadding-Oracle Attacks\nFixing IND-CPA security for variable-length messages\nPadding oracle attacks\nIntro to ciphertext integrity\nHash Functions\nDefinition of collision-resistance\nApplications of Hash Functions\nThe Merkle-Damgaard transform\nHash Functions & MACs\nSecurity of Merkle-Damgaard\nSeeded hash functions\nIntroduction to MACs\nMACs\nIn-Class Midterm\nAuthenticated Encryption\nComputational Number Theory\nMotivation of public-key cryptography\nGroups\nModular arithmetic\nComputational Number Theory II\nExponentiation\nCyclic groups\nThe discrete logarithm problem\nKey Exchange\nThe Diffie-Hellman Protocol\nThe hardness of the DL problem\nElliptic Curves\nPublic-key Encryption and RSA\nHow to build public-key encryption from two-round Key Exchange\nThe ElGamal cryptosystem\nPlain RSA\nRSA & Factoring\nRSA & Padding\nIND-CCA security & OAEP\nHardness of factoring\nDigital Signatures I\nHandling large RSA decryption exponents\nFault & side-channel attacks\nIntroduciton to digital signatures\nDigital Signatures II\nAuthenticatd Key-Exchange & TLS\nSecure Messaging\nSecure messaging desiderata\nSymmetric Ratchet\nContinuous Key-Agreement\nIntroduction to Cryptographic Protocols\nTwo-party computation and ideal functionalities\nTwo-party Computation I\nGarbling an AND gate\nOblivious Transfer\nTwo-party Computation II\nYao's protocol & Garbled Circuits\nDDH-based PSI protocol\nSecret-Sharing and Multi-Party Computation\nProblem statement\nSecret sharing\nProtocol for addition\nA general solution",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse426/25wi/"
+  },
+  "CSE427": {
+    "course_description": "no data.",
+    "learning_goals": "Learn how to collaborate with biologists and doctors to solve a biomedical problem using computational approaches \n Advanced comp bio research: propose/identify new biomedical problems that can be addressed by emerging computational solutions (GPT can solve new biomedical problem) \n understand biomedical problem and find the appropriate computational solution ",
+    "topics_covered": "Algorithm: dynamic programming, graph shortest distance \n Machine learning: LSTM, GPT, Graph neural network \n Introduction to Computational Biology\nSequence Alignment and Analysis\nProtein Function Prediction\nBiomedical Graph Analysis\nBiomedical Graph Diffusion\nGenomics for Precision Medicine\nGenerative AI for Cancer Pathology\nGenerative AI for Optical Coherence Tomography\nGenerative AI for Protein Structure Analysis\nGenerative AI for Kidney Transplant\nGenerative AI for Mammogram-Based Breast Cancer Diagnosis\nGenerative AI for Hi-C Chromatin Structure Analysis\nGenerative AI for Label-Free Mouse Brain Imaging\nGenerative AI for Single Cell Foundation Models\nGenerative AI for Medicine",
+    "tools": "no data.",
+    "source_url": "https://homes.cs.washington.edu/~swang/CSE427_24au.html"
+  },
+  "CSE428": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "http://courses.cs.washington.edu/courses/cse428"
+  },
+  "CSE431": {
+      "course_description": "Models of computation, computable and noncomputable functions, space and time complexity, tractable and intractable functions.",
+      "learning_goals": "To develop a formal understanding of computation, including the capabilities and limitations of various computational models, and to explore the resources required for computation such as time and space.",
+      "topics_covered": "Models of computation\nComputable and noncomputable functions\nSpace complexity\nTime complexity\nTractable functions\nIntractable functions",
+      "tools": "No specific tools are listed for this course.",
+      "source_url": "https://courses.cs.washington.edu/courses/cse431/"
+  },
+  "CSE434": {
+    "course_description": "Basic theory of quantum information and computation, including applications and phenomena. Builds from qubits, measurements, and quantum gates toward applications including key distribution, entanglement, non-locality, and quantum algorithms including Grover search and Shor's factoring. Includes writing quantum programs. Prerequisite: MATH 208 and CSE 312.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE440": {
+      "course_description": "This course provides an introduction to human-computer interaction and the design process. Students will learn methods and skills for designing and prototyping interactive systems. The course covers a design process from the initial formulation of a design problem to creation of digital prototypes. Importantly, the course does not emphasize development but instead fully focuses on design.",
+      "learning_goals": "Process-Focused Perspective on Interaction Design\nDesign Research Methods and Skills\nTask-Focused Scenario Development, Sketching, and Storyboarding\nRapid Prototyping and Iteration\nCritical Perspective on Design Solutions",
+      "topics_covered": "Ideate and Propose Design Problems\nStudy Existing Practices and Challenges\nExplore Potential Design Opportunities and Tradeoffs\nEvaluate and Iterate Upon a Design\nCommunicate a Problem and Resulting Design",
+      "tools": "No specific tools are listed for this course.",
+      "source_url": "https://courses.cs.washington.edu/courses/cse440/24au/"
+    },
+  "CSE441": {
+    "course_description": "Human-Computer Interaction (HCI) theory and techniques. Advanced methods for designing, prototyping, and evaluating user interfaces to computing applications. Novel interface technology, advanced interface design methods, and prototyping tools. Prerequisite: CSE 440",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse441"
+  },
+  "CSE442": {
+  "course_description": "CSE442 is an introduction to Data Visualization, with an emphasis on techniques for analysis and exploration. Students will learn how to design and implement effective visualizations and systems for making sense of complex data.",
+  "learning_goals": "Learn core techniques for visual encoding and interaction\nUnderstand how to make design decisions that lead to effective visualizations\nGain experience designing, implementing, and presenting interactive visualizations using modern web-based technologies",
+  "topics_covered": "Visual Encoding Principles\nMarks and Channels\nInteraction Techniques\nData Types and Transformations\nPerception and Cognition\nDesigning for Exploration vs. Explanation\nUncertainty and Aggregation\nEvaluation Methods\nEthics in Visualization",
+  "tools": "HTML\nCSS\nJavaScript\nD3.js\nObservable\nOther web technologies as needed",
+  "source_url": "https://courses.cs.washington.edu/courses/cse442/25wi/"
+},
+"CSE444": {
+  "course_description": "This course delves into the principles behind building data management systems, extending knowledge from CSE 344. Topics include DBMS architecture, data storage, indexing, query execution, optimization, transactions, and advanced topics like parallel DBMSs and MapReduce.",
+  "learning_goals": "Understand the architecture and components of database management systems; Gain practical experience through lab assignments involving significant programming; Develop skills in query optimization, transaction management, and data storage techniques.",
+  "topics_covered": "Introduction; Review of relational model and SQL; DBMS architecture; Data storage and buffer management; Indexing; Query execution and operator algorithms; Query plan costs; Query optimization; Transactions: concurrency control, locking, optimistic concurrency control, recovery; Parallel DBMSs; MapReduce; Spark; Two-phase commit; Replication; Column stores.",
+  "tools": "Java; JUnit; SimpleDB.",
+  "source_url": "https://courses.cs.washington.edu/courses/cse444/25sp/"
+},
+ "CSE446": {
+    "course_description": "This course is an introduction to machine learning. It covers core concepts such as supervised and unsupervised learning, model evaluation, and the mathematical foundations underlying various learning algorithms. Students will apply these concepts to practical problems using real datasets.",
+    "learning_goals": "Develop an understanding of the foundational concepts in machine learning; Gain proficiency in implementing and applying machine learning algorithms; Learn to evaluate models and understand trade-offs in model selection and tuning.",
+    "topics_covered": "Supervised learning and decision boundaries\nLinear classifiers and loss functions\nGradient descent\nRegression\nClassification\nMulticlass classification and softmax\nOverfitting and regularization\nLogistic regression and cross-entropy\nBayes classifiers and Naive Bayes\nDecision trees\nNeural networks\nNearest neighbor\nClustering\nGaussian mixture models and EM\nDimensionality reduction and PCA\nKernel methods and SVMs\nEnsembles\nReinforcement learning and bandits",
+    "tools": "Python\nNumPy\nscikit-learn\nJupyter notebooks",
+    "source_url": "https://courses.cs.washington.edu/courses/cse446/25sp/"
+  },
+  "CSE447": {
+    "course_description": "This course is an introduction to natural language processing (NLP), the study of computational methods for understanding and generating human language. It explores algorithms and techniques used in language modeling, parsing, information extraction, and machine translation. The course includes practical experience with real-world text data and applications.",
+    "learning_goals": "Understand fundamental tasks in NLP such as tagging, parsing, and language modeling\nGain familiarity with probabilistic models like Hidden Markov Models and n-gram models\nDevelop practical experience in working with real-world text data\nExplore deep learning approaches applied to language\nCritically evaluate NLP applications and their societal impact",
+    "topics_covered": "Introduction and Overview\nRegular Expressions, Finite State Automata, Edit Distance\nN-gram Language Models, Smoothing, Perplexity\nText Classification, Naive Bayes, Logistic Regression\nPart-of-Speech Tagging, Hidden Markov Models\nSequence Labeling with Structured Perceptron and CRFs\nSyntactic Parsing with CFGs and CKY Algorithm\nDependency Parsing\nSemantics: Word Vectors, Word2Vec, GloVe\nNeural Networks for NLP: Feedforward and RNNs\nNamed Entity Recognition\nMachine Translation and Alignment Models\nTransformers and Pretrained Language Models (e.g., BERT)\nBias and Fairness in NLP\nSpeech and Dialogue Systems",
+    "tools": "Python\nNLTK\nPyTorch or TensorFlow (for deep learning components)\nJupyter Notebooks",
+    "source_url": "https://courses.cs.washington.edu/courses/cse447/23wi/"
+  },
+  "CSE451": {
+    "course_description": "CSE 451 introduces the fundamental concepts of operating systems. It covers how operating systems manage hardware and software resources and provides abstractions for running programs. Students will learn about processes, memory management, file systems, concurrency, and virtualization through lectures and hands-on kernel programming assignments.",
+    "learning_goals": "Understand the core responsibilities and structure of modern operating systems\nGain proficiency in concurrent programming and synchronization\nLearn how operating systems manage memory, processes, and hardware\nDevelop and debug low-level kernel code\nExplore topics such as virtual memory, file systems, and scheduling algorithms",
+    "topics_covered": "Introduction to Operating Systems\nProcesses and Threads\nThread Synchronization\nLocks and Concurrency\nCPU Scheduling\nDeadlocks\nMemory Management\nPaging and Virtual Memory\nPage Replacement Algorithms\nFile Systems and Disks\nI/O and Interrupts\nVirtual Machines and Containers\nDistributed Systems Basics",
+    "tools": "C Programming Language\nQEMU Emulator\nGDB Debugger\nLinux Kernel Environment\nMakefiles and Build tools",
+    "source_url": "https://courses.cs.washington.edu/courses/cse451/25sp/"
+  },
+  "CSE452": {
+  "course_description": "Distributed systems are central to many aspects of how computers are used, from web applications to e-commerce to content distribution. This senior-level course covers abstractions and implementation techniques for constructing distributed systems, including client-server computing, the web, cloud computing, peer-to-peer systems, and distributed storage systems. Topics include remote procedure call, preventing and finding errors in distributed programs, maintaining consistency of distributed state, fault tolerance, high availability, and scaling.",
+  "learning_goals": "To understand the fundamental principles and techniques in the design and implementation of distributed systems. To gain practical experience through a substantial programming project that applies the concepts learned in class.",
+  "topics_covered": "Introduction and Remote Procedure Call\nRemote Procedure Call Part 2\nPrimary Backup\nPrimary Backup, part 2\nTime and Virtual Clocks\nVector Clocks\nReplicated State Machines and Paxos Part 1\nPaxos Part 2\nMultiPaxos\nMemory Consistency\nDistributed Cache Coherence\nSharding\nTwo-phase commit\nNon-blocking two-phase commit\nMicroservices",
+  "tools": "Java programming language\nGitlab for version control\nEd for discussions\nCanvas for course materials\nGradescope for assignments",
+  "source_url": "https://courses.cs.washington.edu/courses/cse452/25sp/"
+},
+"CSE453": {
+    "course_description": "Warehouse scale data centers have become the dominant computing infrastructure for large scale applications, from online scalable services like Facebook and Zoom, as well as enterprise computing of all sorts. Data centers are also the fastest growing segment of the computer industry, with intense competition and rapid adoption of new technology innovations, changing almost every aspect of how computer systems are built and used. This course will be a cross-disciplinary investigation of the technologies underlying next generation data centers and some of the challenges needed to leverage those technologies. This course does not teach you how to write cloud applications!",
+    "learning_goals": "Implement and evaluate ideas presented in the course through substantial programming and experimental evaluation projects.",
+    "topics_covered": "Introduction\nExecution Environment\nVirtualization: Virtual Machines\nVirtual Machines, Part 2: Memory\nVirtual Machines, Part 3: I/O\nVirtualization, Part 4: Containers and Virtual Networks\nQueuing Theory\nQueueing and Scheduling\nServer Memory Systems\nMemory Consistency and Cache Coherence\nServer Memory Technologies\nTiered Memory Management\nSSDs\nHDDs\nQuantitative Reliability\nOrchestration\nNetworking\nNetwork Topology\nData Center Congestion Control\nData Center Congestion Control, Part 2",
+    "tools": "Rust Programming Language\nGit Version Control\nLinux Operating System\nContainerization tools",
+    "source_url": "https://courses.cs.washington.edu/courses/cse453/23au/"
+  },
+  "CSE455": {
+    "course_description": "Introduction to image analysis and interpreting the 3D world from image data. Topics may include segmentation, motion estimation, image mosaics, 3D-shape reconstruction, object recognition, and image retrieval. Prerequisite: CSE 333; CSE 332.",
+    "learning_goals": "To familiarize students with the basic techniques and jargon in the field of computer vision.\nTo enable students to solve real-world computer vision problems.\nTo let students experience (and appreciate!) the difficulties of real-world computer vision.\nTo excite students about the field of computer vision.",
+    "topics_covered": "Introduction to Computer Vision\nImage Processing and Feature Detection\nImage Stitching and Mosaicing\nHuman Vision\nPattern Recognition & Visual Learning\nObject Recognition & Image Segmentation\nMotion Estimation, Color & Texture\nStereo & 3D Vision\nApplications: Content-Based Image Retrieval, Tactile Graphics, Computer Vision for Mars Exploration",
+    "tools": "No specific tools are listed for this course.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse455/"
+  },
+  "CSE456": {
+    "course_description": "Welcome to CSE456 Story for Animation! In this class, you will be expected to design and create your own animated short story and visualize it using the principles of animation and story construction that you learn in this class. The course will be hybrid - our demos and improv sessions will be in person and our lectures will mostly be on Zoom. You will be working in a group and also on your own.",
+    "learning_goals": "Design and create an animated short story\nVisualize a story using animation principles\nDevelop story construction skills\nApply animation techniques through iterative assignments\nCollaborate in teams and receive structured feedback",
+    "topics_covered": "Orientation to the course\nShort Story Analysis\nStory Writing and Revisions\n3D Bouncing Ball Animation in Maya\nAnimating Balls with Forward Momentum\nAnimated Bouncing Ball Obstacle Course with Personality\nIntroduction to Maya\nProduction Setup and Shot Setup\nSet Creation, Modeling, Surfaces and Basic Lighting\nEditing and Audio in Premiere\nPosing Rigged Articulated Characters\nPitching Story Ideas and Receiving Feedback\nCreating Story Packets (Title, Armature, 7 Steps, Beatsheet, References)\nCreating Animatics\nStoryboarding and Narrative Design\nAudio and Narration Integration\nFinal Review and Presentation",
+    "tools": "Maya\nAdobe Premiere\nZoom\nCanvas",
+    "source_url": "https://courses.cs.washington.edu/courses/cse456/24su/"
+  },
+  "CSE457": {
+    "course_description": "Introduction to Computer Graphics. Web content is forthcoming for Spring, 2025.",
+    "learning_goals": "Not specified.",
+    "topics_covered": "Intro, Affine Transformations\nHierarchical Modeling, Surfaces of Revolution\nAdditional topics to be announced as web content is updated.",
+    "tools": "Not specified.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse457/25sp/",
+    "notes": "The course website indicates that detailed content is forthcoming for Spring 2025. The topics listed are based on the tentative schedule available at the time" 
+  },
+  "CSE458": {
+    "course_description": "CSE 458 introduces basic principles, such as modeling, shading, lighting and motion, of computer generated animation. Students from Art, CSE, and various other backgrounds team up on projects to be built on commercially-available modeling and lighting packages.",
+    "learning_goals": "Work collaboratively across disciplines to produce a short animated film\nApply fundamental animation principles such as silhouette, weight, and line of action\nDevelop proficiency in modeling, shading, lighting, rigging, and animation using industry-standard tools\nParticipate in critique and iteration processes to improve technical and aesthetic quality of animation work\nBuild leadership, communication, and time management skills in a production environment",
+    "topics_covered": "Yacht and Hand Modeling\nHead Modeling\nShading\nLighting\nRigging\nAnimation Basics\nTeam-Based Final Project",
+    "tools": "Autodesk Maya 2023\nAdobe Premiere\nAdobe Photoshop",
+    "source_url": "https://courses.cs.washington.edu/courses/cse458/24au/"
+  },
+  "CSE459": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE460": {
+    "course_description": "Apply the knowledge gained in previous animation courses to produce an animated short film. Topics include story development, digital cinematography, creature and hard surface modeling, animatics, principles of animation, and rendering techniques.",
+    "learning_goals": "Apply animation skills to a full production pipeline\nCollaborate effectively in a group setting\nReceive and apply feedback from the Director and staff\nDemonstrate professionalism and time management in a production environment\nPresent and iterate on work through critiques and production dailies",
+    "topics_covered": "Story development\nDigital cinematography\nCreature and hard surface modeling\nAnimatics\nPrinciples of animation\nRendering techniques\nCinematography\nMotion: jump, walk, and run exercises\nDropbox setup and file organization\nLayout and motion work\nMotionmatic creation\nLit renders production\nProduction roles and calendar planning",
+    "tools": "Zbrush\nSubstance Painter\nAdobe Premiere\nProduction and Rigging Shelves\nDropbox\nStandard animation production software",
+    "source_url": "https://courses.cs.washington.edu/courses/cse460/24wi/"
+  },
+  "CSE461": {
+    "course_description": "This course introduces the basics of networking to a computer science audience, ranging from sending bits over wires to the Web and distributed computing. We focus on the internetworking ground between these two extremes, particularly focusing on the engineering of the Internet - goals, constraints, solutions, and experiences.",
+    "learning_goals": "Define and correctly use terminology from the IP networking stack and the Internet infrastructure.\nIdentify fundamental and practical constraints on operational networks (wired and wireless) to estimate and analyze their performance.\nIdentify trends in network design to analyze the value proposition and constraints of real-world tools, products, services, and policies.\nUse application layer network APIs securely and map these high-level APIs to a stack of lower-level functionalities.\nSpecify and debug practical network configurations in home, commercial, cloud, and mobile contexts, with a specific understanding of performance, privacy, and security.\nAccount for network failures and constraints in the design and implementation of Internet-based software systems.",
+    "topics_covered": "Foreward + Context\nLayers and Channels Below Them\nEncoding and Limits\nFraming and Error Detection\nReliable Transmission, and Multiple Access\nMultiple Access, Wireless, and Access Networks\nSwitching\nSDN, Internetworks, and Service Models\nAddressing, Subnetting\nBuilding IP Networks: ARP, DHCP, ICMP, NAT\nIPv6\nIntradomain Routing\nInterdomain Routing\nBGP\nIntro to Transport & UDP\nTCP\nCongestion Control\nCongestion Control II\nNew Congestion Control Approaches + Applications: DNS\nHTTP DNS + DNSSEC (Updated)\nHTTP + Performance\nCrypto Basics, Security: TLS\nSecurity: VPNs, TOR, DoS Attacks | CDNs, Cloud\nDesigns, Decisions, and the Future of the Internet",
+    "tools": "Wireshark\nMininet\nPython\nLinux networking utilities",
+    "source_url": "https://courses.cs.washington.edu/courses/cse461/25sp/"
+  },
+  "CSE462": {
+    "course_description": "This course offers a hands-on, self-contained introduction to wireless communication, with no prior background required. Through programming assignments, simulations, and Software Defined Radios, students will explore core concepts such as modulation, error correction, and signal-to-noise ratio, while engaging with real-world technologies like Wi-Fi, Bluetooth, and emerging IoT systems.",
+    "learning_goals": "Gain a foundational understanding of wireless communication principles.\nDevelop practical skills through programming assignments and simulations.\nExplore real-world wireless technologies such as Wi-Fi, Bluetooth, and IoT systems.",
+    "topics_covered": "Modulation techniques\nError correction methods\nSignal-to-noise ratio analysis\nWi-Fi protocols\nBluetooth communication\nEmerging IoT systems",
+    "tools": "Software Defined Radios\nProgramming languages and simulation tools relevant to wireless communication",
+    "source_url": "https://courses.cs.washington.edu/courses/cse462/25sp/"
+  },
+  "CSE464": {
+    "course_description": "Students design individual animated works for professional quality demo reels. 2- and 3-D animatics, special effects design, advanced character animation techniques, 3-D paint techniques and integration, short design, sequence planning, non-photorealistic rendering options, interactive animation for pre-planning, and advanced production techniques and strategies.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse464/"
+  },
+  "CSE469": {
+    "course_description": "Introduction to computer architecture. Assembly and machine language, microprocessor organization including control and datapath. Computer arithmetic. Memory systems and caching. Performance modeling of microprocessors. Prerequisite: either E E 271 or CSE 369; and either CSE 123 or CSE 143. Offered: jointly with E E 469.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse469"
+  },
+  "CSE470": {
+    "course_description": "Advanced computer architecture. Performance evaluation and energy efficiency. Instruction set architectures. Instruction-level parallelism. Modern microprocessor micro-architecture. Thread-level parallelism. Cache coherency and memory consistency in shared-memory multiprocessors. Memory hierarchy. GPU architecture. Warehouse-scale computing. Trends in computer design. Prerequisite: either CSE 469 or E E 469. Offered: jointly with E E 470.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse470"
+  },
+  "CSE473": {
+    "course_description": "The course covers the principal ideas and developments in artificial intelligence: Problem solving and search, game playing, knowledge representation and reasoning, uncertainty, machine learning, natural language processing. Not open for credit to students who have completed CSE 415. Prerequisite: CSE 312, CSE 332.",
+    "learning_goals": "no data.",
+    "topics_covered": "Course Introduction\nUninformed Search\nInformed Search\nHeuristics\nAdversarial Search\nStatic Evaluation Functions\nAlpha-Beta Search\nExpectimax Search\nMarkov Decision Processes\nDiscounting\nValue Iteration\nPolicies\nMDP Values and Policies\nQ-Learning\nExploration vs Exploitation\nBayes Nets\nJoint Probability Distributions\nProbabilistic Inference\nD-Separation\nMarkov Models\nHidden Markov Models\nPerceptron Operation and Training\nMultilayer Perceptrons\nZobrist Hashing\nLanguage Models\nEmbeddings\nNeural Network Architecture\nAttention in Deep Neural Networks",
+    "tools": "Python programming language\nAI-related libraries and frameworks as specified in assignments\nCanvas for course materials and gradebook\nEd Discussion for announcements and course discussions\nGradescope for assignment submissions",
+    "source_url": "https://courses.cs.washington.edu/courses/cse473/24au/"
+  },
+  "CSE474": {
+      "course_description": "Introduces the specification, design, development, and test of real-time embedded system software. Use of a modern embedded microcomputer or microcontroller as a target environment for a series of laboratory projects and a comprehensive final project. Offered: jointly as CSE 474 and ECE 474.",
+      "learning_goals": "Develop an understanding of embedded systems and their applications.\nGain proficiency in programming microcontrollers and interfacing with hardware components.\nDesign, implement, and test real-time embedded system software.\nWork collaboratively on laboratory projects to build a comprehensive final project.",
+      "topics_covered": "C programming introduction for Java programmers\nAdvanced C programming (void pointers, etc.)\nProcess context, multi-tasking, basic schedulers\nMeeting real-time performance constraints, scheduling algorithms\nCoordination of resources shared between multiple tasks\nInterrupt service routines\nBit-level I/O to hardware devices\nUse of a minimalist real-time kernel",
+      "tools": "Arduino Mega Board (ATMEGA 2560 ARM-based CPU)\nC Programming Language\nEmbedded Systems Development tools\nLaboratory Equipment for Testing and Debugging",
+      "source_url": "https://courses.cs.washington.edu/courses/cse474/24au/"
+  },
+  "CSE475": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE478": {
+    "course_description": "CSE 478 is a project- and discussion-based introduction to robotics. Autonomous vehicles will be used as a running example to introduce the algorithmic building blocks of robotics, and students will use the MuSHR rally car platform to gain hands-on experience. Students will learn the fundamentals of robots, as well as some cutting edge topics including machine learning applications in robotics. Moreover, students will also develop the skills required to read fundamental research papers and discuss the pros and cons of these research papers critically.",
+    "learning_goals": "Identify fundamental abstractions used by mobile robots in the wild (localization, planning, control), explain how they interact, and analyze algorithmic trade-offs within each abstraction. \n Implement the above abstractions to enable a simulated mobile robot to navigate safely and efficiently, using Python and the Robot Operating System (ROS). Conduct principled robot experiments to diagnose and fix bugs across the mobile robot software stack. Implement and validate the software stack on a real hardware platform. \n Be able to read, critique and absorb content in cutting edge research papers in robotics.",
+    "topics_covered": "Introduction and Course Overview\nAnatomy of an Autonomous Vehicle\nRecursive Bayes Filtering\nParticle Filtering\nMotion and Observation Models\nReading #1\nThe Kalman Filter - TA lecture\nQuiz #1: Localization\nReading #2\nIntroduction to Feedback Control\nPID Control, Pure Pursuit\nReading #3\nModel Predictive Control\nLinear Quadratic Regulator\nReading #4\nIntroduction to Planning\nHeuristic Search\nQuiz #2: Controls\nSampling-based Motion Planning\nLazy Search, Planning for Vehicles\nIntroduction to Machine Learning, Behavior Cloning\nReinforcement Learning (SARSA, Q-Learning)\nQuiz #3: Planning + Learning\nGuest Lecture Learning\nMemorial Day Holiday\nGuest Lecture Learning\nConclusion\nWork on project\nWork on project\nFinal Project Demos (Time TBD)",
+    "tools": "Python\nRobot Operating System (ROS)\nMuSHR rally car platform\nLinux development environment\nJupyter Notebooks\nSimulation environments",
+    "source_url": "https://courses.cs.washington.edu/courses/cse478/25sp/"
+  },
+  "CSE480": {
+    "course_description": "Reading and discussion seminar on the ethical issues surrounding sociotechnical systems and their impacts on society. Includes historical perspectives and current topics. Relates computer technology to ethical questions of power, politics, equity, privacy, autonomy, and more. Credit/no-credit only.",
+    "learning_goals": "Critically examine ethical issues related to sociotechnical systems.\nUnderstand historical and contemporary perspectives on technology and society.\nEngage in thoughtful discussions about the impacts of computer technology on power, politics, equity, privacy, and autonomy.\nDevelop the ability to articulate and defend positions on ethical questions in computing.",
+    "topics_covered": "Historical Perspectives on Technology and Society\nEthics in Sociotechnical Systems\nPower and Politics in Computing\nEquity and Access to Technology\nPrivacy and Surveillance\nAutonomy and Human Agency\nCase Studies of Ethical Dilemmas in Computing",
+    "tools": "Reading Materials Provided by Instructor\nDiscussion Platforms (e.g., Ed Discussion)\nCanvas for Course Materials and Announcements",
+    "source_url": "https://courses.cs.washington.edu/courses/cse480/25sp/"
+  },
+  "CSE481": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse481a",
+    "url2": "https://courses.cs.washington.edu/courses/cse481c",
+    "url3": "https://courses.cs.washington.edu/courses/cse481n",
+    "url4": "https://courses.cs.washington.edu/courses/cse481v",
+    "url5": "https://courses.cs.washington.edu/courses/cse481ds"
+  },
+  "CSE481A": {
+      "course_description": "This course is intended to give students a thorough understanding of design and implementation issues for modern operating systems. We will cover key design issues in implementing an operating system, such as memory management, inter-core synchronization, scheduling, protection, inter-process communication, device drivers, and file systems, paying particular attention to system designs that differ from the traditional monolithic arrangements of Unix/Linux and Windows.",
+      "learning_goals": "Teach general operating systems principles, using a real research operating system to illustrate them and by reading the research papers which propose some of the ideas that the particular OS builds on.\nGive a broader perspective on operating systems which do not look like Linux, Unix, or Windows.\nProvide exposure to the practical experience of working on OS code on real 'metal', including debugging, hardware access, etc. This kind of experience is hard to gain merely from reading books or papers.\nIntroduce a sense of the complexity of a real OS, rather than simplified teaching OSes often used in more basic courses.",
+      "topics_covered": "Introduction\nCapabilities\nBarrelfish tutorial\nSelf-paging\nProcesses & threads\nOS Models\nInter-process communication\nMulticore, part 1\nMulticore, part 2\nMulticore, part 3",
+      "tools": "Barrelfish open-source multikernel\nNXP's ARMv8-based i.MX 8X hardware\nEdStem for class and project discussion\nAOS book\nArm Architecture Reference Manual - Armv8\nArm Power State Coordination Interface - Platform Design Document\nSMC Calling Convention\ni.MX 8DualX/8DualXPlus/8QuadXPlus Applications Processor Reference Manual\nArmv8-A Address Translation\nSD Simplified Specification Part 1 (Physical Layer)\nFAT32 Specification",
+      "source_url": "https://courses.cs.washington.edu/courses/cse481a/25sp/"
+    },
+  "CSE481C": {
+      "course_description": "This course is a project-based introduction to robotics, focusing on developing assistive robot caregivers. Students will work in teams to design and implement functionalities on the Stretch 2 mobile manipulator to assist disadvantaged user groups, such as older adults or persons with disabilities. The course covers robot motion, navigation, perception, planning, and interaction through mini-lectures, labs, and assignments, culminating in integrated autonomous or semi-autonomous robotic functionalities.",
+      "learning_goals": "Identify real-world problems where robots are the appropriate solution.\nUtilize and contribute to the Robot Operating System (ROS) framework.\nUnderstand and apply basic concepts of robot perception, navigation, manipulation, and planning.\nDevelop and integrate complex robot software.\nSafely operate robot hardware.\nRecognize the importance of interface design and robustness in robotics.",
+      "topics_covered": "Introduction to Robotics and ROS\nRobot Motion and Navigation\nPerception and Sensor Integration\nManipulation and Planning\nHuman-Robot Interaction\nAssistive Robotics Applications\nProject Management and Team Collaboration\nUser-Centered Design and Evaluation\nEthical Considerations in Robotics",
+      "tools": "Robot Operating System (ROS)\nStretch 2 Mobile Manipulator\nUbuntu Workstations\nGitHub for Version Control\n3D Printing and Laser Cutting tools\nAdditional Sensors and Peripherals as Needed",
+      "source_url": "https://sites.google.com/cs.washington.edu/cse481c-sp23/syllabus?authuser=0"
+  },
+  "CSE481D": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse481ds"
+  },
+  "CSE481DS": {
+    "course_description": "Data analysis is a central activity for scientific research and is increasingly a critical part of decision making in government and business. However, producing reliable data analysis outcomes is challenging since the decisions made throughout the analysis process can dramatically affect the eventual outcome. This Data Science Capstone focuses on the complete end-to-end process of data analysis performed with code: the iterative, and often exploratory, steps that analysts go through to turn data into results. Our focus is not limited to statistical modeling or machine learning, but rather the complete process, including transformation, exploration, modeling, and evaluation choices.",
+    "learning_goals": "Experience the end-to-end data analysis process from transformation and exploration of data to modeling and evaluation.\nIndependently apply knowledge from previous courses in the context of a comprehensive data science project.\nCollaboratively explore data and implement a complete data analysis workflow.\nCritically assess and refine data science processes to answer specific questions.",
+    "topics_covered": "Introduction, Project Pitches, and Group Assignment\nData Science Process and Objectives\nData Science by Example\nData Science at Scale\nCommunicating Data Science through Visualization\nMidpoint Project Presentations and Feedback\nData Science through Causal Inference I\nData Science through Causal Inference II\nTechnical Writing for Data Science\nFinal Project Presentations and Feedback",
+    "tools": "Python\nJupyter Notebooks\nPandas\nNumPy\nMatplotlib\nSeaborn\nSpark\nGoogle Colab\nGitHub",
+    "source_url": "https://courses.cs.washington.edu/courses/cse481ds/24au/index.html#content"
+  },
+  "CSE481L": {
+    "course_description": "This capstone explores the design and development of interactive technologies that integrate language models in providing AI-based interactive capabilities. Students will explore creating human-AI interactions that address real-world needs and tasks, applying principles from human-centered design in support of those interactions.",
+    "learning_goals": "Explore creating human-AI interactions that address real-world needs and tasks.\nApply principles from human-centered design in developing AI-based interactive technologies.\nEngage in student-led discussions of current challenges and approaches in human-AI interaction.\nUndertake a group project exploring vertical prototyping of human-AI interactions.",
+    "topics_covered": "Paper Presentations\nTechnology Lab\nProject\nHuman-Centered Design with AI\nInteractive Technologies Integrating Language Models\nVertical Prototyping of Human-AI Interactions\nCurrent Challenges and Approaches in Human-AI Interaction",
+    "tools": "Python\nAI-based APIs and Frameworks\nHuman-Centered Design tools\nPrototyping Platforms\nVersion Control Systems (e.g., GitLab)",
+    "source_url": "https://courses.cs.washington.edu/courses/cse481l/25sp/"
+  },
+  "CSE481N": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse481n"
+  },
+  "CSE481NE": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE481P": {
+    "course_description": "This course is primarily oriented around producing a capstone project as a group. Every class will incorporate some dedicated time to work on the project, and there will be group assignments due at regular milestones. Groups will be formed during the first week of class. Groups will be expected to give updates to the rest of the class throughout the quarter after milestones and gather feedback. Each group will also be expected to have at least one 10-minute check-in per week with the instructor or TA during group work time. The project will culminate in a Final Showcase where students can demo their projects to the public.",
+    "learning_goals": "Understand the major issues and societal debates facing social computing systems today and the state of the art in how to address them.\nUnderstand important considerations for designing a social computing system.\nCritically evaluate social computing systems encountered in the world.\nUse an iterative and human-centered design workflow to design and build a complex user-facing social system.\nSelect and apply appropriate user research and testing methods.\nApply computer science skills gained in other courses towards deploying a complete project, including code and design specifications and feasibility analysis.\nPractice working with other students in a team and gain strategies for successful teamwork.",
+    "topics_covered": "Capstone Project\nIn-class Lectures, Discussion, and Activities\nReading and Reflections\nAssignments\nGuest Lectures\nFinal Showcase",
+    "tools": "Hypothes.is\nCanvas\nCollaborative Annotation tools\nVersion Control Systems\nPrototyping tools",
+    "source_url": "https://courses.cs.washington.edu/courses/cse481p/24wi/syllabus/"
+  },
+  "CSE481S": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE481V": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse481v"
+  },
+  "CSE482B": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE484": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse484"
+  },
+  "CSE492": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE492C": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE492J": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE492L": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE492P1": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE493C": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE493E": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE493F": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE493G1": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE493H": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE493Q": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse493q",
+    "url2": "https://courses.cs.washington.edu/courses/cse493q/23sp"
+  },
+  "CSE493S": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE493V": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse493v"
+  },
+  "CSE493W": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE493X": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse493x"
+  },
+  "CSE142": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data.",
+    "source_url": "https://courses.cs.washington.edu/courses/cse142/22wi/syllabus.html"
+  },
+  "CSE143X": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  },
+  "CSE154": {
+    "course_description": "no data.",
+    "learning_goals": "no data.",
+    "topics_covered": "no data.",
+    "tools": "no data."
+  }
+}

@@ -1,0 +1,80 @@
+﻿Course Code,Course Title,Quarter Offered,Credits,Gen Ed Req,Course Descriptions
+CSE121,Introduction to Computer Programming ICourse,WI 25Winter 202522 sections offered,44 credits,NSc and RSN,Description not found
+CSE122,Introduction to Computer Programming IICourse,WI 25Winter 202534 sections offered,44 credits,NSc and RSN,Description not found
+CSE123,Introduction to Computer Programming IIICourse,WI 25Winter 202530 sections offered,44 credits,NSc and RSN,Description not found
+CSE143,Computer Programming IICoursePrerequisite: CSE 142.,WI 25Winter 20252 sections offered,55 credits,NSc and RSN,Description not found
+CSE160,Data ProgrammingCourse,WI 25Winter 20259 sections offered,44 credits,NSc and RSN,Description not found
+CSE163,"Intermediate Data ProgrammingCoursePrerequisite: Either CSE 122, CSE 123, CSE 142, CSE 143, or CSE 160.",WI 25Winter 202516 sections offered,44 credits,RSN,Description not found
+CSE190,Current Topics in Computer Science and EngineeringCourse,WI 25Winter 20254 sections offered,1-51-5 credits,,Description not found
+CSE311,Foundations of Computing ICoursePrerequisite: A minimum grade of 2.0 in either CSE 123 or CSE 143; and MATH 126 or MATH 136.,WI 25Winter 20257 sections offered,44 credits,RSN,Description not found
+CSE312,Foundations of Computing IICoursePrerequisite: CSE 311.,WI 25Winter 202513 sections offered,44 credits,RSN,Description not found
+CSE331,Software Design and ImplementationCoursePrerequisite: A minimum grade of 2.0 in either CSE 123 or CSE 143.,WI 25Winter 20257 sections offered,44 credits,,Description not found
+CSE332,Data Structures and ParallelismCoursePrerequisite: CSE 311.,WI 25Winter 202511 sections offered,44 credits,,Description not found
+CSE333,Systems ProgrammingCoursePrerequisite: CSE 351.,WI 25Winter 20258 sections offered,44 credits,,Description not found
+CSE341,Programming LanguagesCoursePrerequisite: CSE 123 or CSE 143.,WI 25Winter 20253 sections offered,44 credits,,Description not found
+CSE344,Introduction to Data ManagementCoursePrerequisite: CSE 311.,WI 25Winter 20255 sections offered,44 credits,,Description not found
+CSE351,The Hardware/Software InterfaceCoursePrerequisite: CSE 123 or CSE 143.,WI 25Winter 202511 sections offered,44 credits,,Description not found
+CSE369,Introduction to Digital DesignCoursePrerequisite: CSE 311.,WI 25Winter 20251 section offered,33 credits,,Description not found
+CSE371,Design of Digital Circuits and SystemsCoursePrerequisite: Either E E 205 or E E 215; either E E 271 or CSE 369.,WI 25Winter 20251 section offered,55 credits,,Description not found
+CSE373,Data Structures and AlgorithmsCoursePrerequisite: CSE 123 or CSE 143.,WI 25Winter 202510 sections offered,44 credits,,Description not found
+CSE390,Special Topics in Computer Science and EngineeringCourse,WI 25Winter 20253 sections offered,1-51-5 credits,,Description not found
+CSE391,"System and Software ToolsCoursePrerequisite: Either CSE 122, CSE 123, or CSE 143.",WI 25Winter 20252 sections offered,11 credits,,Description not found
+CSE403,Software EngineeringCoursePrerequisite: CSE 331; CSE 332.,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE412,"Introduction to Data VisualizationCoursePrerequisite: Either CSE 123, CSE 143, or CSE 163.",WI 25Winter 20258 sections offered,44 credits,,Description not found
+CSE414,"Introduction to Database SystemsCoursePrerequisite: A minimum grade of 2.5 in either CSE 123, CSE 143, or CSE 163.",WI 25Winter 202510 sections offered,44 credits,,Description not found
+CSE415,Introduction to Artificial IntelligenceCoursePrerequisite: CSE 373.,WI 25Winter 20251 section offered,33 credits,NSc,Description not found
+CSE416,"Introduction to Machine LearningCoursePrerequisite: Either CSE 123, CSE 143, CSE 160, or CSE 163; and either STAT 311, STAT 390, STAT 391, IND E 315, MATH 394/STAT 394, STAT 395/MATH 395, or Q SCI 381.",WI 25Winter 202510 sections offered,44 credits,NSc,Description not found
+CSE421,Introduction to AlgorithmsCoursePrerequisite: CSE 312; CSE 332.,WI 25Winter 20256 sections offered,33 credits,,Description not found
+CSE422,Toolkit for Modern AlgorithmsCoursePrerequisite: CSE 312; CSE 332; and MATH 208.,WI 25Winter 20251 section offered,33 credits,,Description not found
+CSE426,CryptographyCoursePrerequisite: CSE 312.,WI 25Winter 20252 sections offered,44 credits,,Description not found
+CSE431,Introduction to Theory of ComputationCoursePrerequisite: CSE 312.,WI 25Winter 20251 section offered,33 credits,,Description not found
+CSE440,"Introduction to HCI: User Interface Design, Prototyping, and EvaluationCoursePrerequisite: CSE 332.",WI 25Winter 20254 sections offered,55 credits,,Description not found
+CSE442,Data VisualizationCoursePrerequisite: CSE 332.,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE444,Database Systems InternalsCoursePrerequisite: CSE 332; and either CSE 344 or CSE 414.,WI 25Winter 20254 sections offered,44 credits,,Description not found
+CSE446,"Machine LearningCoursePrerequisite: CSE 332; MATH 208 or MATH 136; and either STAT 390, STAT 391, or CSE 312.",WI 25Winter 20256 sections offered,44 credits,,Description not found
+CSE447,Natural Language ProcessingCoursePrerequisite: CSE 312 and CSE 332.,WI 25Winter 20255 sections offered,44 credits,,Description not found
+CSE451,Introduction to Operating SystemsCoursePrerequisite: CSE 351; CSE 332; CSE 333.,WI 25Winter 20253 sections offered,44 credits,,Description not found
+CSE452,Introduction to Distributed SystemsCoursePrerequisite: CSE 332 and CSE 333.,WI 25Winter 20255 sections offered,44 credits,,Description not found
+CSE455,Computer VisionCoursePrerequisite: CSE 333; CSE 332.,WI 25Winter 20252 sections offered,44 credits,,Description not found
+CSE457,Computer GraphicsCoursePrerequisite: CSE 333; CSE 332.,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE460,"Animation CapstoneCoursePrerequisite: CSE 458, CSE 459.",WI 25Winter 20251 section offered,55 credits,,Description not found
+CSE461,Introduction to Computer-Communication NetworksCoursePrerequisite: Either CSE 326 or CSE 332; either CSE 303 or CSE 333.,WI 25Winter 20253 sections offered,44 credits,,Description not found
+CSE469,Computer Architecture ICoursePrerequisite: Either E E 271 or CSE 369; and either CSE 123 or CSE 143.,WI 25Winter 20251 section offered,55 credits,,Description not found
+CSE473,Introduction to Artificial IntelligenceCoursePrerequisite: CSE 312 and CSE 332.,WI 25Winter 20251 section offered,33 credits,,Description not found
+CSE474,Introduction to Embedded SystemsCoursePrerequisite: CSE 123 or CSE 143,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE475,Embedded Systems CapstoneCoursePrerequisite: E E 271 or CSE 369; and E E 472 or CSE 474/E E 474.,WI 25Winter 20251 section offered,55 credits,,Description not found
+CSE478,Autonomous RoboticsCoursePrerequisite: CSE 332.,WI 25Winter 20252 sections offered,44 credits,,Description not found
+CSE480,Computer Ethics SeminarCourse,WI 25Winter 20251 section offered,1-31-3 credits,DIV,Description not found
+CSE481,"Capstone Software DesignCoursePrerequisite: CSE 312; CSE 332; CSE 351; and either CSE 331, CSE 333, or CSE 369.",WI 25Winter 20252 sections offered,55 credits,,Description not found
+CSE482,Capstone Software Design to Empower Underserved PopulationsCoursePrerequisite: CSE 332; CSE 351; either CSE 331 or CSE 352.,WI 25Winter 20251 section offered,55 credits,DIV,Description not found
+CSE484,Computer SecurityCoursePrerequisite: CSE 332; CSE 351.,WI 25Winter 20254 sections offered,44 credits,,Description not found
+CSE490,Special Topics in Computer Science and EngineeringCourse,WI 25Winter 20252 sections offered,1-51-5 credits,,Description not found
+CSE492,Undergraduate SeminarCourse,WI 25Winter 20255 sections offered,1-21-2 credits,,Description not found
+CSE493,Advanced Special Topics in Computer Science and EngineeringCourse,WI 25Winter 20251 section offered,1-51-5 credits,,Description not found
+CSE495,Project PracticumCourse,WI 25Winter 20251 section offered,1-51-5 credits,,Description not found
+CSE496,Honors Undergraduate ResearchCourse,WI 25Winter 20251 section offered,1-91-9 credits,,Description not found
+CSE498,Undergraduate ResearchCourse,WI 25Winter 20251 section offered,1-91-9 credits,,Description not found
+CSE499,Reading and ResearchCourse,WI 25Winter 20251 section offered,1-241-24 credits,,Description not found
+CSE503,Software EngineeringCourse,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE510,Advanced Topics in Human-Computer InteractionCourse,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE517,Natural Language ProcessingCourse,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE519,Current Research in Computer ScienceCourse,WI 25Winter 20251 PCE section offered,11 credits,,Description not found
+CSE519,Current Research in Computer ScienceCourse,WI 25Winter 20253 sections offered,11 credits,,Description not found
+CSE520,Computer Science ColloquiumCourse,WI 25Winter 20252 sections offered,11 credits,,Description not found
+CSE520,Computer Science ColloquiumCourse,WI 25Winter 20251 PCE section offered,11 credits,,Description not found
+CSE546,"Machine LearningCoursePrerequisite: Either CSE 312, STAT 341, STAT 391 or equivalent.",WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE550,Computer SystemsCoursePrerequisite: CSE 451.,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE556,Computational FabricationCourse,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE564,Computer Security and PrivacyCourse,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE567,Principles of Digital Systems DesignCoursePrerequisite: Basic knowledge of logic design.,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE577,Special Topics in Computer VisionCoursePrerequisite: CSE 576/E E 576.,WI 25Winter 20251 section offered,33 credits,,Description not found
+CSE578,"Convex OptimizationCoursePrerequisite: A A 510, CHEM E 510, E E 510, or M E 510.",WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE582,Ethics in Artificial IntelligenceCoursePrerequisite: CSE 446 or CSE 546.,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE589,Software EntrepreneurshipCourse,WI 25Winter 20251 section offered,44 credits,,Description not found
+CSE590,Research SeminarCourse,WI 25Winter 202521 sections offered,1-251-25 credits,,Description not found
+CSE591,Group Projects in Computer ScienceCourse,WI 25Winter 20259 sections offered,1-31-3 credits,,Description not found
+CSE599,Special Topics in Computer ScienceCourse,WI 25Winter 20255 sections offered,1-51-5 credits,,Description not found
+CSE600,Independent Study or ResearchCourse,WI 25Winter 20251 section offered,1-251-25 credits,,Description not found
+CSE601,InternshipCourse,WI 25Winter 20251 section offered,1-21-2 credits,,Description not found
+CSE700,Master's ThesisCourse,WI 25Winter 20251 section offered,1-251-25 credits,,Description not found
+CSE800,Doctoral DissertationCourse,WI 25Winter 20251 section offered,2025-01-01 00:00:00,,Description not found
