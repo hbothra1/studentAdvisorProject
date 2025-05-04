@@ -1,7 +1,7 @@
 #formats the job description, student transcript, and course descriptions into a single prompt
 from openai import OpenAI
-
-client = OpenAI(api_key="Your OpenAI keyQcP8vb0r2Zo-FSpCbQuHwIQY4PxsoV4Y8fkI3KqWvWyHW3W_7oe5hoydoo_HRiB0zulrcjp7T3BlbkFJ9WFqsSl-YZnte-j1IDY6u0cLVpOpFPh4CEbVB-YZgCGUgzAIawK2SoshjIJb3vdq9HES-w3SkA")
+import os
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 import json
 import pandas as pd
 import tiktoken
