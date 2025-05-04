@@ -1,7 +1,0 @@
-Course Goals
-By the end of this course, you will be able to:Read and write statements involving combinatorics and probability (including conditioning and both discrete and continuous probabilities).Model situations with appropriate probability tools (including standard random variables).Calculate and estimate probabilities using standard tools (including Bayes Rule, the Central Limit Theorem, and concentration inequalities).Understand and use discrete, continuous, and multi-variable probability distributions.Write short Python programs to simulate simple random processes.
-Read and write statements involving combinatorics and probability (including conditioning and both discrete and continuous probabilities).
-Model situations with appropriate probability tools (including standard random variables).
-Calculate and estimate probabilities using standard tools (including Bayes Rule, the Central Limit Theorem, and concentration inequalities).
-Understand and use discrete, continuous, and multi-variable probability distributions.
-Write short Python programs to simulate simple random processes.

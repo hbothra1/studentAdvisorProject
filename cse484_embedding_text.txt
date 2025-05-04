@@ -1,3 +1,0 @@
-Topics
-In this course, we will cover topics including: the "security mindset", threat modeling, software security, cryptography, malware, web security, web privacy, smartphone security, authentication, usable security, anonymity, physical security, and security for emerging technologies.
-For more details, see thecourse schedule.

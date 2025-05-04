@@ -1,7 +1,0 @@
-Course Goals¶
-The world has become data-driven. Domain scientists and industry increasingly rely on data analysis to drive innovation and discovery; this reliance on data is not only restricted to science or business, but also is crucial to those in government, public policy, and those wanting to be informed citizens. As the size of data continues to grow, everyone will need to use powerful tools to work with that data.
-CSE 160 is an introductory programming class that meets this need. You will learn to write small programs in Python to solve real-world problems in science, engineering, business, and other fields. This will be useful in your classes, research, and jobs.
-In this course:
-You will learncomputational problem-solving. If given a data source and problem description, you will be able to write a complete, useful program to solve the problem.
-You will learnPython, a popular and general-purpose programming languages that includes libraries for data manipulation, scientific computing, and visualization.
-Assignments will usereal datasetsfrom fields such as biology, government, social networks, and more.

@@ -1,2 +1,0 @@
-Overview
-The class covers the following topics: Displays, Image processing, Affine transformations, Hierarchical modeling, Projections, Shading, Ray tracing, Texture mapping, Curves, Particle systems, Surfaces, and Animation.

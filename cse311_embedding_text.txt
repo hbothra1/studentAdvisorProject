@@ -1,8 +1,0 @@
-Course Goals
-By the end of this course, you will be able to:Convert ideas between logical syntax and natural language.Write a proof (that is, a rigorous argument) of simple statements (for example, that your code is correct or efficient).Write proofs by induction, contrapositive, and contradiction.Identify common mistakes in proofs.Understand and analyze mathematical models of computation (including regular expressions and context free grammars).
-Convert ideas between logical syntax and natural language.
-Write a proof (that is, a rigorous argument) of simple statements (for example, that your code is correct or efficient).
-Write proofs by induction, contrapositive, and contradiction.
-Identify common mistakes in proofs.
-Understand and analyze mathematical models of computation (including regular expressions and context free grammars).
-Communication is a key aspect of this course. A proof is not simply correct or incorrect; it is an act of communication to an intended audience. For this reason, the production of clear, convincing, and unambiguous writing is a key aspect of this course.

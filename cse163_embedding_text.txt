@@ -1,7 +1,0 @@
-Course Description
-The world has become data-driven. Domain scientists and industry increasingly rely on data analysis to drive innovation and discovery; this reliance on data is not only restricted to science or business, but also is crucial to those in government, public policy, and those wanting to be informed citizens. As the size of data continues to grow, everyone will need to use powerful tools to work with that data.
-In this course, students will learn:
-More advanced programming conceptsincluding how to compose programs with multiple modules.How to work with different types of data: tabular data, text data, image data, geospatial data, etc.Data science tools and librariesincludingJupyter Notebook,scikit-image,scikit-learn, andPandas.Software engineering skillsincluding asymptotic analysis, data settings, and data ethics.
-How to work with different types of data: tabular data, text data, image data, geospatial data, etc.Data science tools and librariesincludingJupyter Notebook,scikit-image,scikit-learn, andPandas.Software engineering skillsincluding asymptotic analysis, data settings, and data ethics.
-Data science tools and librariesincludingJupyter Notebook,scikit-image,scikit-learn, andPandas.Software engineering skillsincluding asymptotic analysis, data settings, and data ethics.
-Software engineering skillsincluding asymptotic analysis, data settings, and data ethics.
