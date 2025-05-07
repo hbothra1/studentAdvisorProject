@@ -1,18 +1,20 @@
+from config import DB_PATH
 from flask import Flask, request, jsonify, session
 from flask_cors import CORS, cross_origin
-from jobDescriptionAnalyser import parse_job_description_pdf, parse_job_description_text, save_to_json as save_job_description_to_json
+from jobDescriptionAnalyser import parse_job_description_pdf, save_to_json as save_job_description_to_json
 from Transcript_Analyzer import extract_transcript_data, save_to_json as save_transcript_to_json
 from model_Interactor import generate_advisory_prompt, send_prompt_to_openai, get_shortlisted_course_details
 from prereq_checker import check_prerequisites
-from scripts.jd_processor import embed_reorganized_jd, match_jd_to_courses, rearrange_jd_with_gpt, match_jd_to_courses_combinedembedding
-from utils.analysis_utils import get_top_course_counts_across_rankings, get_unique_courses_in_top_rankings
+from scripts.jd_processor import embed_reorganized_jd, rearrange_jd_with_gpt, match_jd_to_courses_combinedembedding
+from utils.analysis_utils import get_unique_courses_in_top_rankings
 from utils.embedding_utils import load_course_embeddings
 import sqlite3
 import json
 
 app = Flask(__name__)
 app.secret_key = "supersecretkey"  # Needed for session storage
-db_path = r'/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/course_database.db'  # Update with actual path
+
+db_path = DB_PATH
 CORS(app, resources={r"/*": {"origins": ["http://localhost:5173"], "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"], "allow_headers": ["Content-Type"]}})
 
 def get_db_connection():

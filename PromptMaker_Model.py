@@ -9,13 +9,15 @@ import re
 import pandas as pd
 # import openai
 import tiktoken
+from config import DB_PATH
 #from transformers import pipeline
 
 # Modify these paths to where the files are located in the Google Colab environment
 job_description_path = r'/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/job_description_softwareengineering.json'
 transcript_json_path = r'/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/transcript_json2_CSE.json'
 course_list_path = r'/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/Updated_Courses_No_Descriptions_Final_OnlyUndergrad.csv'
-db_path = r'/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/course_database.db'
+db_path = DB_PATH
+
 
 # Load the job description JSON
 with open(job_description_path) as f:

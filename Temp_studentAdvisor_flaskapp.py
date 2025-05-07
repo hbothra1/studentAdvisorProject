@@ -3,10 +3,10 @@ from studentAdvisorProject.jobDescriptionAnalyser import parse_job_description, 
 from studentAdvisorProject.Transcript_Analyzer import extract_transcript_data
 from studentAdvisorProject.model_Interactor import generate_advisory_prompt, send_prompt_to_openai
 from studentAdvisorProject.prereq_checker import check_prerequisites
-
+from config import DB_PATH
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'
-db_path = 'path_to_your_database.db'  # Define the path to your database
+db_path = DB_PATH
 
 @app.route("/upload_transcript", methods=["POST"])
 def upload_transcript():
@@ -37,19 +37,19 @@ def upload_job_description():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-@app.route("/generate_AIresponse", methods=["POST"])
-def generate_prompt():
-    try:
-        job_description_json = session.get("job_description_json")
-        student_transcript = session.get("transcript_json")
-        if not job_description_json or not student_transcript:
-            return jsonify({"error": "Missing job description or transcript data"}), 400
-        prompt = generate_advisory_prompt(job_description_json, student_transcript)
-        recommendations = send_prompt_to_openai(prompt)
-        prerequisites = check_prerequisites(recommendations, student_transcript, db_path)
-        return jsonify({"recommended_courses": prerequisites})
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+# @app.route("/generate_AIresponse", methods=["POST"])
+# def generate_prompt():
+#     try:
+#         job_description_json = session.get("job_description_json")
+#         student_transcript = session.get("transcript_json")
+#         if not job_description_json or not student_transcript:
+#             return jsonify({"error": "Missing job description or transcript data"}), 400
+#         prompt = generate_advisory_prompt(job_description_json, student_transcript)
+#         recommendations = send_prompt_to_openai(prompt)
+#         prerequisites = check_prerequisites(recommendations, student_transcript, db_path)
+#         return jsonify({"recommended_courses": prerequisites})
+#     except Exception as e:
+#         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
     app.run(debug=True)

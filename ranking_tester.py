@@ -5,8 +5,9 @@ from scripts.jd_processor import rearrange_jd_with_gpt, embed_reorganized_jd, ma
 from utils.embedding_utils import get_embedding, compare_embeddings, load_course_embeddings as load_course_embeddings_fromutils
 from datetime import datetime
 import os
+from config import DB_PATH
 
-DB_PATH = '/Users/hemantbothra/Library/CloudStorage/GoogleDrive-hbothra1@gmail.com/My Drive/Projects/studentAdvisorProject/course_database.db'
+
 TABLE_NAME = "embeddings"
 
 def is_valid_course(course_code):
