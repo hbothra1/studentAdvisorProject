@@ -15,7 +15,7 @@ app = Flask(__name__)
 app.secret_key = "supersecretkey"  # Needed for session storage
 
 db_path = DB_PATH
-CORS(app, resources={r"/*": {"origins": ["http://localhost:5173"], "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"], "allow_headers": ["Content-Type"]}})
+CORS(app, resources={r"/*": {"origins": ["studentadvisor.hemantbothra.com","https://studentadvisorproject.onrender.com", "http://localhost:5173"], "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"], "allow_headers": ["Content-Type"]}})
 
 def get_db_connection():
     """Establish a connection to the SQLite database."""
@@ -209,29 +209,29 @@ def generate_recommendation():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-def recommend_courses_raw():
-    """
-    Endpoint to generate course recommendations using OpenAI.
-    Expects job description and uses transcript stored in session.
-    """
-    try:
-        data = request.get_json()
-        job_description = data.get("job_description")
-        student_transcript = session.get("transcript_json")  # Use session value
+# def recommend_courses_raw():
+#     """
+#     Endpoint to generate course recommendations using OpenAI.
+#     Expects job description and uses transcript stored in session.
+#     """
+#     try:
+#         data = request.get_json()
+#         job_description = data.get("job_description")
+#         student_transcript = session.get("transcript_json")  # Use session value
 
-        if not student_transcript:
-            return jsonify({"error": "No transcript data found in session. Please upload a transcript first."}), 400
+#         if not student_transcript:
+#             return jsonify({"error": "No transcript data found in session. Please upload a transcript first."}), 400
 
-        # Generate the prompt
-        prompt = generate_advisory_prompt(job_description, student_transcript)
+#         # Generate the prompt
+#         prompt = generate_advisory_prompt(job_description, student_transcript)
 
-        # Send prompt to OpenAI API
-        recommendations = send_prompt_to_openai(prompt)
-        prerequisite_recommendations = check_prerequisites(recommendations, student_transcript, db_path)
-        return jsonify({"recommended_courses": recommendations, "prerequisites": prerequisite_recommendations})
+#         # Send prompt to OpenAI API
+#         recommendations = send_prompt_to_openai(prompt)
+#         prerequisite_recommendations = check_prerequisites(recommendations, student_transcript, db_path)
+#         return jsonify({"recommended_courses": recommendations, "prerequisites": prerequisite_recommendations})
 
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+#     except Exception as e:
+#         return jsonify({"error": str(e)}), 500
 
 @app.route("/check_prerequisites", methods=["POST"])
 @cross_origin()
@@ -256,27 +256,27 @@ def check_prerequisites_api():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-@app.route("/transcript_analyzer", methods=["POST"])
-@cross_origin()
-def transcript_analyzer():
-    """
-    Endpoint to upload a PDF transcript, extract text, and convert it into structured JSON.
-    """
-    if "file" not in request.files:
-        return jsonify({"error": "No file part"}), 400
+# @app.route("/transcript_analyzer", methods=["POST"])
+# @cross_origin()
+# def transcript_analyzer():
+#     """
+#     Endpoint to upload a PDF transcript, extract text, and convert it into structured JSON.
+#     """
+#     if "file" not in request.files:
+#         return jsonify({"error": "No file part"}), 400
     
-    file = request.files["file"]
-    if file.filename == "":
-        return jsonify({"error": "No selected file"}), 400
+#     file = request.files["file"]
+#     if file.filename == "":
+#         return jsonify({"error": "No selected file"}), 400
     
-    filepath = f"/tmp/{file.filename}"
-    file.save(filepath)
+#     filepath = f"/tmp/{file.filename}"
+#     file.save(filepath)
     
-    # Extract transcript data
-    transcript_json = extract_transcript_data(filepath)
-    session["transcript_json"] = transcript_json  # Store JSON in session
+#     # Extract transcript data
+#     transcript_json = extract_transcript_data(filepath)
+#     session["transcript_json"] = transcript_json  # Store JSON in session
     
-    return jsonify({"message": "Transcript uploaded and processed", "transcript_json": transcript_json})
+#     return jsonify({"message": "Transcript uploaded and processed", "transcript_json": transcript_json})
 
 if __name__ == "__main__":
     app.run(port=5000)  # Runs locally on http://127.0.0.1:5000

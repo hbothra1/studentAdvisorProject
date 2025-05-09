@@ -11,7 +11,8 @@ __pycache__/
 *.docx
 *.gdoc
 *.gsheet
-*.txt
+*.txt 
+!requirements.txt
 *.log
 *.pdf
 *.csvB
