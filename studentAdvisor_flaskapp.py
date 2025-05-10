@@ -83,8 +83,14 @@ def process_transcript_json():
         if not data:
             return jsonify({"error": "No JSON data provided"}), 400
             
-        transcript_json = data
+        if data.get("text") == "no_transcript":
+            transcript_json = "no transcript"
+        else:
+            transcript_json = data
+            
         session["transcript_json"] = transcript_json
+        
+        print(f"Transcript JSON value before return: {session['transcript_json']}")
         
         return jsonify({
             "message": "Transcript JSON processed successfully",
@@ -131,7 +137,7 @@ def process_job_description_text():
         # job_text = data["text"]
         
         session["job_description_string"] = data["text"]
-        
+        print(session["job_description_string"])
         return jsonify({
             "message": "Job description text processed successfully"
         })
@@ -277,6 +283,22 @@ def check_prerequisites_api():
 #     session["transcript_json"] = transcript_json  # Store JSON in session
     
 #     return jsonify({"message": "Transcript uploaded and processed", "transcript_json": transcript_json})
+
+@app.route("/check_session_variables", methods=["GET"])
+@cross_origin()
+def check_session_variables():
+    try:
+        transcript_json = session.get("transcript_json")
+        job_description_string = session.get("job_description_string")
+        
+        return jsonify({
+            "has_transcript": bool(transcript_json),
+            "has_job_description": bool(job_description_string),
+            "transcript_preview": transcript_json if transcript_json else None,
+            "job_description_preview": job_description_string[:100] + "..." if job_description_string else None
+        })
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
     app.run(port=5000)  # Runs locally on http://127.0.0.1:5000
